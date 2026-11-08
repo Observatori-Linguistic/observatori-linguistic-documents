@@ -1,0 +1,12 @@
+---
+codi: 08024182
+centre: Sagrada Família
+municipi: Sabadell
+origen: web del centre (no és el projecte lingüístic)
+fonts: https://www.safasabadell.com/infantil
+descarregat: 2026-11-06
+---
+
+## Font 1: https://www.safasabadell.com/infantil
+
+--> Infantil | SAFA Sabadell top of page Infantil L’etapa d’Educació Infantil és un moment clau en el desenvolupament global dels infants. A la nostra escola, els acompanyem de manera respectuosa i individualitzada, tot respectant els seus ritmes d’aprenentatge i fomentant l’autonomia, la creativitat i l’educació emocional. En un entorn acollidor, càlid i inclusiu, els infants aprenen a través del joc i l’exploració, mentre desenvolupen habilitats personals, socials, motrius i cognitives que posen les bases per a les competències bàsiques del seu futur. Què ens diferencia Escola plurilingüe Iniciem l’aprenentatge de llengües des de ben petits, amb el català com a eix, l’anglès des d’I3 i el castellà a través d’activitats orals i vivencials. Tutoria La tutora acompanya cada infant amb proximitat i afecte, vetllant pel seu benestar i desenvolupament. Manté una comunicació constant amb les famílies per afavorir un creixement segur, autònom i feliç. Educació en valors Fomentem valors com el respecte, la solidaritat i l’amistat a través d’accions quotidianes, el Bon dia i celebracions que ens acosten a Jesús i a la beata Anna Maria Janer. DIAP - Logopèdia A I5 fem proves de llenguatge per detectar dificultats en la parla i la comprensió, intervenint a l’escola per garantir un desenvolupament comunicatiu òptim. EMAT Treballem les matemàtiques de forma manipulativa i vivencial perquè els infants gaudeixin aprenent, desenvolupant el pensament lògic, la creativitat i la curiositat. Treball de les emocions Treballem les emocions a través de contes i activitats vivencials que ajuden els infants a identificar, expressar i gestionar el que senten, fomentant el benestar i la convivència. Metodologia A Infantil situem l’infant al centre de l’aprenentatge, respectant els seus ritmes i maneres de descobrir el món. Utilitzem materials propis dissenyats per treballar les àrees psicomotriu, lingüística i matemàtica, i combinem metodologies com els ambients d’aprenentatge, el treball per projectes i els desdoblaments en grups reduïts. D’aquesta manera fomentem la curiositat, l’autonomia, la creativitat i una atenció més personalitzada per a cada nen i nena. Així són els ambients a Infantil! bottom of page
