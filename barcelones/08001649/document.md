@@ -1,0 +1,1088 @@
+---
+codi: 08001649
+centre: Escola Mossèn Jacint Verdaguer
+municipi: Barcelona
+font: https://docs.google.com/document/d/1JP11o-3vF-KWtjWC-jgn-HXNJmdZGjRXbqNK_CoDTSI/edit?usp=sharing
+descarregat: 2026-10-20
+sha256: 5091586bb6c10f8c4f5f2be81c692f51aa549225f17a2da26226ba1d9b5ca969
+---
+
+﻿PROJECTE LINGÜÍSTIC
+
+______________________________
+
+ESCOLA MN JACINT VERDAGUER
+
+
+
+
+
+JUNY 2022
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.-INTRODUCCIÓ : JUSTIFICACIÓ I MARC LEGAL        2
+
+2- OBJECTIUS GENERALS DEL SISTEMA EDUCATIU        4
+
+3-  ANÀLISI DEL CONTEXT        5
+
+3.1 -  Bagatge lingüístic de l’alumnat i les seves necessitats individuals vinculades als seus  resultats acadèmics        6
+
+3.2 - Competència lingüística del professorat (acreditacions de coneixements de llengües)        8
+
+3.3 - Places docents amb perfil professional        8
+
+4-  OFERTA DE LLENGÜES ESTRANGERES        8
+
+5- OBJECTIUS EN RELACIÓ AMB  L’APRENENTATGE I L’ÚS DE LES LLENGÜES        9
+
+6-  CRITERIS METODOLÒGICS I ORGANITZATIUS EN RELACIÓ A L’APRENENTATGE DE LES LLENGÜES        10
+
+6.1  Criteris generals        10
+
+6.2  Educació Infantil. Comunitat petita        11
+
+6.3  Primària. Comunitat Mitjana (1r, 2n i 3r)        12
+
+6.4. Primària. Comunitat gran (4t, 5è i 6è)        15
+
+6.5  Distribució per cicles de les diferents tipologies textuals.        16
+
+6.6. Utilització de les TIC en l’aprenentatge de les llengües        17
+
+6.7 La música com a eix transversal per millorar l’ús de la llengua        17
+
+7- RECURSOS I ACCIONS COMPLEMENTARIS        20
+
+7.1  Aula d’acollida        20
+
+7.2  Suport lingüístic i social        21
+
+7.3. Les accions complementàries        21
+
+7.3.1 Pla de barris        21
+
+7.3.2 Projecte ERASMUS+ e-TWINNING ( acció d’internacionalització de  l’educació)        21
+
+7.3.3 Projecte Gresol Cultural        22
+
+8-  LA COMUNICACIÓ INTERNA I LA RELACIÓ AMB L’ENTORN        22
+
+9-  LA FORMACIÓ I L’ACREDITACIÓ LINGÜÍSTICA DEL PROFESSORAT        23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.-INTRODUCCIÓ : JUSTIFICACIÓ I MARC LEGAL
+
+
+
+
+
+L’escola, com a institució viva que és, té al davant importants reptes a partir  dels grans canvis socials, demogràfics i  tecnològics que comporta  el món contemporani.
+
+Com ha de ser l’ensenyament i l’aprenentatge que doni resposta eficaç a tot plegat implica un treball reflexionat , realista i coherent davant la realitat de cada centre. 
+
+
+
+
+
+A través del llenguatge és com els infants arriben a la socialització i és el mitjà a través del qual els éssers humans ens podem comunicar. El nivell d’adquisició de la competència lingüística en els infants  a l’escola està directament relacionat  amb el desenvolupament de les diferents competències incloses en el currículum escolar.  tot el seguit d’aprenentatges inclosos en el currículum .
+
+
+
+
+
+En la vida social el domini del llenguatge serà decisiu en la majoria dels aspectes rellevants de la vida personal.
+
+La competència comunicativa en les llengües que s’aprenen serà determinant a l’hora d’adquirir els altres aprenentatges, ja que la llengua és la base, el nexe  per desenvolupar  qualsevol dels altres.  
+
+
+
+
+
+La construcció del pensament es fa a través del llenguatge, del domini de les estructures, del lèxic , de tot allò que ens proporcionarà el poder decidir i actuar  de forma autònoma i lliure en qualsevol de les situacions de la vida participant com a ciutadans de ple dret en la societat en la que es visqui. 
+
+
+
+
+
+Totes les competències, en un nivell o altra de gradació, que han d’adquirir els alumnes passen pel domini del llenguatge
+
+El Projecte Educatiu del Centre hi dedica, mitjançant el Projecte Lingüístic, una atenció específica.
+
+El PROJECTE LINGÜÍSTIC DEL CENTRE és el document on l’escola defineix, a partir de la normativa vigent, els aspectes relacionats amb el tractament i el desplegament dels aspectes lingüístics dins el marc escolar fins el final de l’etapa de primària. 
+
+Aquest és fruit d’una tasca de  reflexió interna de la comunitat educativa del centre, que recull les decisions preses a partir d’aquesta anàlisi en relació a l’ensenyament i l’aprenentatge de les llengües i que té com a objectiu donar coherència a la manera d’adquirir-les. 
+
+Pert tant, el Projecte Lingüístic de Centre serà  el  document resultant de la presa de decisions al llarg de la pràctica docent i dels objectius finals que cal aconseguir amb els alumnes al final de l’etapa de primària. 
+
+Així mateix la  seva confecció ha de tenir presents les necessitats educatives i la diversitat d’orígens culturals i lingüístics del seu alumnat per tal d’assolir els objectius de normalització lingüística del català.  
+
+La competència lingüística en diferents llengües, tant pròpies com adquirides, ha de possibilitar  als alumnes un ventall més ric d’eines per accedir  al coneixement i a la informació.  
+
+En el marc de Catalunya, el català com a llengua pròpia  reconeguda a l’Estatut de Catalunya  és per tan  objecte d’atenció específica com a idioma de cohesió social i la llengua vehicular d’ús a l’escola. 
+
+
+
+
+
+El projecte lingüístic s’ajusta al que estableixen els articles 10, 11, 12 i 16 de la Llei 12/2009,del 10 de juliol, i l'article 5.1.e del Decret 102/2010, de 3 d'agost, d'autonomia dels centres educatius  i el Decret llei 6/2022, pel qual es fixen els criteris aplicables a l'elaboració, l'aprovació i la validació dels projectes lingüístics.
+
+El projecte lingüístic recull els aspectes següents:
+
+• El paper de la llengua catalana, com a eix vertebrador d'un projecte educatiu plurilingüe.
+
+• El tractament de les llengües, tant les curriculars com les no curriculars, en els espais
+
+d'educació formal i no formal del centre. 
+
+• Els aspectes d'organització i de gestió que tinguin repercussions lingüístiques.
+
+
+
+Tenint en compte els objectius prioritaris del sistema educatiu, pel que fa a les qüestions lingüístiques, a , l’escola vetllem per tal que:
+
+
+
+
+
+• El català, com a llengua pròpia de Catalunya, sigui la llengua normalment emprada com a llengua vehicular i d'aprenentatge del sistema educatiu.
+
+• L'alumnat, en finalitzar els ensenyaments obligatoris, tingui un domini ple de les
+
+llengües oficials catalana i castellana.
+
+• La documentació que expedeix el centre s'ajusti al que determinen els articles 16.4 i
+
+16.5 de la Llei d'educació.
+
+• L'alumnat sigui competent en una llengua estrangera i desenvolupi una competència
+
+plurilingüe i intercultural que generi actituds positives i de respecte envers la diversitat
+
+lingüística i cultural.
+
+• Sigui efectiva la coordinació entre el professorat de llengua, i entre aquest professorat
+
+i el d'altres matèries, amb l'objectiu que l'alumnat progressi en   la competència
+
+lingüística pròpia de manera integrada i global, englobant  totes les àrees i matèries.
+
+
+
+En el projecte lingüístic explicitem:
+
+
+
+
+
+• Els usos lingüístics del centre,
+
+• Les decisions metodològiques i didàctiques en relació als aspectes organitzatius.
+
+
+
+ 2- OBJECTIUS GENERALS DEL SISTEMA EDUCATIU 
+
+1. Garantir, en acabar l’educació obligatòria, el domini equivalent de les llengües  oficials (B2 al final de l’ESO i C1 al final del batxillerat). 
+
+2. Garantir un grau de competència suficient en una o dues llengües estrangeres (B1 al  final de l’ESO i B2 al final del batxillerat de la primera llengua estrangera). 
+
+3. Reconèixer i fer presents a les aules i als centres les llengües familiars dels alumnes  d’origen estranger.
+
+4. Capacitar els alumnes per conviure en una societat multilingüe i multicultural.  
+
+5. Reforçar el paper de la llengua catalana com a llengua vehicular del sistema educatiu  i potenciar-ne l’ús per part de l’alumnat com a garantia de cohesió social.  
+
+6. Garantir l’acollida i l’atenció lingüística de l’alumnat nouvingut, i la seva integració a  l’aula ordinària. 
+
+
+
+
+
+
+
+
+
+
+
+3-  ANÀLISI DEL CONTEXT  
+
+
+
+
+
+L’escola Mossèn Jacint Verdaguer està situada al carrer Lleida de Barcelona, forma part de les escoles històriques de la ciutat i pertany al districte de Sants-Montjuïc.
+
+Donada la ubicació  de l’escola, dins el marc del districte al que pertany, està molt més arrelada al barri del Poble-sec i al parc de Montjuïc que a altres zones del Districte que queden més  allunyades. 
+
+Al  barri, segons les dades del padró municipal del 2021, hi viuen 40.204 persones , de les quals n'hi  ha 17.429 nascudes a Catalunya,  6.503 de la resta de l’Estat i un total de 17.782 persones que han nascut a l’estranger,  el que equival a un 42% de població d’origen immigrant.  A l’escola ens consta que tenim un 50% d’alumnat d’origen immigrant, aquí s’inclou alumnat que ja tenen el DNI i per tant ja no es consideren alumnat nouvingut tot i que les seves famílies si que consten com a tals.  
+
+Així mateix aquestes dades oficials del padró  recullen una xifra  d’infants al barri d’entre els 3 als 12 anys que puja a un total  2.896, dels quals més de tres-cents assisteixen a la nostra escola, ja que la majoria del nostre alumnat prové del barri del Poble-sec.
+
+A l’escola hi ha representades 35 nacionalitats (maig 2022), 12 de les quals provenen de Sud Amèrica (Veneçuela, Bolívia, Hondures, Equador, Colòmbia, Paraguai….), altres de l’Àfrica (Ghana, Marroc, Algèria…),de  l'Àsia (Pakistan, Filipines, Índia …), d’Europa (Itàlia, França, Rússia, Ucraïna…), dels Estats Units o amb nacionalitat espanyola.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Partint del mapa sociocultural de gran part de la ciutadania que configura el barri , la llengua primera de gran part de l’alumnat quan arriba a l’escola és la pròpia del seus orígens, un 46% de l’alumnat.
+
+És important remarcar que un nombre significatiu de famílies, un 43%,  tenen el castellà com a llengua pròpia (famílies procedents de llatino-amèrica, famílies procedents de la resta de l’estat espanyol tot i que estiguin arrelades a Barcelona , famílies que parlen en castellà en els seus àmbits personals i familiars per diferents raons). 
+
+
+
+
+
+Una altra part de famílies que generalment procedeixen d’altres orígens, sovint parlants de llengües asiàtiques, etc., i que conformen un 68% del total, han adoptat i fans servir el castellà en els seus àmbits socials externs com a llengua de nexe i fins i tot  algunes famílies també el fan servir per parlar amb els seus fills/es que ja han nascut aquí. 
+
+
+
+
+
+En tota aquesta diversitat de nacionalitats, el castellà, d’acord amb el que s’ha exposat, s’ha consolidat com a llengua d’ús social de comunicació predominant en les situacions ordinàries entre l’alumnat tals com: els temps de lleure, les activitats d’aula, els temps del migdia, les estones d’extraescolars…
+
+
+
+
+
+Dins l’escola, el castellà és ben present i viu per les raons ja exposades i també, en un percentatge important, és la llengua en la que un nombre considerable d’alumnat opta per adreçar-se al personal de menjador, altres membres de la comunitat escolar (TIS, EMO, Educador social, conserge…) i als mestres. Cal recordar i insistir  sovint sobre el fet de fer ús del català com a llengua vehicular dins l’escola. 
+
+
+
+
+
+Per altra banda, constatem que el català és l’idioma menys parlat en l’àmbit privat  ja que tan sols un 11% de les famílies el parlen a casa i un 35% de famílies l’entenen i el poden parlar.
+
+
+
+
+
+ 3.1 -  Bagatge lingüístic de l’alumnat i les seves necessitats individuals vinculades als seus  resultats acadèmics 
+
+A l’escola hi ha presència de més de 14 llengües, que són les que parla el nostre alumnat ( anglès, àrab, hindi-urdú, panjabi, tagalog, bengalí, castellà, català, xinès mandarí, ucraïnès, rus i  altres llengües africanes, asiàtiques…).
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Això fa que puguem gaudir d’una riquesa lingüística important però alhora que tinguem molta consciència que cal plantejar el  treball de la llengua de forma lineal, progressiva i metòdica perquè pugui gradualment ser l’eix transversal que aplegui tots els aprenentatges. 
+
+Les proves de les  Competències Bàsiques a 6è ens mostren que els resultats de l’anglès són millors que els del català i de castellà però també que el domini del castellà és lleugerament millor que el del català. L’anglès està per sobre de la mitjana d’altres escoles similars a la nostra ja que és un idioma que el parla una gran part del nostre alumnat en l’entorn familiar.
+
+Aquest projecte lingüístic té en compte els resultats de les proves i avaluacions periòdiques, tant internes com externes, i els resultats ens mostren que el català és la llengua a reforçar.  Per aquest motiu el català  és i ha de  seguir sent la llengua vehicular de l’escola ja que tenim clar que per la majoria de l’alumnat  l’escola és el seu únic espai social  de referència real on poden aprendre el català de forma integral.
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2 - Competència lingüística del professorat (acreditacions de coneixements de llengües)
+
+
+
+
+
+En relació a la llengua catalana , el personal docent compte  amb les titulacions següents 
+
+Nivell /C1  23 persones 
+
+Nivell /C2  10 persones
+
+
+
+
+
+Pel que fa a les acreditacions en  llengua anglesa, a l’escola comptem amb :
+
+B1  / Nivell Llindar -Intermedi   16 persones
+
+B2  / Nivell avançat                     5 persones
+
+C2
+
+
+
+
+
+3.3 - Places docents amb perfil professional 
+
+A l’escola hi ha 16 places de perfil de les quals 2 són d'anglès per tal de potenciar el programa GEP.
+
+4-  OFERTA DE LLENGÜES ESTRANGERES 
+
+
+
+
+
+L’escola té l’anglès com a llengua estrangera i es  treballa dins el programa d’innovació pedagògica GEP, Generació plurilingüe o aprendre llengües estrangeres a través de les matèries. 
+
+L’anglès s’introdueix a l’escola des de  l’etapa d’educació Infantil, concretament a  P4 i P5 a partir  de la  psicomotricitat, també en els espais d’aprenentatge es dedica un racó a l’aprenentatge de l’anglès a través de la llengua oral.  
+
+Pel que fa a primària la idea és  incrementar el temps d’exposició de l’alumnat a les llengües estrangeres curriculars, de tal manera que a més a més de les hores pròpiament de l’àrea d’anglès, aquest idioma s’empri dins la franja horària dels  projectes on es treballa bàsicament l'àrea de medi natural i social i dins de totes aquelles àrees que sigui possible.
+
+D’aquesta manera les especialistes  d’anglès (4 a l’escola) es coordinen  amb les tutores  per tal de preparar les activitats didàctiques lligades al projecte i, per tant, al tema que s’està treballant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+5- OBJECTIUS EN RELACIÓ AMB  L’APRENENTATGE I L’ÚS DE LES LLENGÜES  
+
+ Utilització de la llengua catalana com a llengua d’ús i vehicular comú  i general per a totes les persones  a l’escola. El català com a instrument fonamental i com a garantia d’equitat i de cohesió social.  
+
+Es parteix que l’aprenentatge lingüístic es realitza de forma transversal des de qualsevol de les àrees objectes d’aprenentatge. 
+
+
+
+
+
+CATALÀ
+
+	CASTELLÀ
+
+	ANGLÈS
+
+	* Conèixer i utilitzar la llengua catalana oralment i per escrit emprant-la com a llengua vehicular i d’aprenentatge en tots els àmbits : relacional, administratiu, de comunicació i aprenentatge.
+
+*  Adquirir unes bones habilitats comunicatives: una expressió i comprensió orals, una expressió escrita i una comprensió lectora correctes i adequades a diferents contextos, en llengua catalana que els permeti participar activament en la societat futura amb les mateixes oportunitats i equitat. 
+
+* Garantir l'acollida i l'atenció lingüística de l'alumnat nouvingut,  i la seva integració a l'aula ordinària, reconeixent les llengües  familiars de l'alumnat d'origen estranger.
+
+	* Assolir una habilitat oral i escrita en  llengua castellana que permeti a l’alumnat utilitzar-la apropiadament com a font d’informació i vehicle d’expressió, garantint el domini equivalent de les llengües oficials. 
+
+*  Adquirir unes bones habilitats comunicatives: una expressió i comprensió orals, una expressió escrita i una comprensió lectora en castellà que permetin als alumnes per formar part d’una ciutadania participativa i de ple dret en el context social que els pertoqui.  
+
+	* Potenciar la utilització tan formal com informal de l'anglès de manera progressiva i cap a la immersió en anglès, sempre respectant el diferents nivells d’aprenentatge que la comprensió de l'alumnat ho permeti sense perdre la informació 
+
+
+
+
+
+	
+
+
+
+* Adquirir els coneixements prescrits i la competència lingüística adequada segons les competències lingüístiques fixades pel Dept. d’educació en català,  castellà i anglès al final de l'etapa d'educació primària. 
+
+* Utilitzar el llenguatge de forma eficaç com a eina d’expressió dels estats d’ànim, sentiments, opinions, vivències…
+
+* B2 en català i castellà al acabar l’etapa obligatòria. B1 en llengua estrangera 
+
+* Desenvolupar les capacitats expressives i comunicatives dels infants per ser interlocutors actius, crítics i lliures.
+
+* Cercar recursos i estratègies per despertar el gust per la lectura i l'escriptura en les tres llengües. 
+
+* Capacitar l'alumnat per conviure en una societat multilingüe I multicultural de integració de diferents cultures des del respecte i el coneixement mutuu. 
+
+* Ser capaços de fer servir les eines digitals de forma que n’extreguin informació precisa i després poder transformar-la en propi coneixement. 
+
+	
+
+
+
+6-  CRITERIS METODOLÒGICS I ORGANITZATIUS EN RELACIÓ A L’APRENENTATGE DE LES LLENGÜES  
+
+
+
+
+
+6.1  Criteris generals
+
+L’escola Mn Jacint Verdaguer vol definir-se com a escola inclusiva. 
+
+Aquesta voluntat, en els aspectes lingüístics, ens fa tenir en valor  l’educació intercultural i la diversitat lingüística dels que en som membres. Per això,  dins la comunitat educativa escolar és essencial  el  reconeixement explícit a totes les diferents comunitats lingüístiques que hi són presents, establint mecanismes i maneres de fer per tal que tothom se senti que forma part de l’escola.  
+
+Pel  que fa a la diversitat lingüística, tenim i fem presents totes les llengües des del reconeixement natural  així com per que actuin de punt de  reforç pels alumnes quan a   seu aprofitament per enriquir el currículum i les activitats ordinàries.
+
+Tant des del  Consell de direcció com des de l’equip impulsor del centre es vertebra el treball que es fa en l’àmbit de les llengües per tal de coordinar des de  les diverses comunitats tot el que fa referència a la metodologia i desplegament del currículum de la primera llengua d’aprenentatge, la llengua catalana, i així mateix amb la  castellana i  l’anglesa. Vetllaran per què es dugui a terme un treball sistemàtic de la llengua.
+
+Es remarca la llengua com a eina bàsica per corresponsabilitat de totes i cadascuna de les àrees i les matèries en l’adquisició i desenvolupament de les competències comunicatives bàsiques: saber escoltar, saber llegir, saber parlar i saber escriure. 
+
+Les eines digitals ajuden a que els alumnes integrin de forma global les competències que comporten les dimensions de l’àmbit  lingüístic d’acord amb cada una de les etapes educatives.
+
+La voluntat és anar creant un clima docent basat en l’aprenentatge transversal, essent el català, la  llengua vehiculadora del procés.
+
+En aquest apartat considerem el marc teòric de les actuacions  d’ensenyament-aprenentatge que cal  tenir present a cada comunitat, a més de ressenyar-ne aquelles més significatives de les que es fan a l’escola.
+
+
+
+6.2  Educació Infantil. Comunitat petita
+
+Dins del programa d'immersió a l'escola, per als nivells de 3, 4 i 5 anys, la llengua base
+
+d'aprenentatge, d'ús habitual o vehicular, és el català. 
+
+S'ha de tenir en compte que l'alumnat ha estat iniciat  al medi escolar procedent de  diferents orígens  lingüístics (com el  català, castellà, xinès, panjabi, ucraÏnès, rus o  àrab) però majoritàriament són de parla castellana.  Progressivament l’escola ha de ser l’espai on els alumnes incorporin l’aprenentatge del català al seu dia a dia.
+
+En aquesta etapa l’aprenentatge de la llengua se centra principalment  en:
+
+*  Llengua vehicular oral sempre en català.
+
+* Ús oral de la llengua en una primera intenció per introduir rutines, missatges breus, consignes simples.
+
+*  Discriminació de sons / Relació so-grafia.
+
+*  El llenguatge com a element prioritari com a element bàsic per estructurar el pensament. 
+
+* Es treballa donant prioritat a tres funcions del llenguatge com són  la lúdico-creativa,  la comunicativa i  la representativa. 
+
+* Metodologia d’immersió lingüística per la llengua vehicular . 
+
+* Primers contactes amb la llengua escrita ( P3 el nom propi) i progressivament ja més endavant contactes amb les paraules de l’entorn, sentiments i vivències …al llarg de P4 i P5.
+
+* Respecte al moment maduratiu dels infants en relació a la intervenció de les persones a l’aula. 
+
+* Mètode analític i global en l’aprenentatge de la lectoescriptura. 
+
+* Introducció de la llengua anglesa a P4 i de forma vivencial a Psicomotricitat dins el projecte d’Innovació pedagògica. 
+
+* Espais vivencials en anglès.
+
+* Introducció de fonemes, consciència fonològica…
+
+
+
+
+
+6.3  Primària. Comunitat Mitjana (1r, 2n i 3r)
+
+Seguint la línia d'aprenentatge de l'educació infantil, 1r  també dóna un tractament prioritari a la llengua partint de la comprensió i expressió oral per arribar a la comprensió lectora i l’expressió escrita.
+
+L'objectiu general pel que fa al desenvolupament de les capacitats comunicatives dels alumnes  en català  és :
+
+* A  través de la llengua parlada, potenciar  i afavorir situacions comunicatives el més variades i properes als alumnes  per tal que l’alumnat progressi i millori en  la seva capacitat d'expressió i comunicació. 
+
+* Modelatge continuat per part dels docents.
+
+* Quant a la llengua escrita, a 1r i 2n es sistematitza l'aprenentatge de la lectura i escriptura, mitjançant  diferents tipologies de textos. Se segueix amb el mètode analític.
+
+* A  partir de 3r, i amb la lectura més consolidada respectant el ritme lector de cada alumne  es fa una reflexió sistemàtica de la llengua a partir d’àlbums il·lustrat.
+
+* En l’aprenentatge de la lectura es segueix el mètode analític sense abandonar el mètode global .
+
+* Es considera que  les activitats de llengua han de ser funcionals per ser més vivencials pels alumnes per aquesta raó s'aborda l'aprenentatge de la lectoescriptura en les sessions de llengua, de projectes,tallers de comunicació i en els racons d'aprenentatge (TAGI) i és a partir dels temes que els interessen investigar i d’activitats manipul.latives i orals (traç, lletres, jocs de conscència fonológica,estructures, ortografia,...) que ens permeten motivar i engrescar-los cercant la importància de la funcionalitat de la llengua i la importància de garantir una bona comunicació tant oral com escrita.  
+
+* Els els Tallers de comunicació setmanals es fa un treball focalitzat en algunes de les formes de comunicació humana com són el teatre, la ràdio (Cinto Ràdio), els contes, etc. 
+
+* S’inicia com a projecte de comunicació comú a tota la primària  el treball a  la ràdio escolar.  
+
+* La biblioteca d’aula potencia la lectura autònoma i lliure dins del concepte del llegir per plaer. L’estona de la lectura diària ajuda als infants a cercar informació sobre temes que els motiven i l’ampliació del lèxic individual. Així mateix l’intercanvi de sensacions i opinions sobre els resultats de la seva lectura. 
+
+
+
+
+
+L'objectiu general pel que fa al castellà és : 
+
+*  Introduir-lo  a nivell oral per familiaritzar-s’hi a 1r des de la parla .
+
+*  Facilitar l’aprenentatge més normatiu  de la llengua escrita des de 2n.
+
+Per assolir aquesta fita s’utilitzen contes relacionats amb els projectes que es treballen a l’aula. 
+
+En relació a la llengua anglesa :
+
+* En les sessions d'anglès es treballa com objectiu prioritari la competència comunicativa,  on expressió i comprensió oral per mitjà del diàleg i l’ús de referents visuals en son bàsics, aquests giren entorn  al que estan investigant en els projectes i la funcionalitat de l’aprenentatge.
+
+
+
+
+
+El factor vertebrador  de tots els àmbits del coneixement  recau en  la competència comunicativa de la llengua. 
+
+El treball   de la llengua en les seves dimensions aplicades  en els diferents aspectes de l'aprenentatge escolar permet que l’alumnat vagi avançant de forma integral ,  i desenvolupi  les seves capacitats en els diferents àmbits. 
+
+La majoria dels alumnes escolaritzats des de parvulari arriben a 3r amb un bon bagatge lingüístic. S’ha de tenir en compte que s’han incorporat alumnes procedents de sistemes educatius diferents al nostre, la qual cosa obliga a fer un tractament d’aprenentatge diferenciat: amb el recurs de l’Aula d’Acollida, si s’escau a partir de 3r.
+
+Alhora, cal afavorir la valoració d'altres manifestacions lingüístiques que els faciliten el domini d'altres llengües. En aquest treball d’aprenentatge de les llengües, cal tenir sempre present en  valor la riquesa de les llengües d'origen dels alumnes com a element de referència que ajuda a la integració d’una nova llengua des del respecte a la pròpia. En el treball en concret, la llengua pròpia diferent de la d’aprenentatge, ajuda als alumnes a estar en valor quan es fan activitats de lèxic comparatiu o començant el dia amb les consignes de salutació que cadascú aporta. 
+
+La llengua parlada es planteja d'una manera rigorosa i sistemàtica. És important no dissociar la lectura i l'escriptura de l'activitat oral i de la resta de les activitats escolars. Potenciem la importància de la llengua escrita perquè els alumnes se sentin motivats per utilitzar-la, així com fomentem el gust per a la lectura per descobrir valors, vocabulari específic, ortografia, etc. 
+
+A mesura que els nens i nenes es van fent més grans es dóna un pas important ja que es passa progressivament a l'arbitrarietat del llenguatge. El treball parteix de textos i fixar en ells allò que volem tractar en cada cas: lèxic, ortografia, expressions, frases fetes, verbs, etc. A partir d'una realitat, per exemple, l'ortografia i l'estructura de les frases no esdevé quelcom abstracta. S'ha de proposar activitats de composició i descomposició de paraules, d’ordenació de frases, d’ordenació de paràgrafs, etc.
+
+Es duu a terme un treball constant de lectura comprensiva, tant de forma oral com de forma individual i silenciosa. S'insisteix en tècniques de comprensió, bé sigui a nivell de preguntes sobre textos llegits o separant la idea principal de les secundàries. 
+
+A 3r es comença a fer l’aprenentatge sistemàtic del codi escrit en anglès. Mai no s'ha de pretendre de bon començament un codi escrit correcte, però sí que es relacioni amb el contingut del missatge de manera que el lector d'un d'aquest missatges entengui el significat. En fixar el codi escrit s'ha d'orientar la dificultat fonètica.  El trasllat a l'ortografia arbitrària es fa de forma simultània a totes les llengües. Els objectius, continguts, procediments, etc. han de ser diferents als de català i castellà.
+
+És important fer adonar a l’alumnat  de la seva situació plurilingüe, fomentant el respecte per a totes les llengües, des de la interacció entre els individus de les diverses comunitats.
+
+Cal dir que a la comunitat de mitjans, la mitja hora de lectura diària es realitza de manera progressiva segons la capacitat d’atenció i concentració dels infants. A 1r i 2n està fraccionada en 20 minuts al matí i 10 a la tarda al tornar de dinar. S’utilitzen diferents metodologies per tant de motivar i gaudir de la lectura (per parelles, l’explicació de contes per part de la mestra o companys/es, individual, ...). A 3r s’utilitza el diari de lectura.
+
+
+
+
+
+
+
+
+
+6.4. Primària. Comunitat gran (4t, 5è i 6è)
+
+El català és la llengua vehicular i d'aprenentatge, tot i que cal utilitzar adequadament el castellà com a font d'informació i vehicle d'expressió. L’anglès ha de fixar-se sòlidament des del punt de vista f i gramatical per poder assolir en cursos posteriors un coneixement més ampli de la llengua anglesa.
+
+Els objectius que marcaran l’aprenentatge de les llengües partiran de :
+
+* En acabar l’etapa de primària l’alumnat  ha d'adquirir  un nivell fluid de les dues llengües tant a nivell oral com escrit, de manera que sigui capaç d’ expressar-se de forma autònoma , entendre al seu interlocutor,  produir textos de diverses tipologies, llegir textos temàtiques varies  i comprendre el que han llegit .
+
+* El tractament de les llengües esdevé més complexe. 
+
+* El treball amb cada  llengua es farà de manera que els objectius vindran marcats sota un criteri semblant quant al català i castellà. 
+
+* En cada cas s'han tenir en compte però  els ritmes i nivells d’aprenentatge dels alumnes dins de les gradacions marcades per l’adquisició de les competències. 
+
+* En relació al català :
+
+A l’àrea de llengua catalana, en relació als aspectes de la llengua escrita, es reforçaran els aspectes més concrets de coherència, cohesió, adequació, ortografia arbitrària i ampliació de lèxic, tot fent un treball competencial.  Important treballar la llengua en petits grups.
+
+* Castellà:
+
+Respecte a l'àrea de llengua castellana, es treballaran els mateixos aspectes que en català, fent atenció  a no repetir estructures comunes  i  remarcant  els aspectes diferencials.
+
+Per mantenir el mateix estatus per a les dues llengües, cal aprofundir en aquells punts  que poden provocar confusions i dubtes entre el català i el castellà, això implica que es coordinin de forma sistemàtica els continguts i aprenentatges de les dues llengües.
+
+* En la llengua anglesa :
+
+A l'àrea d'anglès es farà un esforç considerable en la consciència fonològica de la llengua  i en l'adquisició del vocabulari bàsic i essencial, així com en potenciar estratègies per construir oracions simples i facilitar un mínim de capacitat d'interacció comunicativa . 
+
+S'ha d’avançar ràpidament en l'adquisició de vocabulari i s'han de consolidar les estructures amb certa complexitat. En finalitzar l’etapa de primària l’alumnat ha de ser capaç d'entendre, escriure i comunicar-se en un nivell elemental en  anglès.
+
+* Aspectes comuns: 
+
+La metodología que es farà servir no serà una exclusivament, sinó una combinació d’estratègies que tinguin com a finalitat resoldre les necessitats puntuals en cada cas. 
+
+A més a més de les hores establertes dins la seva àrea les llengües, tant el català, el castellà com l’anglès, es treballa de forma transversal dins la franja horària del treball per projectes. També d’una forma pràctica i funcional dins els tallers de comunicació que es realitzen setmanalment (ràdio, vídeo, taller de notícies…).
+
+A més es dedica mitja hora diària a la lectura en la franja horària de 11:00h a 11:30h.
+
+6.5  Distribució per cicles de les diferents tipologies textuals.
+
+A partir de la reflexió pedagògica en la comissió de llengua, consensuat en comunitats i aprovat en Claustre s’ha acordat, que cal treballar preferentment (que no vol dir únicament)  a cada curs les tipologies textuals següents, entenent que d’aquestes se’n faran 5 o 6, com a mínim, durant tot el curs.
+
+
+
+
+
+1r i 2n
+
+	3r
+
+	4t
+
+	5è
+
+	6è
+
+	1r 
+
+Llistats.
+
+Cartells informatius.
+
+Endevinalles
+
+Contes
+
+
+
+
+
+2n  
+
+Cartells informatius.
+
+Contes 
+
+Rodolins
+
+Dites
+
+Descriptiu: persones i objectes.
+
+	 Diàleg (llenguatge teatral)
+
+ Carta
+
+Poesia
+
+
+
+
+
+	 Descripció
+
+ Conte
+
+ Text instructiu (el joc) 
+
+El còmic
+
+	Correu electrònic
+
+Poema
+
+Notícia 
+
+Text argumentatiu
+
+	Entrevista
+
+Text expositiu
+
+Llenguatge visual
+
+Narratiu (invenció d'històries)  Text predictiu.
+
+	
+
+
+
+
+
+
+
+6.6. Utilització de les TIC en l’aprenentatge de les llengües
+
+El treball de les TIC pel que fa al treball lingüístic és bàsic, ja que permet que es pugui tant treballar la lectura comprensiva pel que fa a la recerca d’informació com per a la possibilitat de crear contingut, per tant treballar l’expressió escrita i l’expressió oral. Les TIC, tecnologies de informació  i la comunicació, esdevenen TEP, tecnologies de l'empoderament i participació,  ja que amb elles l’alumnat passa a ser protagonista i explicar el que ha après utilitzant diferents llenguatges audiovisuals que reforcen les capacitats lingüístiques. La transformació de la informació en coneixement propi.  És així com poden crear un vídeo com a producte d’un treball per projectes o un programa de ràdio per explicar continguts. Les Tic es treballen a primària de forma generalitzada i a partir d’organitzar el moodle de l’escola les famílies poden veure el treball que realitzen els seus fills i filles a l’escola.
+
+
+
+
+
+6.7 La música com a eix transversal per millorar l’ús de la llengua
+
+ A l’escola la música és el   llenguatges artístics que fem servir de forma generalitzada al llarg de tota la etapa  com a mitjà per treballar i enriquir el llenguatge  del que ens ajudant i recolzant l’adquisició i consolidació dels aprenentatges lingüístics.  
+
+Aquests són alguns suports que pot oferir el treball musical i que  ajuden a l’acció
+
+educativa:
+
+* Treball de rutines,  incorporant propostes de repetició amb variació (i anar incorporant variacions proposades , progressivament, pel mateix alumnat).
+
+* Dinàmiques grupals que fomentin altres tipus d’interacció (no tan unidireccional).
+
+* Processos que requereixin l’autoregulació individual i grupal.
+
+* Incorporar més processos de pedagogia de l’enigma i resolució de problemes.
+
+* Jocs i dinàmiques comunicatives que incorporin elements de llenguatge no verbal (corporal i expressiu -emocional-) i verbal.
+
+* Integrar processos didàctics alhora de repartir i manipular els materials, esdevenint part de la dinàmica d’aprenentatge de competències.
+
+Per dur a terme aquestes activitats comptem amb 3 especialistes de música, un per comunitat, i amb el suport de Xamfrà-Centre de música i escena.
+
+
+
+
+
+6.8- Espai conversa
+
+A l’escola plantegem el treball de la llengua oral com a indispensable per tal de millorar l’estructura de la llengua. Per aquest motiu a les aules es dissenya un espai per a poder fer conversa i alhora es plantegen diferents activitats per poder millorar l’expressió i comprensió oral, per tal de prendre consciència de la intencionalitat comunicativa i posar en valor la llengua catalana:
+
+* Introducció de fonemes, consciència fonològica.
+
+* Rotllana de conversa: dur a terme activitats específiques per treballar la llengua oral.
+
+* Modelatge de les mestres amb estructures de frases perquè els infants les integrin i les puguin reproduir en altres entorns.
+
+* Treballar: embarbussaments, jocs de paraules, poemes, dites, frases fetes…
+
+* Presentació d’un poster d’un tema d’interès per part de cada alumne a tota la classe (frases i imatges) -La presentació es treballa a casa i a l’escola amb el suport de la mestra-.
+
+* Buscar incentius perquè l’alumnat tingui ganes de repetir la frase.
+
+* Proposar reptes a l’alumnat perquè parli català.
+
+* Buscar jocs per donar-li un sentit lúdic a la llengua.
+
+* Donar eines per adquirir el llenguatge: connectors…
+
+* Donar un sentit afectiu a la llengua. Que sentin que és la seva unió amb els companys/es.
+
+* Fer teatre, role-plays, gravacions…recreant situacions reals que els estimulin a utilitzar la llengua.
+
+* Cantar cançons
+
+* Visualització de dibuixos animats en català per a petits i mitjans i l’InfoK per als grans.
+
+* Crear un espai per potenciar i enriquir la comprensió i expressió oral: Racó de la catifa.
+
+
+
+
+
+6.9- Estona de lectura
+
+A primària s’ha instaurat una franja horària per tal de treballar la lectura i a la comunitat petita (infantil) també es fa l’hora del conte amb la mateixa intencionalitat.
+
+A tota l’escola es veu necessari tenir una biblioteca d’aula ben pensada per tal de poder motivar a la lectura.
+
+Aquestes són algunes de les activitats que es plantegen a les diferents comunitats:
+
+Maleta viatgera: Els nens i nenes se’n porten a casa una maleta amb dos o tres contes i una llibreta per escriure amb les famílies aspectes d’interès.
+
+
+
+
+
+* Comunitat petita:
+
+   * L’hora del conte 
+
+   * Es sistematitza l’estona de lectura (es dedica una estona)
+
+   * Es planteja tenir una  biblioteca d’aula, atractiva.
+
+   * Interpretació i anticipació de què passa en cada història.
+
+
+
+
+
+* Comunitat Mitjana i Gran
+
+Biblioteca d’aula ben pensada, estructurada i adaptada als diferents nivells de l’alumnat (perquè cada alumne  pugui trobar un llibre adequat per a la seva velocitat i comprensió lectora)
+
+   * Lectura en veu alta d’un llibre escollit per tots i finalitzar-ho amb un Kahoot per avaluar la comprensió.
+
+   * Text participatiu
+
+   * Club de lectura
+
+   * Lectures en veu alta preparades pels alumnes amb modelatge de la mestra (entonació, puntuació…)
+
+   * Facilitar que de manera espontània els alumnes puguin llegir en veu alta.
+
+   * Llibreta de lectura: Recollir per escrit totes les lectures que s’han anat fent durant el curs. Es poden recollir frases del llibre, descriure personatges, dibuixos del llibre…
+
+   * Explicació de contes i lectura per parelles, lectura individual amb la mestra.
+
+   * Marcar les tasques dels mestres que intervenen a l’aula, aprofitar per treballar en petit grup.
+
+   * Destinar uns minuts a fer relaxació abans de la lectura.
+
+   * Instaurar la bibliopati a tots els cursos.
+
+   * Buscar llibres molt atractius.
+
+
+
+
+
+7- RECURSOS I ACCIONS COMPLEMENTARIS  
+
+7.1  Aula d’acollida 
+
+L’aula d’acollida és un recurs amb el que compta l’escola per tal de poder proporcionar als alumnes nouvinguts que s’hi incorporen des de 3r provinents de cultures diverses i sense coneixements previs de la llengua catalana, un reforç específic i focalitzat en el treball de la llengua des de les bases . 
+
+Els alumnes s’hi incorporen en qualsevol moment durant el curs sigui quin sigui el moment quan es matriculen a l’escola. 
+
+Aquest suport l’objectiu del qual és fer de lligam entre la llengua pròpia i el català ha de facilitar la incorporació a les aules ordinàries d’aquests alumnes per poder seguir amb unes condicions més favorables els aprenentatges d’aula. 
+
+
+
+
+
+L’aula d’acollida acull als alumnes per nivells escolars. La persona responsable de l’Aula d’acollida està en coordinació amb les diferents tutories vetllant per realitzar una tasca orientada a un objectiu comú de treball amb la llengua. 
+
+Els alumnes, els nivells dels quals poden oscil·lar partint d’un A1 /nivell inicial a aconseguir  un A2 /nivell bàsic al final de la primària. 
+
+
+
+
+
+En el cas de la nostra escola, un nombre important  dels alumnes provenen de medis socioeconòmics baixos i amb risc de marginació social.  En aquest sentit  des de l’aula d’acollida es promocionen actuacions orientades a la cohesió social i a la integració dels alumnes en un ambient favorable propici a una bona acceptació escolar.
+
+Tal i com queda exposat en altres apartats d’aquest PLC, a l’escola hi ha representades diversitat de llengües d'origen gran part de les quals no tenen connexions lingüístiques de parentiu amb el català. 
+
+D’acord amb la necessitat de facilitar als alumnes nouvinguts els  instruments lingüístics  adients per poder-se moure i  adquirir un nivell de comprensió oral acceptable dins l’aula , és molt important la funció de l’aula d’acollida .  
+
+
+
+
+
+Per tant s’ha considerat imprescindible dur a terme un programa d’acollida i d’intervenció lingüística en aquest sentit. La professora amb dedicació a l’AA és la responsable d’aquesta programació i de la tutorització de l’alumnat, de manera que, quan aquest va adquirint un cert domini de la llengua, va reduint les hores d’estada a l’AA per incorporar-se a la seva aula ordinària progressivament.
+
+A l’AA, els alumnes hi poden assistir un mínim de dos cursos si les seves llengües d’orígen són llengües llatines, llengües germàniques  i 3 cursos si els alumnes tenen llengües allunyades com les asiàtiques, africanes, etc. que no comparteixen trets lingüístics amb el català. 
+
+
+
+
+
+7.2  Suport lingüístic i social 
+
+És molt important poder comptar  amb el suport  del barri i coordinació amb entitats per tal de potenciar l’ús del català com a llengua d’ús social.
+
+És així com el suport de voluntaris de la xarxa de suport mutu del Poble-sec o d’altres entitats del barri són molt importants per poder organitzar activitats d’acollida per mares de l’escola i poder fer activitats formatives tant de català com deTAC  a l’escola, alhora que podem apropar aquestes famílies nouvingudes a entitats de barri per tal que coneguin recursos veïnals i possibilitats de formació  en qualsevol de les dues llengües oficials. 
+
+
+
+7.3. Les accions complementàries
+
+L’escola participa en diferents activitats coordinades en col·laboració amb diverses entitats : 
+
+7.3.1 Pla de barris
+
+Amb el pla de barris i concretament amb el projecte Caixa d’Eines es facilita la coordinació amb entitats culturals del barri. Això permet que l’alumnat de l’escola conegui una realitat que els permet integrar-se en l’entorn proper alhora que utilitzen el català d’una forma significativa, ja que així deixa de ser llengua exclusiva de l’escola per a convertir-se en llengua d’ús social.
+
+
+
+7.3.2 Projecte ERASMUS+ e-TWINNING ( acció d’internacionalització de  l’educació)  
+
+Des del curs 2021-2022 participem en l’ERASMUS+ concretament en el   Microconsorci d’Innovació Avançada. Aquest projecte ens ajuda a potenciar l’anglès perquè es converteix en llenguatge de comunicació per poder internacionalitzar l’escola, alhora que esdevé llenguatge d’aprenentatge per les mobilitats del professorat.
+
+
+
+7.3.3 Projecte Gresol Cultural
+
+Aquest projecte vol promoure el treball conjunt entre els grans equipaments culturals i els centres educatius del barri del Poble-sec desenvolupant de manera conjunta projectes de llarga durada integrats en el currículum acadèmic.
+
+Pretén aprofitar el potencial cultural del territori, amb les diverses formes d’expressió que aquesta ofereix (musical, artístic, teatral, de patrimoni, etc.) per crear propostes educatives adaptades a la realitat de l’alumnat.
+
+Cada projecte és singular, fruit d’un treball conjunt entre els professionals dels serveis educatius dels equipaments culturals i les mestres de les escoles. El projecte s’enfoca a donar resposta a les necessitats de l’etapa educativa, el contingut de l’assignatura, les competències a treballar, així com les característiques de l’alumnat. Es té present la diversitat de l’alumnat i la voluntat d’incidir en l’apropament de les seves  famílies  als diferents equipaments culturals.
+
+8-  LA COMUNICACIÓ INTERNA I LA RELACIÓ AMB L’ENTORN 
+
+L’escola està oberta a les famílies i a l’entorn del barri on està ubicada. Amb aquesta voluntat es planteja oferir el màxim d’informació i de participació col·laborativa en les diferents plataformes de què disposa per fer-ho: el web de l’escola - http://www.xtec.cat/ceip-mcinto-verdaguer  , twitter, instagram, telegram i les exposicions que es fan al centre o en la Mostra d’Entitats de Poble-sec, on hi participem.
+
+Les comunicacions escrites habituals de l’escola o l’AMPA a les famílies es fan en llengua catalana.
+
+Per atendre les famílies nouvingudes a Catalunya que vénen al nostre centre, es disposa d’una mediadora a partir del projecte PMOE (pla de millora d’oportunitats educatives).
+
+La mediadora/traductora fa la funció d’acompanyar les famílies a sentir- se part de la comunitat educativa fent que la llengua no en sigui un fre, sinó una oportunitat per compartir cultures i costums. La projecció del centre es fa sempre en llengua catalana, però des del respecte i amb la presència, quan és oportú, de la riquesa plurilíngüe de la nostra comunitat educativa. Així, per exemple, es felicita el Nadal en diverses llengües, es cita el nom de les plantes treballades en un herbari en diferents llengües, es fan mostres de treballs realitzats per l’alumnat en anglès, s’aprenen cançons i danses d’arreu del món respectant-ne la llengua original, etc.
+
+
+
+9-  LA FORMACIÓ I L’ACREDITACIÓ LINGÜÍSTICA DEL PROFESSORAT 
+
+- Participació en programes d’innovació pedagògica:  Tecnologies Digitals per a l'Aprenentatge, concretament en Comunicació digital, on hem pogut potenciar l’activitat de CintoRàdio per tal de millorar l’expressió oral i escrita.
+
+- Programa d’innovació GEP, Generació plurilingüe, per tal d’incrementar el temps d’exposició a la llengua estrangera, anglès.
+
+- Acreditacions de coneixements lingüístics (Està exposat en el punt 3.2)
+
+- Participació en Xarxes pel canvi
+
+         
+
+    Projecte lingüístic escola Mn Jacint Verdaguer

@@ -1,0 +1,792 @@
+---
+codi: 08001731
+centre: Escola Poeta Foix
+municipi: Barcelona
+font: https://docs.google.com/document/d/14kgo15jhJx1djotHcMzSo-dwkIeFlzQx/edit?rtpof=true&sd=true
+descarregat: 2026-10-20
+sha256: 2a0316c59d50faf4ccc2e48a0ea43000d46ce5cdfe336618289103e048de1451
+---
+
+﻿Projecte Lingüístic de Centre
+
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+
+
+
+
+
+INDEX
+
+
+
+
+
+
+
+
+
+1. Introducció
+
+2. Anàlisi del context
+
+   1. Característiques sociolingüístiques
+
+   2. Domini de la llengua
+
+3. Desenvolupament del projecte
+
+   1. Principis del projecte lingüístic
+
+      1. Àmbit pedagògic
+
+      2. Àmbit d’organització
+
+      3. Àmbit administratiu
+
+      4. Àmbit humà i de serveis
+
+   2. Criteris generals
+
+      1. Criteris metodològics
+
+      2. Criteris d’atenció a l’alumnat nouvingut
+
+      3. Avaluació
+
+   3. Criteris generals a tenir en compte
+
+   4. Les accions complementàries 
+
+4. La qualificació professional dels docents
+
+5. Difusió del PLC
+
+________________
+
+
+
+
+
+   1. INTRODUCCIÓ
+
+
+
+
+
+
+
+
+
+El projecte lingüístic és un instrument que vincula a famílies, alumnat, mestres i personal no docent del centre.
+
+Com a part del Projecte Educatiu de centre, el projecte lingüístic té una vigència llarga i tracta de recollir globalment tots els aspectes del centre.
+
+Els objectius de millora seran recollits cada curs en la Programació General Anual i avaluats en la Memòria Anual.
+
+
+
+
+
+La direcció del centre vetllarà per la seva distribució i coneixement per part de tota la comunitat educativa.
+
+
+
+
+
+El projecte lingüístic recull els aspectes relatius a l’ensenyament i l’ús de les llengües en el centre i en ell queda definit :
+
+
+
+
+
+   * El tractament de la llengua catalana com a llengua vehicular i d’aprenentatge.
+
+   * L’ús Curricular i educatiu tant del català com del castellà i anglès.
+
+   * Els criteris generals per a les adequacions del procés d’ensenyament de les llengües a les realitat del centre.
+
+
+
+
+
+
+
+
+
+   2. ANÀLISI DEL CONTEXT
+
+
+
+
+
+
+
+
+
+   1. CARACTERÍSTIQUES SOCIOLINGÜÍSTIQUES
+
+
+
+
+
+
+
+
+
+Del total d’alumnes del centre, del 24 al 30% són alumnes d’altres nacionalitats; la majoria d’aquest alumnat prové de l’Amèrica Central i Sud Amèrica, Àsia i Oceania.
+
+
+
+
+
+Ocupacions laborals dels pares i mares de l’alumnat del centre
+
+
+
+
+
+El nivell socioeconòmic és mitjà ja que el 70% del total està representat per professions que tenen un grau determinat de qualificació i formació.
+
+
+
+
+
+   * Un 40% dels pares i mares de l’escola tenen ocupacions de tipus liberal o de nivell mitjà.
+
+   * Un 25% dels pares i mares de l’escola treballa en el sector de serveis i comerç.
+
+   * Un 5% del total està representat per oficials i operaris qualificats.
+
+   * Un 15% són treballadors no qualificats.
+
+   * Un 15% no especifiquen cap feina.
+
+
+
+
+
+La importància de l’aprenentatge i ús de la llengua catalana per part de l’alumnat
+
+
+
+
+
+L’escola Poeta Foix en els seus trets d'identitat indica que la llengua vehicular i d'aprenentatge a l’escola és el català, per tal de facilitar a tot l’alumnat sigui quina sigui la seva procedència un únic vehicle d’aprenentatge del procés de lectura i escriptura que li permet accedir posteriorment d’una forma més senzilla a l’aprenentatge d’altres llengües.
+
+L’objectiu de l’escola és el domini suficient de les llengües catalana i castellana en acabar l’escolaritat.
+
+L'escola serà respectuosa amb les llengües d'origen del seu alumnat i posarà els mitjans disponibles per tal d’integrar progressivament aquest alumnat nouvingut en el desenvolupament normal del seu procés d’aprenentatge i que l’alumne/a se senti acollit i pugui participar i gaudir activament de la vida de l’escola. A tal fi, l’escola disposa d’un Pla d’Acollida d’alumnes nouvinguts.
+
+
+
+
+
+Aprenentatge i qualitat en l’ ensenyament de la llengua castellana
+
+
+
+
+
+La llengua castellana és la llengua familiar de molts dels nostres infants i tots els/les alumnes de l’escola la coneixen i en tenen un domini oral, per tant, parlem de sistematització i no d’ introducció de la llengua castellana.
+
+
+
+
+
+A l’escola es comença la sistematització de la llengua al primer curs del cicle inicial. A primer curs es treballa la llengua oral i, a 2n la llengua escrita.
+
+
+
+
+
+Al 3r curs es remarquen les diferències pròpies d'aquesta llengua per tal que en acabar l’educació primària l’infant tingui coneixement de la llengua castellana a nivell oral i escrit de manera que pugui utilitzar-la apropiadament com a font d'informació i vehicle d'expressió.
+
+
+
+
+
+Ensenyament de la llengua anglesa
+
+
+
+
+
+La llengua anglesa s’inicia a P3 en horari lectiu. Aquesta es va introduint de manera transversal en les diferents rutines de l’aula i també a l’hora de psicomotricitat.
+
+L’aprenentatge d’aquesta llengua es realitza des d’un enfocament comunicatiu, participatiu i molt gradual, anant de la comprensió i expressió oral, a la comprensió i expressió escrita. L’objectiu general és comprendre i expressar missatges al final de l’ educació primària.
+
+________________
+
+DOMINI DE LA LLENGUA
+
+
+
+
+
+
+
+
+
+Domini del català per part del nostre alumnat
+
+
+
+
+
+L’alumnat coneix la llengua catalana i continua avançant en el seu coneixement per a poder utilitzar-la com a llengua d’aprenentatge i de comunicació.
+
+
+
+
+
+
+
+
+
+3. DESENVOLUPAMENT DEL PROJECTE
+
+
+
+
+
+
+
+
+
+3.1 PRINCIPIS DEL PROJECTE LINGÜÍSTIC
+
+
+
+
+
+
+
+
+
+3.1.1 ÀMBIT PEDAGÒGIC
+
+
+
+
+
+Al centre es realitza l’aprenentatge de tres llengües: català, castellà i anglès. Cadascuna té un tractament específic.
+
+
+
+
+
+   1. Llengua Catalana
+
+
+
+
+
+   1. El tractament de la llengua catalana com a llengua vehicular i d’aprenentatge.
+
+   * El centre ha de fer del català el vehicle d’expressió normal de mestres, alumnat i resta de personal en totes les activitats docents internes i externes. 
+
+   * El centre vetllarà per l’ús de la llengua catalana en els recursos materials, didàctics i humans del centre (llibres, jocs, material audiovisual...)
+
+   2. El procés d’ensenyament - aprenentatge de la llengua catalana
+
+
+
+
+
+   * Tot el procés d'ensenyament de la lectoescriptura es farà en català.
+
+   * El centre vetllarà perquè, en acabar l’educació primària, l’alumnat utilitzi aquesta llengua, tant oralment com per escrit.
+
+   * El procés d’aprenentatge de la llengua es realitza de manera transversal dins de diferents franges de l’horari (projectes).
+
+   * S’avalua aquest procés d’adquisició de la llengua a través de les avaluacions i les proves diagnòstiques.
+
+Les estructures lingüístiques comunes s’introduiran en llengua catalana.
+
+
+
+
+
+
+
+
+
+   2. Llengua castellana. Procés d’ensenyament i aprenentatge
+
+
+
+
+
+   * El centre vetllarà per a que, en acabar l’educació primària, l’alumnat sàpiga llegir correctament en castellà i utilitzi aquesta llengua tant oralment com per escrit.
+
+   * La Llengua castellana s’introdueix a 1r de primària.
+
+   * El procés d’aprenentatge de la llengua es realitza de manera transversal dins de diferents franges de l’horari (projectes)
+
+   * S’avalua aquest procés d’adquisició de la llengua a través de les avaluacions i les proves diagnòstiques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+   3. Llengua anglesa. Procés d’ensenyament i aprenentatge. 
+
+
+
+
+
+   * Millorar la competència comunicativa en llengua estrangera.
+
+   * Desenvolupar competències clau per al s. XXI (bàsiques, del pensament i actitudinals o personals)
+
+   * Fomentar el treball cooperatiu i per projectes.
+
+   * Adquirir estratègies per a l’aprenentatge autònom (aprendre a aprendre)
+
+   * Aconseguir la millora de la competència oral i escrita de la llengua anglesa, al final de l’Educació Primària.
+
+   * Educar en els valors de respecte envers la diversitat lingüística.
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4. Criteris generals per a les adequacions del procés d’aprenentatge de les llengües a la realitat sociolingüística.
+
+   * El centre vetllarà perquè en el moment d’ingrés de l'alumnat de primària amb llengua familiar diferent de la catalana, se senti acollit i s’estableixin estratègies per tal de facilitar una ràpida integració en la dinàmica de l’escola (Pla d’acollida per l’alumnat nouvingut)
+
+   * El centre vetllarà perquè l’alumnat nouvingut rebi un suport de català (Aula d’acollida o bé Suport Lingüístic i Social)
+
+   * El centre posarà els mitjans necessaris (acompanyament, adaptacions metodològiques, grups flexibles,...) per a que tot l’alumnat pugui assolir els objectius propis de cada una de les llengües.
+
+3.1.2 ÀMBIT D’ORGANITZACIÓ
+
+
+
+
+
+
+
+
+
+   1. El tractament de la llengua catalana com a llengua vehicular
+
+
+
+
+
+   * El català serà el vehicle d’expressió normal en totes les activitats docents i administratives, tant les internes com les externes.
+
+   * La llengua catalana serà el vehicle d’expressió normal en totes les reunions i actes de la comunitat educativa (reunions de famílies, entrevistes). Les reunions generals de famílies es faran sempre en llengua catalana. Si alguna família no entén el contingut, se li explicarà.
+
+   * La llengua catalana serà el vehicle d’expressió normal en qualsevol de les activitats internes del centre, especialment d’aquelles on els/les alumnes hi són presents.
+
+   * El centre tindrà una participació activa en les activitats culturals que organitzen les diferents entitats del barri per tal d’incentivar l’ús de la llengua ( Jocs Florals...).
+
+   * Els i les mestres tindran especial cura en la utilització de la llengua catalana en les seves relacions externes amb la resta de membres de les altres entitats públiques, tant del Departament d’Ensenyament com de l’Administració local.
+
+
+
+
+
+   2. Els criteris generals per a les adequacions del procés d’ensenyament- aprenentatge de les llengües a la realitat sociolingüística del centre globalment i individual.
+
+
+
+
+
+   * L’escola vetllarà per la difusió, entre la comunitat educativa, de les ofertes institucionals que fomentin l’ampliació de coneixements sobre la cultura catalana i, la situació del català en relació amb les altres llengües presents en el centre i en el context en què està ubicat.
+
+   * El centre oferirà els recursos que estiguin al seu abast perquè l’AFA incrementi l’ús de la llengua catalana en les seves activitats.
+
+   * L’escola col·laborarà en la difusió de cursos de llengua catalana per a les famílies de l’escola, fomentant la seva participació perquè aquestes s’impliquin en el procés d’aprenentatge del català de llurs fills/es.
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.3 ÀMBIT ADMINISTRATIU
+
+
+
+
+
+
+
+
+
+a) El tractament de la llengua catalana com a llengua vehicular
+
+
+
+
+
+   * El centre utilitzarà la llengua catalana en totes les comunicacions i en les notificacions tant internes com externes, si és necessari i les famílies ho demanen es farà en llengua castellana.
+
+   * Es redactaran en llengua catalana tots els documents derivats de les actuacions administratives de règim intern del centre com són actes, comunicats diversos, horaris, rètols,...
+
+   * El català serà emprat en totes les actuacions administratives del centre: arxius, qualificacions, informes interns i comunicacions.
+
+   * Les actuacions administratives sol·licitades per les famílies es faran en català excepte quan algú demani el castellà.
+
+   * Els avisos, comunicacions i autoritzacions que s’enviin a les famílies del centre es faran en llengua catalana.
+
+   * Es vetllarà per la utilització habitual d’un llenguatge no sexista en les comunicacions internes i externes del centre.
+
+
+
+
+
+
+
+
+
+3.1.4 ÀMBIT HUMÀ I DE SERVEIS
+
+
+
+
+
+
+
+
+
+a) El tractament de la llengua catalana com a llengua vehicular
+
+
+
+
+
+   * El català serà el vehicle d’expressió normal en qualsevol de les activitats docents i administratives, tant les internes com les externes.
+
+   * El centre utilitzarà, normalment, la llengua catalana com a llengua de comunicació oral i escrita entre tot el professorat, el personal no docent i l’alumnat dins i fora de l’àmbit  curricular.
+
+   * L’escola vetllarà perquè tot el personal del centre (professorat, PAS i personal contractat) tingui competència lingüística en català, segons la tasca que desenvolupa.
+
+   * El centre fomentarà la participació del personal docent i no docent en cursos d’actualització lingüística i de cultura catalana.
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2 CRITERIS GENERALS
+
+
+
+
+
+
+
+
+
+L’eix central del projecte curricular de centre pel que fa al coneixement de les llengües ha de ser l’adquisició de la competència comunicativa lingüística i audiovisual. Els continguts comunicatius han de tenir, preferentment, un ús pràctic i funcional.
+
+La programació de les llengües tindrà en compte el desenvolupament de les competències bàsiques de l’àmbit lingüístic.
+
+Es treballaran totes les tipologies textuals programades (text narratiu, descriptiu, informatiu, poètic, instructiu…) i se seqüenciaran per nivell.
+
+Es vetllarà perquè hi hagi coordinació internivell a l’hora de programar (programació vertical i transversal). Es treballarà l’educació en els valors i actituds respecte de la llengua.
+
+
+
+
+
+
+
+
+
+A l’hora de desenvolupar el currículum de dimensió lingüística caldrà tenir  en compte que aquesta competència s’ha de treballar transversalment, és a dir, en tots els àmbits.
+
+
+
+
+
+
+
+
+
+La Llengua anglesa
+
+
+
+
+
+   * Partint de la base que una llengua s’aprèn quan s’utilitza, l’aprenentatge de l’anglès tindrà un enfocament bàsicament comunicatiu.
+
+   * El contingut que se li ofereix a l’alumnat ha de ser útil amb possibilitats d’aplicació tant dins com fora de l’aula. L’aprenentatge de la llengua ha de ser funcional.
+
+   * La llengua vehicular ha de ser l’anglès però s’utilitzarà el català quan sigui necessari per simplificar les explicacions.
+
+   * L’aprenentatge ha de ser significatiu: allò que aprèn ha de ser graduat i l’alumnat ha de ser capaç de relacionar allò que aprèn amb el que ja sap. En el primer contacte amb la llengua anglesa es treballarà a nivell de comprensió i expressió oral a infantil.
+
+
+
+
+
+
+
+
+
+3.2.1 Criteris metodològics
+
+
+
+
+
+   * El centre vetllarà per l’existència, als espais d’aprenentatge, de situacions que afavoreixin la comunicació en contextos significatius (racons, joc lúdic, comunicació socio-afectiva, espais, apadrinaments ), sobretot entre els/les alumnes.
+
+   * Es fomentarà la biblioteca i el material comú per a l’aprenentatge de les llengües.
+
+   * Es vetllarà per la coherència curricular respecte a la utilització dels materials pedagògics.
+
+   * Els i les mestres dissenyaran estratègies que potencien l’ús de la llengua vehicular entre l’alumnat en tots els moments d’aprenentatge ( pati, sortides, passadissos,...)
+
+
+
+
+
+
+
+
+
+3.2.2 Criteris d'Atenció a la Diversitat d’Alumnat Nouvingut
+
+   * Es realitzarà un PI de nouvingut i un d’acollida per tot l'alumnat de fora Catalunya.
+
+   * Si l’escola té la dotació d’AA, (Aula d’Acollida) els infants nouvinguts assistiran diàriament per tal d’assolir la competència lingüística en català.
+
+   * L’escola vetllarà perquè els infants que no tinguin AA puguin gaudir d’un suport lingüístic i social. 
+
+   * L’escola compta amb el recurs i acompanyament dels professionals figura ELIC.
+
+________________
+
+3.2.3 Avaluació
+
+
+
+
+
+
+
+
+
+L’avaluació es duu a terme en referència als objectius i continguts, tenint en compte el desenvolupament integral de les competències bàsiques.
+
+
+
+
+
+S’utilitzaran diferents tipus d’avaluació (autoavaluació, coavaluació… ) que mostrin el procés d’aprenentatge de l’alumnat.
+
+Analitzem anualment els resultats de les proves de competències bàsiques de les tres llengües per detectar els aspectes a millorar
+
+
+
+
+
+
+
+
+
+3.3 CRITERIS GENERALS A TENIR EN COMPTE
+
+      * El centre compta amb el/la coordinador/a lingüístic/a (CLIC) amb les funcions que es determinen en les Instruccions per a l’organització i el funcionament dels centres educatius públics d’educació infantil i primària.
+
+      * La direcció del centre vetllarà perquè el projecte lingüístic sigui conegut per tot el personal que s’incorpora de nou al centre.
+
+      * L’equip directiu elaborarà la concreció anual del projecte lingüístic que s’integra dins del Pla General Anual de centre. En acabar el curs, la Memòria Anual ha de recollir l’assoliment dels objectius fixats.
+
+
+
+
+
+
+
+
+
+3.4 ACCIONS COMPLEMENTÀRIES
+
+
+
+
+
+Comptem amb diverses aliances de col·laboració amb institucions de l’entorn per tal d’augmentar l’exposició de l’alumnat i claustre a les llengües objecte d’aprenentatge i vinculades a activitats educatives.
+
+      * Fundació J.V.Foix
+
+      * Cuidem La Memòria
+
+      * CdA
+
+      * Xarxes Per Al Canvi (XxC)
+
+      * PFZ
+
+      * Projecte Biblioteca escolar
+
+
+
+
+
+4. LA QUALIFICACIÓ PROFESSIONAL DELS DOCENTS
+
+
+
+
+
+El repte principal del claustre és garantir que els infants assoleixin els objectius que prescriu el currículum mitjançant la metodologia més rigorosa, eficaç i motivadora possible.
+
+L’equip directiu vetllarà, a través de diferents accions (formacions, assessorament…), per garantir que tot el claustre tingui un bon domini de les llengües que imparteix i de les estratègies metodològiques que utilitza per garantir-ne l’aprenentatge. 
+
+L’equip directiu, amb el consens del claustre, i segons el seu Projecte Educatiu (PEC) crearà perfils professionals de l’àmbit lingüístic per assolir els objectius del seu PLC. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. DIFUSIÓ DEL PLC
+
+
+
+
+
+Es vetllarà per la difusió i implementació del PLC.
+
+
+
+
+
+
+
+
+
+Comunicació Interna
+
+	Comunicació externa
+
+	      * Claustre
+
+      * Drive d’escola
+
+	      * Consell escolar
+
+      * WEB
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+Aquest Projecte Lingüístic de Centre ha estat realitzat per una comissió formada per l’equip directiu, la coordinadora lingüística de centre, l’assessor LIC i la inspecció.
+
+
+
+
+
+El PLC ha estat revisat i aprovat per claustre i consell escolar el juny del 2022.
