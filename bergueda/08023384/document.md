@@ -1,0 +1,1400 @@
+---
+codi: 08023384
+centre: Sant Martí
+municipi: Puig-reig
+font: https://drive.google.com/file/d/1b3dqAoAdYvgBuO_VeFrlVT_k2EHG7iL9/view
+descarregat: 2026-10-28
+sha256: a0f7ec4be970b7378fbb9044e7a33981d72eab5de381f193b0a0cc0737190d77
+---
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+                                       ÍNDEX
+
+
+
+1.INTRODUCCIÓ
+
+
+
+   1.1. Presentació del document
+
+
+
+2. CONTEXT SOCIOLINGÜÍSTIC
+
+
+
+   2.1. Entorn
+
+
+
+     2.2. Alumnat
+
+
+
+3. LES LLENGÜES AL CENTRE
+
+
+
+     3.1. Tractament de llengües
+
+
+
+     3.2. Àrea de llengües
+
+
+
+           3.2.1. La llengua, vehicle de comunicació i de convivència
+
+
+
+           3.2.2. L’ensenyament / aprenentatge de la llengua catalana
+
+
+
+                    Llengua oral i llengua escrita
+
+                    La llengua en les diverses àrees
+
+                    Continuïtat i coherència entre cicles i nivells
+
+                    Acollida d’alumnat nouvingut i ensenyament inicial de la
+
+                    llengua vehicular: tractament de les llengües
+
+                    Atenció de la diversitat
+
+                    Activitats d’incentivació de l’ús de la llengua
+
+                    Avaluació del coneixement de la llengua
+
+                    Materials didàctics
+
+
+
+           3.2.3. El català, llengua vertebradora d’un projecte
+
+                    Plurilingüe
+
+
+
+                    Informació multimèdia
+
+                    Català i llengües d’origen
+
+
+
+           3.2.4. L’ensenyament /aprenentatge de la llengua castellana
+
+
+
+                   Introducció de la llengua castellana
+
+                    Llengua oral i llengua escrita
+
+
+
+    3.3. Altres llengües
+
+
+
+                                                                                        Pàgina 1
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+          3.3.1. Llengües estrangeres
+
+
+
+                 Estratègies generals per a l’assoliment de l’objectiu de
+
+                  l’etapa
+
+                 Desplegament del currículum
+
+                 Metodologia
+
+                 Materials didàctics
+
+
+
+          3.3.2. Projectes i programes plurilingües
+
+
+
+                  Activitats d’incentivació de l’ús de la llengua
+
+                  Llengües complementàries procedents de la nova
+
+                  immigració
+
+
+
+     3.4. Distribució horària de les llengües
+
+
+
+          Còmput horari de les diferents llengües distribuït per cicles
+
+          Hores setmanals de cada matèria
+
+
+
+4. ORGANITZACIÓ I GESTIÓ
+
+
+
+        4.1. Organització dels usos lingüístics
+
+
+
+               Llengua del centre
+
+               Documents de centre
+
+               Comunicació externa
+
+               Pàgina web
+
+
+
+        4.2. Organització dels recursos humans
+
+
+
+               El pla de formació de centre en temes lingüístics
+
+
+
+5. CONCRECIÓ OPERATIVA DEL PROJECTE (Pla anual)
+
+
+
+                     Pàgina 2
+
+PROJECTE LINGÜÍSTIC             ESCOLA SANT MARTÍ
+
+
+
+1. INTRODUCCIÓ
+
+
+
+Durant el curs 2009-2010 es va elaborar un document provisional del Projecte
+
+Lingüístic de Centre.
+
+Actualment, curs 2019-2020 s'ha revisat i actualitzat aquest document, el qual ens
+
+serveix com a referència de la realitat del centre, i s’aplica a les etapes d’Educació
+
+Infantil i Primària.
+
+Pel que fa al marc legal i cos teòric, cal remetre als següents documents:
+
+- Decret 362/1983 de 30 d’agost i la Llei de Política Lingüística 1/1998 de 7 de
+
+
+
+    gener.
+
+- Decret 142/2007, de 26 de juny, pel qual s’estableix l’ordenació dels
+
+
+
+    ensenyaments de l’educació primària.
+
+- Ordre EDU/221/2007, de 29 de juny, per la qual s'estableixen els principis
+
+
+
+    generals que s'han de tenir en compte per a l'aplicació de l'article 4.4 del
+
+    Decret 142/2007, de 26 de juny, per la qual s'estableix l'ordenació dels
+
+    ensenyaments de l’educació primària.
+
+- RESOLUCIÓ, per la qual s’aproven les instruccions per a l’organització i el
+
+    funcionament dels centres educatius públics d’educació infantil i primària i
+
+    d’educació especial per a cada curs.
+
+
+
+1.1. Presentació del document.
+
+
+
+El Projecte Lingüístic de Centre és el recull organitzat de les actuacions que la
+
+comunitat educativa es proposa dur a terme per a l’ensenyament i l’aprenentatge
+
+de les llengües i la comunicació.
+
+Aquest document té en compte tant el marc legal com la realitat del centre i
+
+defineix el paper de la llengua vehicular, el tractament de les llengües curriculars i
+
+els aspectes d’organització i de gestió que tenen repercussions lingüístiques.
+
+El seu objectiu és reflexionar i sistematitzar l’ús de les llengües dins la realitat
+
+quotidiana del centre. Ha de ser punt de referència per a tota la comunitat
+
+educativa, davant els canvis que es van produint a la nostra societat.
+
+
+
+                                Pàgina 3
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+La llengua ha de ser viscuda pels seus parlants, que la utilitzen mentre actuen,
+
+experimenten, observen, parlen... A l’escola això significa ensenyar i aprendre a
+
+conèixer. El professorat ha de ser conscient de la necessitat del desenvolupament
+
+de les competències comunicatives, lingüístiques i audiovisuals de l’alumnat per a
+
+l’assoliment dels objectius bàsics de totes les àrees.
+
+L’escola Sant Martí vol donar resposta a les noves necessitats de la societat
+
+catalana d’avui dia. Un dels reptes de la nostra escola és preparar als nostres
+
+alumnes per a la convivència en la pluralitat i diversitat lingüística i cultural. En
+
+aquest sentit aprendre llengües no és només aprendre formes concretes; sinó
+
+també comunicar-se i relacionar-se: saber entendre els altres, la seva cultura i
+
+fer-se entendre: Plurilingüisme.
+
+“Entenem que el respecte i coneixement del plurilingüisme és un valor fonamental
+
+de convivència i de reconeixement de la diversitat lingüística i cultural que hi ha a
+
+l’escola i a Catalunya. Per tant, afavorirem la presència de les llengües que
+
+formen part de la nostra comunitat educativa en actes i esdeveniments puntuals
+
+(festes d’escola, cançons, llibres, taller de cuina, ...)”
+
+
+
+2. CONTEXT SOCIOLINGÜÍSTIC
+
+
+
+2.1. Entorn
+
+El creixement de l’escola Sant Martí ha esdevingut de la següent manera:
+
+-El curs 2008-2009 amb 2 aules de P3.
+
+-En el curs 2009-2010 van haver 3 classes de P3 i 2 de P4.
+
+-En el curs 2010-11: 2 classes de P3, 3 de P4 i 2 de P5.
+
+-En el curs 2011-12 : 2 classes de P3, 2 de P4, 3 de P5 i 2 de 1r.
+
+-En el curs 2012-2013: 2 aules de P3, 2 de P4, 2 de P5 , 3 de primer i dues de 2n.
+
+-En el curs 2013-14: 3 classes de P3, 2 de P4, 2 de P5 d’Educació Infantil i 2 de
+
+1r, 3 de 2n i 2 de 3r d’Educació Primària.
+
+- En el 2014-2015: 2 classes de P3, 3 classes de P4, 2 de P5 d’Educació Infantil i
+
+2 de 1r, 2 de 2n, 3 de 3r i 2 de 4rt d’Educació Primària.
+
+
+
+                                                                                                   Pàgina 4
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+- En el 2015-2016: 2 classes de P3, 2 classes de P4, 3 de P5 d’Educació Infantil
+
+2 de 1r, 2 de 2n, 2 de 3r,3 de 4rt , 2 de 5è d’Educació Primària.
+
+- En el 2016-2017: 2 classes de P3, 2 classes de P4, 2 de P5 d’Educació Infantil
+
+3 de 1r, 2 de 2n, 2 de 3r, 2 de 4rt, 3 de 5è, 2 de 6è d´Educació Primària.
+
+- En el 2017-2018: 2 classes de P3, 2 classes de P4, 2 de P5 d’Educació Infantil
+
+2 de 1r, 3 de 2n, 2 de 3r, 2 de 4rt, 2 de 5è, i 3 de 6è d’Educació Primària.
+
+- En el 2018-2019: 2 classes de P3, 2 classes de P4, 2 de P5 d’Educació Infantil
+
+2 de 1r, 2 de 2n, 3 de 3r, 2 de 4rt, 2 de 5è, i 2 de 6è d’Educació Primària.
+
+- En el 2019-2020: 2 classes de P3, 2 classes de P4, 2 de P5 d’Educació Infantil
+
+2 de 1r, 2 de 2n, 2 de 3r, 3 de 4rt, 2 de 5è, i 2 de 6è d’Educació Primària.
+
+
+
+El curs 2008-09 l’escola va començar funcionant en mòduls al barri de la Vila
+
+Olímpica, carrer del Doctor Trueta 99 i el 8 de gener de 2013 es van iniciar les
+
+classes a l’escola nova al barri del Poblenou del mateix districte, al carrer Sant
+
+Joan de Malta 130.
+
+Actualment és una escola de doble línia, amb el 4rt triplicat.
+
+
+
+Característiques del barri:
+
+La població del barri de Sant Martí ha anat creixent de manera sostinguda i
+
+intensa durant els darrers anys, per la qual cosa ha estat necessària la
+
+construcció de noves escoles.
+
+Els indicadors demogràfics del districte mostren una població més jove que a la
+
+resta de Barcelona ciutat, de diverses procedències geogràfiques, culturals i
+
+econòmiques.
+
+Des de la seva creació, l’escola ha tingut força mobilitat d’alumnes degut a la
+
+població itinerant del barri.
+
+Respecte al nivell socioeconòmic de les famílies es detecten situacions molt
+
+diverses: d’una banda un nivell mitjà-alt amb professions liberals i d’una altra un
+
+nivell baix degut a feines precàries o desocupació laboral.
+
+
+
+2.2. Alumnat.
+
+
+
+                     Pàgina 5
+
+PROJECTE LINGÜÍSTIC        ESCOLA SANT MARTÍ
+
+
+
+L’alumnat en general entén i parla la llengua catalana i castellana i ambdues
+
+llengües formen part del seu entorn.
+
+Entre 10-15% dels nostres alumnes arriba a l’escola desconeixent la llengua
+
+vehicular del centre. La majoria dels nouvinguts venen de països de la Unió
+
+europea i altres continents.
+
+El professorat vetlla perquè en algun moment estiguin presents les llengües de
+
+l’alumnat al centre, sobretot en el cas dels no romànics.
+
+
+
+    ● Llengües que parlen els alumnes en el seu entorn familiar. Veure (Annex 1)
+
+
+
+3. LES LLENGÜES AL CENTRE
+
+
+
+3.1. Tractament de les llengües.
+
+El nostre projecte d’escola s’emmarca dins de les recomanacions del Marc
+
+Europeu comú de referència de les llengües que afirma la necessitat de saber
+
+llengües, de ser plurilingües. Es tindrà en compte les llengües d’origen de
+
+l’alumnat del centre per tal d’afavorir la seva autoestima i d’enriquir el currículum i
+
+les activitats ordinàries.
+
+
+
+El tractament de les llengües que el centre ha previst ha establert que les
+
+estructures lingüístiques comunes s’imparteixin en català.
+
+Considerem que en edats primerenques, la sensibilització envers de la llengua pot
+
+aportar elements educatius, culturals i socials que ajuden a desenvolupar una
+
+educació integral.
+
+Les actuacions que ens proposem són:
+
+1. Valorar la realitat multilingüe i multicultural de la nostra societat com a font de
+
+riquesa personal i col·lectiva.
+
+Prendre consciència de la importància del domini de llengües en un món cada cop
+
+més global.
+
+Utilitzar amb progressiva autonomia tots els mitjans al seu abast, incloent-hi les
+
+TIC, per obtenir informació i per comunicar-se.
+
+
+
+                           Pàgina 6
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+2. Desenvolupar la competència comunicativa oral i escrita en totes les llengües
+
+curriculars (català-castellà-anglès) per comunicar-se amb els altres, per aprendre,
+
+per expressar les opinions i concepcions personals, tant per buscar, recollir i
+
+processar informació, com per escriure textos vinculats a les diferents àrees del
+
+currículum.
+
+3. Desenvolupar la competència en la llengua catalana com a vehicle de
+
+comunicació parlada o escrita, per a la construcció dels coneixements, per al
+
+desenvolupament personal i l’expressió, i per a la seva participació en les
+
+creacions culturals.
+
+4. Desenvolupar la competència en llengua castellana de manera que sigui
+
+possible que, al final de l’educació obligatòria, utilitzi normalment i correctament
+
+les dues llengües oficials.
+
+5. Desenvolupar la competència en llengua anglesa de manera que sigui possible
+
+que, al final de l’educació obligatòria, la utilitzi a nivell oral i escrit amb capacitat
+
+suficient sobre temes relacionats amb els interessos dels alumnes, els dels altres i
+
+el món que ens envolta.
+
+6. Comprendre llenguatge audiovisuals (publicitat, pel·lícules, informatius), dels
+
+mitjans de comunicació o de les tecnologies de la informació i la comunicació, i
+
+fer-ne una lectura crítica i creativa.
+
+7. Aprofitar els recursos de la biblioteca, els mitjans de comunicació audiovisual i
+
+les tecnologies de la informació per obtenir, interpretar i valorar informacions i
+
+opinions diferents.
+
+
+
+3.2. Àrea de llengües.
+
+Creiem que l’ensenyament de la llengua és un eix vertebrador en una concepció
+
+global del que és aprendre, és l’alternativa coherent per aconseguir que els
+
+infants, en acabar l’ensenyament primari, siguin competents per aprendre al llarg
+
+de tota la vida.
+
+
+
+3.2.1. La llengua, vehicle de comunicació, convivència i aprenentatge.
+
+La nostra proposta es situa en la concepció constructivista de l’ensenyament, que
+
+privilegia les dinàmiques de la interacció, sobretot oral, com a eix per a la
+
+
+
+                                                                                                   Pàgina 7
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+construcció dels coneixements. A través de la llengua els infants se senten
+
+protagonistes del seu aprenentatge i tot aprenent a conviure, aprenen a ser, a fer i
+
+a saber.
+
+La comunicació oral està present a totes les àrees, per tant, cal donar un bon
+
+model lingüístic.
+
+A Educació Infantil cal aprofitar al màxim tots aquells moments d’interacció directa
+
+amb els nens i nenes: a l’hora de posar-se la bata, a l’hora de fer les rutines del
+
+bon dia, passar llista, repartir les tasques a fer, tallers, racons, etc..
+
+A Educació Primària, el desenvolupament de les habilitats del llenguatge oral es
+
+contempla en totes les àrees de comunicació, com: converses de Teixits, ajuda
+
+entre iguals en els tallers, exposicions orals, ....
+
+
+
+3.2.2. L’ensenyament / aprenentatge de la llengua catalana.
+
+El català com a llengua pròpia de Catalunya ho és també de l’ensenyament i , per
+
+tant, és la llengua vehicular de les diferents activitats d’ensenyament i
+
+aprenentatge del centre. La llengua catalana és l’eina de cohesió i d’integració
+
+entre totes les persones del centre i és el vehicle d’expressió de totes les activitats
+
+acadèmiques excepte les hores curriculars de castellà i anglès.
+
+Caldrà vetllar perquè la llengua catalana no quedi limitada a una llengua
+
+exclusivament d’aprenentatge, per tant, s’haurà de dinamitzar l’ús del català en
+
+tots els àmbits de convivència i de comunicació quotidiana al centre educatiu.
+
+
+
+Llengua oral i llengua escrita.
+
+Aquest Projecte Lingüístic basa la seva atenció a la llengua oral i escrita i en
+
+l’assoliment de les competències comunicatives a fi que l’alumnat sàpiga
+
+interaccionar verbalment, és a dir, sigui competent a l’hora de conversar, escoltar i
+
+expressar-se, desenvolupant l’habilitat per expressar, argumentar i interpretar
+
+pensaments, fets i sentiments i d’interactuar en contextos socials i culturals
+
+diversos. Aquestes competències comunicatives es reforçaran també amb l'ús de
+
+les noves tecnologies. La dimensió comunicativa i la dimensió literària es
+
+formularan al voltant de les següents habilitats: parlar i conversar, escoltar i
+
+
+
+                     Pàgina 8
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+comprendre, llegir i comprendre i escriure. Es fomentaran activitats per tal
+
+d’integrar aquestes habilitats.
+
+El treball d’expressió oral és constant a tota l’escolaritat i no el podem separar del
+
+funcionament global de l’aula. Això vol dir que a totes les àrees s’utilitzen
+
+estratègies lingüístiques que potser es poden considerar pròpies de l’àrea de
+
+llengua però que es poden incorporar a totes les matèries. D’aquesta manera van
+
+desenvolupant les habilitats necessàries per anar construint i millorant el
+
+llenguatge.
+
+Pel que fa a la llengua escrita, a Educació Infantil comencen a familiaritzar-se a
+
+partir del nom propi, del vocabulari bàsic dels projectes de treball a Teixits, del
+
+nom dels objectes i de situacions properes, tot fent ús d’un mètode global.
+
+L’aprenentatge de la lectura i escriptura es farà en català i es començarà a iniciar
+
+de manera constructiva i amb caràcter globalitzador, respectant els diferents
+
+ritmes individuals. En el primer cicle d’Educació Primària es segueix
+
+l’aprenentatge de la mateixa manera, per consolidar els continguts bàsics per
+
+desenvolupar futures competències lingüístiques i comunicatives fins acabar
+
+l’etapa.
+
+Altres activitats de lectura i escriptura que es realitzen de manera sistemàtica, a
+
+tota l’escola, són:
+
+- el Projecte Apel·les : en el Primer cicle
+
+- 30 minuts diaris de lectura
+
+- Comprensió Lectora : lectogrup
+
+- Apadrinament lector.
+
+- Premi Sambori
+
+- Certamen de lectura en veu alta.
+
+
+
+La llengua en les diverses àrees.
+
+A totes les àrees considerades no lingüístiques es té en compte el contingut que
+
+s’ensenya i la llengua que les vehicula. Per això es dóna especial atenció a les
+
+converses, a l’estructuració oral dels continguts i la seva comprensió i
+
+estructuració escrita. Tot el professorat és d'alguna manera professorat de
+
+llengua. Caldrà doncs establir uns criteris comuns i consensuats respecte al
+
+
+
+                                                                                                   Pàgina 9
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+tractament de la llengua catalana que serà la llengua vehicular d’algunes àrees
+
+del currículum.
+
+Tenint en compte que hi ha un conjunt de continguts que són comuns a totes les
+
+llengües es tindrà present introduir-los més sistemàticament i reflexivament en la
+
+llengua vehicular de l’escola, en la franja horària del català per ser aplicats a les
+
+altres, i facilitar així la transferència necessària d’aprenentatges entre llengües.
+
+
+
+Continuïtat i coherència entre cicles i nivells.
+
+L'equip directiu del centre vetllarà per la continuïtat i coherència entre cicles tant
+
+per al que respecta als continguts curriculars com amb les actuacions docents.
+
+A l’Educació Infantil s’iniciarà el Programa d’Immersió Lingüística, donant prioritat
+
+a la llengua parlada i programant-la de tal manera que sigui capaç de satisfer
+
+totes les necessitats lingüístiques dels alumnes.
+
+L’escola afavorirà els trets d’identitat propis de la nostra cultura: història,
+
+tradicions, cançons, contes, dites i jocs que seran presents al centre per a
+
+desenvolupar l’estimació al país i el sentiment de pertinença.
+
+L’equip de mestres es preocuparà perquè els alumnes amb llengua familiar
+
+diferent a la catalana, se sentin acollits a classe i buscarà estratègies que els
+
+facilitin una ràpida comunicació en llengua catalana per tal d’afavorir la seva
+
+participació activa en la dinàmica de l’escola.
+
+Es crearan situacions d’aprenentatge que responguin a la vida, a les necessitats i
+
+els interessos dels nens i nenes. Es donarà un enfocament metodològic
+
+funcional, és a dir, que l’aprenentatge de la llengua sigui un acte d’afecte i
+
+estimació envers l’alumnat.
+
+
+
+Acollida d’alumnat nouvingut i ensenyament inicial de la llengua vehicular:
+
+tractament de les llengües.
+
+Caldrà emprar totes les estratègies que tenim a l’abast per aconseguir amb
+
+immediatesa que els nens i les nenes adquireixin nocions bàsiques de llengua
+
+catalana per comunicar-se i poder seguir les activitats d’aprenentatge.
+
+
+
+                                                                                                 Pàgina 10
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+El Centre establirà les estratègies que cregui més adients perquè en el moment
+
+d’ingrés a l’escola d’un alumne amb llengua familiar diferent a la catalana es senti
+
+ben acollit.
+
+Per afavorir l'expressió oral i la comunicació no es discriminarà cap llengua tot i
+
+que els professors/es de l'aula s'expressaran en català ajudant per a què l'alumne
+
+ho faci. Sempre respectarem la iniciativa en la conversa.
+
+
+
+Atenció a la diversitat.
+
+Des de l’escola potenciem que l’atenció a la diversitat es treballi a partir de
+
+l’articulació de diverses activitats que ens permetin treballar amb grup reduïts.
+
+A l’Educació Infantil articulem sessions de racons de joc i treball, dins dels quals
+
+s’ofereix una part important d’ajuda pedagògica. Faciliten la possibilitat d’oferir
+
+ajuda a cadascun dels nens i nenes de la classe ja que intervé sempre una
+
+mestra de reforç dins les aules. En aquests racons es desenvolupen diferents
+
+activitats de diferents àrees curriculars.
+
+A Ed. Infantil les sessions de les àrees de Llengua Anglesa i Psicomotricitat es
+
+fan, sempre que és possible, en grup reduït, d’aquesta manera l’atenció és més
+
+individualitzada i es poden treballar competències comunicatives.
+
+A Ed. Primària les sessions de tallers i racons, on es treballen les àrees de
+
+Matemàtiques i Llengua Catalana es fan en grup reduït. El treball de tallers i
+
+racons es realitza en petites agrupacions que no tenen perquè ser iguals per a
+
+totes les propostes, ni per a tots els nivells. Els grups de nens i nenes són
+
+heterogenis, ja que a partir de les diferències entre uns i altres es pot afavorir
+
+l’ajuda entre ells. Sempre hi ha una taula de reforç tutelada pel mestre de reforç
+
+que pot tenir una atenció personalitzada dels alumnes. Informàtica també es fa
+
+partint el amb grup aula de Ciències.
+
+En casos concrets i segons les dificultats dels alumnes també hi ha sessions de
+
+reforç per ajudar als nens i nenes que tenen més dificultats amb els instruments
+
+bàsics de l’aprenentatge, la llengua i les matemàtiques.
+
+Totes les mesures de reforç expressades fins ara a vegades no són suficients per
+
+alguns nens i nenes i aleshores cal trobar mesures extraordinàries com l’atenció
+
+
+
+                     Pàgina 11
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+de diferents professionals a alumnes que presenten deficiències més greus,
+
+l’atenció de logopèdia, vetlladores, fisioterapeuta... (Veure Annex 2)
+
+
+
+Avaluació dels coneixement de la llengua
+
+Partint de l’avaluació contínua, al final de cada trimestre es fa una avaluació per
+
+nivells i s’informa per escrit a les famílies de primària dels resultats aconseguits a
+
+l’àmbit de llengua. Sempre que s’estima oportú, durant el trimestre hi ha un
+
+intercanvi d’informació família-escola del procés d’aprenentatge de cada alumne.
+
+En les sessions d’avaluació trimestrals a Educació Primària i quadrimestrals a
+
+Educació Infantil comentem, valorem i avaluem aquests ítems en funció del
+
+procés formatiu/maduratiu de cada alumne/a.
+
+
+
+3.2.3. El català, llengua vertebradora d’un projecte plurilingüe.
+
+
+
+Informació multimèdia
+
+El centre aplica les TAC al desenvolupament del currículum des de totes les àrees
+
+curriculars possibles.
+
+Català i llengües d’origen
+
+Només el 15,7 % dels nostres alumnes arriba a l’escola desconeixent la llengua
+
+vehicular del centre la majoria dels nouvinguts venen de països de la unió
+
+europea encara en els últims anys hi ha potser un increment d’alumnes xinesos.
+
+El professorat vetlla perquè en algun moment estiguin presents les llengües de
+
+l’alumnat al centre, sobretot en el cas dels alumnes de llengua no romànica.
+
+En el curs 2013-14, les llengües d’origen dels nostres alumnes són les següents:
+
+Francès, alemany, italià, flamenc, portuguès, anglès, holandès, rus, romanès,
+
+suec, polonès, xinès, àrab, algerí i urdú.
+
+
+
+3.2.4. L’ensenyament i aprenentatge de la llengua castellana.
+
+
+
+La llengua castellana està present en la realitat quotidiana dels nostres infants de
+
+forma natural (família, televisió, lleure, entorn) i per tant ho està també a l’entorn
+
+de l’escola. Per molts dels alumnes representa la llengua materna.
+
+
+
+                                                                                                 Pàgina 12
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+El procés d’aprenentatge de la llengua castellana es desenvoluparà des de la
+
+comprensió, primer a l’expressió oral i progressivament introduint l’expressió
+
+escrita.
+
+L’ensenyament-aprenentatge sistemàtic de la llengua castellana s’inicia a primer
+
+curs de Cicle Inicial. A la resta de cicles, es tractarà d’acord amb el que determina
+
+la normativa vigent i aquest Projecte Lingüístic.
+
+S’utilitzarà aquesta llengua en totes les activitats orals i escrites, les exposicions
+
+del mestre, el material didàctic, els llibres de lectura, les proves ( i en les activitats
+
+d’avaluació de l’àrea).
+
+Hi ha una integració significativa de les TAC a l’àrea de llengua castellana.
+
+Aquesta àrea la impartirà un mestre diferent al tutor/a del curs per tenir el seu
+
+referent castellà.
+
+Per tal que l’ús de la llengua castellana sigui realment el d’una llengua viva, el
+
+castellà també podrà ser llengua d’aprenentatge en alguna altra àrea.
+
+
+
+Llengua oral i llengua escrita
+
+És en el primer cicle d’Educació Primària on es preveu l’aprenentatge més
+
+sistemàtic de la lectura i escriptura. Tenint en compte que hi ha un conjunt de
+
+continguts que són comuns a totes les llengües es tindrà present introduir-los més
+
+sistemàticament i reflexivament en la llengua vehicular de l’escola, en la franja
+
+horària del català per ser aplicats a les altres, i facilitar així la transferència
+
+necessària d’aprenentatges entre llengües. Així doncs, les estructures
+
+lingüístiques comunes s’imparteixen en llengua catalana i serveixen com a base
+
+per a l’aprenentatge de les dues llengües oficials.
+
+Al llarg de l’etapa es planifiquen els continguts lingüístics que permeten reforçar i
+
+no repetir els elements comuns entre les llengües.
+
+
+
+3.3. Altres llengües.
+
+L’escola estableix com a llengua estrangera la llengua anglesa, per la seva
+
+transcendència internacional tant cultural com tecnològica, i per la pròpia
+
+demanda social.
+
+
+
+                     Pàgina 13
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+3.3.1. Llengües estrangeres, l’anglès.
+
+L’alumnat, en acabar l’etapa, ha de conèixer, com a mínim, una llengua
+
+estrangera. Optem per l’anglès perquè és la llengua que ha de fer que els nostres
+
+alumnes esdevinguin aprenents capaços de comunicar-se i d’accedir al
+
+coneixement en un entorn plurilingüe i pluricultural.
+
+
+
+Estratègies generals per a l’assoliment de l’objectiu de l’etapa
+
+L’ensenyament de la llengua anglesa, en el nostre centre s’inicia en l’Educació
+
+Infantil a P4. Considerem molt positiu començar l’aprenentatge de la llengua
+
+anglesa a aquesta edat perquè els nens són capaços de fixar qualsevol registre
+
+fonètic nou.
+
+A Educació Infantil, creiem necessari el desdoblament dels grups, tant a P4 com
+
+a P5, per donar una atenció més individualitzada. Realitzem una primera
+
+aproximació de forma oral i lúdica, a través de jocs, cançons i contes.
+
+
+
+A Educació Primària treballem l’anglès a través de les següents estratègies
+
+metodològiques i organitzatives:
+
+
+
+A Cicle Inicial prioritzem l’ensenyament de la llengua oral però comencem a
+
+introduir la llengua escrita a través de vocabulari i algunes estructures bàsiques.
+
+
+
+A Cicle Mitjà continuem donant importància a l’expressió oral però també
+
+aprofundim més amb la llengua escrita, entrant en estructures gramaticals
+
+bàsiques.
+
+
+
+A Cicle Superior continuem amb el treball de la llengua oral i ampliem
+
+considerablement el tractament de la comprensió lectora i l’expressió escrita.
+
+
+
+Pel que fa a les hores lectives dedicades a l’àrea, s’aniran incrementant
+
+progressivament a cada cicle, arribant a una dedicació de 3 hores setmanals a
+
+Cicle Superior de primària.
+
+
+
+                     Pàgina 14
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+Per tal d’afavorir l’ampliació i el reforç dels continguts, augmentem l’exposició dels
+
+alumnes a la llengua anglesa, impartint altres àrees en aquesta llengua.
+
+A Visual i Plàstica, es fan tallers en grups reduïts on els alumnes, a part de
+
+treballar l’expressió artística, aprenen vocabulari i estructures gramaticals pròpies
+
+de la llengua anglesa dins d’aquesta àrea.
+
+A l’àrea que hem anomenat Teixits, també integrem l’aprenentatge de la llengua
+
+anglesa amb els continguts de l’àrea de Coneixement del Medi a partir dels temes
+
+triats pels propis alumnes segons els seus interessos.
+
+
+
+Desplegament del currículum
+
+El centre es proposa fer alguns canvis per tal d’assegurar una distribució coherent
+
+i progressiva del currículum al llarg de l’etapa, amb un tractament cíclic dels
+
+conceptes, variant els contextos d’ús d’acord amb l’etapa madurativa i les
+
+necessitats de l’alumnat.
+
+L’anglès es treballa principalment a nivell oral, ja que la llengua oral és la base de
+
+la comunicació i de l’aprenentatge. És important que la llengua d’ús a la classe
+
+sigui l’anglès des dels primers nivells, ja que, d’aquesta manera els alumnes
+
+percebran aquesta llengua com una eina de comunicació dintre de l’aula. La
+
+llengua escrita acompanya l’oral i els nens i nenes es van familiaritzant amb ella.
+
+Aquesta s’hauria de treballar a partir de vocabulari bàsic senzill al CI i
+
+progressivament es treballaran estructures més complexes al CM i CS.
+
+La llengua vehicular dintre de l’aula ha de ser l’anglès.
+
+Per poder treballar la llengua oral d’una manera eficient organitzem
+
+desdoblaments a tots els cursos, tant a Educació Infantil com a Primària.
+
+La llengua anglesa no és una llengua d’ús pels alumnes, només per aquells que
+
+procedeixen de famílies de parla anglesa. Per tant, els alumnes només l’aprenen
+
+mentre l’escolten i la parlen a l’escola. És per aquesta raó que cal incrementar el
+
+nombre d’hores que l’alumne està immers en aquesta llengua, així com el nombre
+
+de mestres que parlen anglès a l’escola.
+
+
+
+                                                                                                 Pàgina 15
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+S’afavoreixen les activitats en anglès dins i fora de l’aula: com és ara el teatre, la
+
+introducció de cançons en els festivals escolars, i en exposicions o murals als
+
+passadissos de l’escola.
+
+
+
+Metodologia
+
+Els eixos bàsics de la nostra proposta metodològica són: rutines, presentació del
+
+vocabulari, les cançons, les històries i els jocs de moviment. Per a la tria de les
+
+millors opcions metodològiques tenim en compte aquelles que són pròpies de
+
+l’aprenentatge de la llengua anglesa però estretament relacionades amb les
+
+metodologies pròpies de l’educació infantil.
+
+A grans trets podem dir que els alumnes d’aquesta edat necessiten una gran
+
+varietat d’activitats diferents, molt suport visual, es deixen encisar pel factor màgic
+
+o de sorpresa. Aprenen fàcilment però alhora s’obliden ràpidament, per això cal
+
+reciclar els continguts.
+
+Les rutines: Els alumnes necessiten la referència que el temps els proporciona per
+
+organitzar la seva activitat. Les rutines els ajuden a comprendre allò que succeeix
+
+al seu voltant.
+
+En anglès, les rutines tenen un altre valor afegit, perquè el fet de repetir sempre
+
+les mateixes estructures lingüístiques els dóna més seguretat a l’hora
+
+d’utilitzar-les i augmenta la sensació que estan aprenent ràpid.
+
+Els jocs: El joc és un element essencial dels infants d’aquesta etapa. A la classe
+
+d’anglès són de caràcter guiat i basats en la memorització, les endevinalles i el
+
+moviment. La seva finalitat és reforçar el vocabulari a través d’una activitat que és
+
+propera als nens i que els encanta.
+
+Total Physical Response (l’aprenentatge a través del moviment): Aquest mètode
+
+es basa en mostrar la comprensió d’allò que s’ha escoltat a través de la resposta
+
+física o moviment. És molt útil en l’etapa infantil i per tant, en els primers estadis
+
+d’adquisició de la llengua. Permet establir una bona base comunicativa respectant
+
+el ‘silent period’, és a dir, l’etapa en que el nen no és capaç de verbalitzar el que
+
+sap fins que no se sent prou segur. Les activitats relacionades amb el TPR estan
+
+implícites en els jocs, cançons, rutines i històries que es treballen a l’aula.
+
+
+
+                     Pàgina 16
+
+PROJECTE LINGÜÍSTIC                         ESCOLA SANT MARTÍ
+
+
+
+Materials didàctics per a l’aprenentatge de la llengua estrangera
+
+Actualment a Educació Infantil, CI i CM no fem servir llibre de text. Per aquests
+
+alumnes cal proveir recursos addicionals variats i que afavoreixen l’atenció a la
+
+diversitat. També s’han de facilitar els materials que serveixen per a l’ampliació
+
+dels coneixements. A CS, a més de proveir tots els recursos anteriorment citats,
+
+considerem necessari un treball més organitzat i sistemàtic de les estructures
+
+gramaticals, la comprensió lectora i l’expressió escrita. Per aquest motiu, fem
+
+servir llibres socialitzats de consulta i estudi i els alumnes només han d’adquirir el
+
+quadern d’exercicis.
+
+
+
+Al centre disposem d’una aula pròpia de llengua anglesa en la qual tenim una
+
+biblioteca amb lectures en anglès, on els alumnes tenen a l’abast llibres de
+
+lectura, ficció i no ficció de diferents nivells, revistes i jocs. Per tal d’afavorir la
+
+comprensió lectora dels alumnes, es realitza préstec de llibres als alumnes de
+
+Cicle Superior.
+
+
+
+3.3.2. Projectes i programes plurilingües.
+
+
+
+Entenem que l’ensenyament de la llengua anglesa ha d’estar relacionat amb les
+
+altres àrees curriculars. Per això oferim classes de Visual i Plàstica i Teixits fent
+
+servir la llengua catalana i l’anglesa. A l’àrea de Visual i Plàstica l’organització és
+
+internivells.
+
+
+
+D’altra banda, per promoure la comunicació, el plurilingüisme i el coneixement
+
+d’altres cultures, ens proposem participar en el projecte educatiu eTwinning.
+
+Aquest programa permetrà als nostres alumnes col·laborar amb nois i noies
+
+d’altres escoles d’Europa fent servir la llengua anglesa com a vehicle de
+
+comunicació.
+
+
+
+                                            Pàgina 17
+
+PROJECTE LINGÜÍSTIC                        ESCOLA SANT MARTÍ
+
+
+
+Activitats d’incentivació de l’ús de la llengua
+
+El nostre projecte lingüístic es pot considerar com un projecte integrat de llengües
+
+a on les activitats que duem a terme estan orientades a potenciar l’ús comunicatiu
+
+de totes les llengües. A l’escola les tres llengües són presents a festes i
+
+celebracions.
+
+Llengües complementàries procedents de la nova immigració
+
+Al llarg del 2013-14 es preveu presentant activitats que reforcin les llengües
+
+d’origen de l’alumnat de llengües no romàniques.
+
+
+
+3.4. Distribució horària de les llengües.
+
+
+
+Còmput horari de les diferents llengües distribuït per cicles. Hores setmanals de
+
+cada matèria.
+
+Annex 3.
+
+
+
+4. ORGANITZACIÓ I GESTIÓ
+
+
+
+4.1. Organització dels usos lingüístics.
+
+Llengua del centre
+
+El català, com a llengua pròpia de Catalunya, serà el vehicle d’expressió normal
+
+en totes les activitats docents i administratives, tant les internes com les de
+
+projecció externa.
+
+La direcció del centre vetllarà perquè la llengua catalana sigui el vehicle
+
+d’expressió normal en les reunions del claustre i del Consell Escolar, també
+
+perquè sigui l’expressió habitual de totes les reunions i actes de la comunitat
+
+educativa (reunions de pares, entrevistes i comunicats) sempre que es pugui
+
+assegurar la comprensió i exceptuant casos o situacions on la comunicació sigui
+
+molt difícil.
+
+La direcció del centre vetllarà perquè el professorat exerceixi la seva tasca docent
+
+en la llengua que correspongui segons el projecte lingüístic del centre.
+
+
+
+                                                                                                 Pàgina 18
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+El centre vetllarà perquè tot el personal de l’escola (professorat i personal
+
+contractat) tingui competència lingüística en català, segons la tasca que
+
+desenvolupa.
+
+
+
+Documents de centre
+
+El centre, com a referent d’ús de la llengua que és, tindrà en compte usar sempre
+
+el català pel que fa a: retolació de dependències, documentació administrativa
+
+interna, instruments de gestió, actes, avisos orals i escrits, comunicats taulers
+
+d’anuncis, murals.
+
+Es tindrà en compte en els documents de centre usar un llenguatge no sexista ni
+
+androcèntric ajudant a l’alumnat a superar tota mena d’estereotips.
+
+
+
+Comunicació externa
+
+Pel que fa a la projecció externa es tindrà en compte d’usar sempre el català en
+
+tot allò referent a l’administració educativa i local, a la relació amb altres centres,
+
+amb els Moviments de Renovació Pedagògica, amb els serveis educatius, etc.
+
+Per exemple: en la correspondència oficial, així com els butlletins i informes.
+
+Per altra part, sempre que es valori necessari, es podrà fer bilingüe en
+
+comunicacions dirigides a les famílies, a l’associació de veïns, etc. i en català i/o
+
+castellà en la correspondència escolar i en la participació a la xarxa de
+
+comunicacions (internet).
+
+El Centre intentarà que en l’organització i realització de serveis d’educació no
+
+formal (menjador escolar, acollida...), així com en la realització de les activitats
+
+extraescolars, en la contractació d’activitats a empreses, etc. els responsables
+
+d’aquests activitats s’adrecin sempre en català a l’alumnat i vetllin per tal que la
+
+comunicació de l’alumnat sigui també en català.
+
+Pàgina web
+
+La pàgina web del centre permet la comunicació amb tota la comunitat educativa.
+
+En general aquesta és en llengua catalana tot i que hi pot haver-hi mostra d’altres
+
+llengües també presents al centre.
+
+
+
+                     Pàgina 19
+
+PROJECTE LINGÜÍSTIC  ESCOLA SANT MARTÍ
+
+
+
+A la pàgina web s’hi pot trobar la presentació del centre, dels alumnes, de
+
+l’AMPA, menjador, etc. així com un resum visual d’activitats celebrades a l’escola:
+
+festes, sortides, etc.
+
+
+
+4.2. Organització dels recursos humans.
+
+Per part del claustre es veu la necessitat de seguir formant-se per poder millorar
+
+la pràctica educativa i poder-se ajustar a les necessitats actuals del nostre
+
+alumnat.
+
+
+
+5. CONCRECIÓ OPERATIVA DEL PROJECTE (Pla anual)
+
+
+
+A la Programació General Anual de Centre es concretaran a l’apartat d’objectius
+
+generals les actuacions necessàries per l’aplicació d’aquest Projecte Lingüístic de
+
+Centre, així com els criteris d’avaluació que calguin per comprovar la seva
+
+aplicació.
+
+
+
+                                                 Pàgina 20
