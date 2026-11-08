@@ -1,0 +1,696 @@
+---
+codi: 08047431
+centre: Institut XXV Olimpíada
+municipi: Barcelona
+font: https://docs.google.com/document/d/1Rs012QjbUBNYxNJmxSx02fGszcyT-lG5/edit
+descarregat: 2026-10-20
+sha256: a89dfa021686586ec8f6da72a092a5d9d0ba9752afde9cb9dbdba35ecb43bb1f
+---
+
+﻿Projecte Educatiu de Centre 
+
+de l'Institut XXV Olimpíada
+
+
+
+
+
+
+
+
+
+  
+
+
+
+Equip de direcció de l'Institut XXV Olimpíada
+
+
+
+
+
+COORDINACIÓ PEDAGÒGICA
+
+
+
+
+
+Presentació al Consell Escolar el 
+
+
+
+
+
+13 de desembre de 2023
+
+
+
+
+
+ institut XXV olimpíada 
+
+
+
+ logoIES XXV Olimpíada 
+
+
+
+
+
+
+
+________________
+
+
+
+
+
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Índex
+
+
+
+
+
+
+
+
+
+
+
+
+
+El Projecte educatiu de l’Institut XXV Olimpíada           1
+
+
+
+
+
+1. Ensenyament–aprenentatge en un ambient adequat           3
+
+2. Caracterització de l’Institut XXV Olimpíada           5
+
+2.1. Ubicació           5
+
+2.2. Inici del centre educatiu           5
+
+2.3. Equipaments, serveis i activitats           5
+
+2.4. Característiques de l’Institut XXV Olimpíada           6
+
+2.5. L’oferta educativa           9
+
+3. L’organització de l’Institut XXV Olimpíada         11
+
+4. Indicadors de progrés         13
+
+5. Concreció i desenvolupament del currículum         15
+
+6. El projecte lingüístic de l’Institut XXV Olimpíada         17
+
+7. L’oferta de Batxillerat com a element diferenciador del XXV Olimpíada         19
+
+8. Professorat amb perfil de funcions específiques         21
+
+
+
+
+
+________________
+
+
+
+
+
+
+
+
+
+Projecte Educatiu de l’Institut XXV Olimpíada
+
+
+
+
+
+L’Institut XXV Olimpíada va elaborar el seu Projecte Educatiu de Centre en iniciar la seva activitat. La Llei d’Educació de Catalunya publicada el 10 de juliol de 2009 va propiciar una revisió que ha regit des del 8 d’octubre de 2014 i, la nova realitat amb la implantació del DECRET 150/2017, de 17 d’octubre, de l’atenció educativa a l’alumnat en el marc d’un sistema educatiu inclusiu planteja una actualització del Projecte Educatiu de l’Institut XXV Olimpíada de Barcelona. 
+
+L’Institut XXV Olimpíada disposa de l’autonomia en els àmbits pedagògic, organitzatiu i de gestió de recursos humans i materials que li atorga la Llei d’Educació Catalunya i, en l’exercici d’aquesta autonomia fa una relectura del PEC vigent per tal de dissenyar l’estructura i el funcionament del centre d’acord amb el que es prescriu en la legislació educativa. 
+
+L’exercici de l’autonomia de centre de què disposa s’orienta a assegurar l’equitat i l’excel·lència des de l’activitat educativa de qualitat.
+
+El PEC contribueix a impulsar la col·laboració entre els diversos sectors de la comunitat educativa i la relació del centre amb l’entorn social i territorial.
+
+El PEC marca les línies d’actuació de l’Institut XXV Olimpíada i planteja els objectius que es desenvolupen en els diferents sectors de l’institut amb la formulació corresponent, els quals es concreten cada curs en el Pla Anual de Centre i s’avaluen en la Memòria Anual del Centre.
+
+En el primer punt del projecte educatiu es planteja l’ambient que requereix la tasca docent per a l’ensenyament. El segon punt se centre en la caracterització de l’Institut XXV Olimpíada. Al tercer s’aborda l’organització i al quart els indicadors de progrés mentre que al cinquè es dissenya la concreció i desenvolupament del currículum i al sisè el projecte lingüístic. Aquests punts tercer a sisè requereixen concrecions més enllà del que contempla el PEC i es desenvolupen documentalment en els desplegaments que es formulen i revisen curs a curs.
+
+El punt 7 concreta l’oferta diferenciadora de l’Institut XXV Olimpíada al Batxillerat en totes les vies. Finalment, el punt 8 deixa oberta la participació a altres òrgans que puguin tenir relació amb l’institut.
+
+El PEC és el document-marc que caracteritza l’Institut XXV Olimpíada i la resta de documents del centre en concreta la seva realització: el Projecte Curricular de Centre, el Pla Anual de Centre, La Memòria Anual de Centre, el Projecte Lingüístic de Centre, el Projecte de Convivència, les Normes d’Organització i Funcionament del Centre, el projecte de digitalització (eines tecnològiques i digitals d’aprenentatge i el coneixement), emmarcat en el Pla de Digitalització dels Centres del Departament d’Educació, el Pla d’Acció Tutorial i la Cultura de l’Avaluació a l’Institut XXV Olimpíada, així com altres documents de funcionament públics al web propi: el Dossier del Professorat, que s’actualitza cada curs, l’aplicació de l’acollida recollida en el Projecte de Convivència, com a Centre Acollidor i la Carta de Compromís de les famílies.
+
+
+
+
+
+________________
+
+1. Ensenyament–aprenentatge en un ambient adequat
+
+
+
+
+
+L’Institut XXV Olimpíada està immers en una societat, en un barri concret, el de la Font de la Guatlla, de la ciutat de Barcelona, per fer l’acompanyament en l’ensenyament–aprenentatge de nois i noies en la seva etapa de formació per a la inserció social des de la posterior continuïtat d’estudis o des de la incorporació al món laboral. 
+
+Partim del dret a l’educació de totes les persones, reconegut en l’ordenament jurídic i en l’ordenament internacional. L’educació és una realitat fonamental de tota comunitat i que esdevé el factor principal en la generació de capital humà, contribueix al creixement i a la cohesió social i cultural per mitjà de la igualtat d’oportunitats. I, a més, l’educació és la porta obligada a la realització personal i al progrés col·lectiu, l’eina que fa possible la superació dels condicionaments personals, socials, econòmics i culturals en origen i la clau de les oportunitats per superar les desigualtats i per descobrir i aprofitar tots els talents de la societat. 
+
+Des d’aquests principis recollits en l’ordenament jurídic s’atribueix als centres d’ensenyament secundari la funció de la formació acadèmica; funció que es realitza des de la relació social entre els qui formen la comunitat educativa. La qualitat educativa reclama aconseguir un bon ambient de relació social que afavoreixi un clima acadèmic per a la millora de la qualitat educativa i formativa, tant de relació entre persones com de l’aprofitament de les qualitats intel·lectuals de totes les persones que formen part de l’Institut i, també, de cadascuna de les persones en la seva diversitat i especificitat amb la intensificació per a donar resposta a l’equitat, en un sistema inclusiu d’educació que fa que tot l’alumnat, divers, tingui resposta al seu dret a l’educació a l’Institut XXV Olimpíada. El creixement personal, tant de l’alumnat com del professorat, requereix mantenir un espai acadèmic que reclama que les que l’integren s’hi sentin part i, per tant, que sigui un espai amable, sense crispacions i amb l’acció focalitzada a la resolució de conflictes, inherent a la relació social. Per crear aquest ambient acadèmic cal comptar i apostar clarament pels subjectes protagonistes del sistema educatiu: les persones que formen part de l’Institut XXV Olimpíada: alumant, professorat, famílies de l’alumnat, personal no docent i de personal de serveis. Tothom que té relació amb el centre s’ha de trobar acollit i hi ha de poder trobar resposta al que s’ha vingut a cercar. 
+
+El professorat d’un centre d’ensenyament ha de tenir una actitud educacional i relacional per poder realitzar la tasca docent cercant estratègies que permetin assolir la funció assignada als centres docents i, és per això que, el professorat realitza formació en els nous llenguatges, les noves eines i la nova i canviant identitat personal que és present en la nostra societat i en les nostres aules.
+
+Les estratègies dels centres d’ensenyament, passen, necessàriament per l’acollida des del diàleg perquè, els centres d’ensenyament estan integrats per persones que, en la seva relació amb la cultura i la ciència, poden usar les noves tecnologies però que, tot i usar-les, no perden la dimensió de persones. L’Institut XXV Olimpíada ha elaborat protocols d’acollida que es detallen en el Projecte de Convivència, així com, s’ha caracteritzat com a centre acollidor amb el disseny que és públic al web de l’institut.
+
+Els recursos de què s’ha de fornir l’institut són els que permetin aconseguir l’acollida, la bona relació de qui en forma part, els que permeten una educació adequada a la realitat social, econòmica i cultural de l’alumnat. 
+
+Diàleg, acollida quotidiana, relacions humanes fan del centre d’ensenyament un centre de qualitat educativa. Aquest és l’objectiu que es pretén assolir per fer una societat informada, però, sobretot, formada. El centre d’ensenyament és constructor de la societat habitada per persones quan aconsegueix fer de la relació quotidiana una manifestació del diàleg, de respecte i, en definitiva, de l’acollida de l’altre en la seva diversitat enriquidora creant un espai obert a l’ensenyament-aprenentatge, a partir de l’esforç, el respecte i la responsabilitat.
+
+
+
+
+
+________________
+
+2. Caracterització de l’Institut XXV Olimpíada
+
+
+
+
+
+2.1. Ubicació
+
+L’Institut XXV Olimpíada està ubicat al carrer Dàlia 2 bis, del barri de la Font de la Guatlla a Sants–Montjuïc, a la ciutat de Barcelona. La població del barri i de les escoles i centres adscrits, així com de l’alumnat que conforma l’ESO, és de persones de famílies treballadores.
+
+
+
+
+
+2.2. Inici del centre educatiu i oferta educativa
+
+L’Institut XXV Olimpíada va néixer el curs 1996-97 perfilant-se com un centre d’estudis secundaris, on s’imparteix l’Ensenyament Secundari Obligatori (ESO) i Batxillerat en les modalitats d’arts i no arts. Arts: Batxillerat d’Arts Plàstiques, Imatge i Disseny i Batxillerat d’Arts Escèniques, Música i Dansa. No arts: Batxillerat d’Humanitats i Ciències Socials i Batxillerat de Ciències i Tecnologia. 
+
+
+
+
+
+
+
+
+
+2.3. Equipaments, serveis i activitats
+
+L’Institut XXV Olimpíada és present a la xarxa posant a l’abast públic la seva caracterització, els estudis que s’hi realitzen, els equipament, els serveis i tots els elements que permeten fer el seguiment de l’activitat realitzada a l’institut. La pàgina web del centre recull:[1]
+
+      1. Equipaments. L’Institut disposa de les següents instal·lacions: laboratoris de Ciències, de Física i de Química. Taller de Tecnologia. Aules específiques d’informàtica (complementades per la presència de material informàtic a les classes, biblioteca i sala d’actes, per consolidar la competència en tecnologies de la informació i la comunicació), de música, de dibuix i d’idiomes. Gimnàs amb dutxes i vestidors. Espais esportius amb pista de futbol sala, handbol, voleibol i bàsquet. Biblioteca que funciona en horari extens. Sala d’actes. A més és un centre sense barreres arquitectòniques.
+
+      2. Serveis d’assessorament i orientació amb suport de l’EAP. Serveis del Centre de Recursos Pedagògics, CRP. 
+
+      3. Servei diari de menjador-cantina atès per monitors amb activitats programades, per oferir esmorzar, a l’hora del pati, i dinar, al migdia, i educar en la dieta correcta i sana que permet el creixement equilibrat de l’alumnat. 
+
+      4. Assessorament i informació tutorial. 
+
+      5. Col·laboracions amb entitats i institucions del Barri i del Districte de Sants-Montjuïc: educatives, culturals i de serveis. 
+
+      6. Presència de serveis de l’Ajuntament de Barcelona, com és el Punt JIP, d’assessorament a l’alumnat de l’institut.
+
+      7. Activitats extradocents programades cada curs tenint en compte que formen part d’un complement significatiu per a la formació global de l’alumnat. Activitats esportives, de cohesió grupal, per a l’aprofundiment científic, cultural i artístic i activitats de sensibilització en els valors humans. 
+
+      8. Servei de Biblioteca amb el Pla de Biblioteca Descartes per fomentar la lectura, l’estudi i la investigació.
+
+      9. Servei LIC d’assessorament lingüístic per assolir els objectius de tot centre educatiu del domini oral i escrit de les llengües: català, castellà, anglès i francès (per a l’alumnat que fa opció per la segona llengua estrangera, idioma francès).
+
+      10. Servei dels agents d’ordre públic: Policia Municipal i cos dels Mossos d’Esquadra per complementar l’educació cívica de l’alumnat.
+
+      11. Servei del programa Salut-Escola amb presència d’infermeres al centre en horari establert.
+
+      12. Participació en el Programa de Diversificació Curricular per a l’assoliment de l’ESO d’alumnes que, cada curs, requereixen aquesta diversificació.
+
+
+
+
+
+   3. Característiques de l’Institut XXV Olimpíada
+
+      1. Centre acollidor, a través del Protocol d’acollida, que es concreta en tres àmbits:
+
+1. Pla d’acollida de l’alumnat nouvingut.
+
+2. Pla d’acollida de les famílies nouvingudes.
+
+3. Pla d’acollida del professorat nouvingut.
+
+El Projecte de Convivència i el Dossier del Professor són dos documents que recullen els protocols per a l’acollida dels tres sectors que planteja aquest PEC.
+
+      2. Centre integrador i inclusiu:
+
+1. La llengua catalana és la llengua vehicular per facilitar la cohesió social del centre.
+
+2. Foment de les llengües estrangeres, que, al centre són l’idioma anglès i l’idioma francès.
+
+3. Presa de les mesures organitzatives adequades per a l’atenció a la diversitat de tot l’alumnat en la seva singularitat.
+
+4. Opció i aplicació d’un Suport Intensiu a l’Educació Inclusiva. 
+
+5. Organització d’activitats extraescolars per a la integració de l’alumnat en l’entorn social i cultural.
+
+      1. Centre formador en valors:
+
+1. Esforç amb el treball, des de diversos àmbits del currículum, per a la cohesió social.
+
+2. Responsabilitat amb el foment dels valors personals: puntualitat, realització de les tasques encomanades, foment de l’estudi i l’interès per saber i descobrir, que porta a l’interès per investigar.
+
+3. Respecte: coneixement i vivència dels drets i deures tant personals com d’altri.
+
+4. Disseny en el Pla Anual de Centre, PAC, d’un treball per aconseguir un alumnat més autònom en la presa de decisions sobre el seu currículum i la seva vida personal i professional.
+
+      1. Centre lector:
+
+1. Impuls de la lectura amb participació en programes específics per a l’adquisició d’hàbits lectors.
+
+2. Foment de l’ús de la Biblioteca com a espai d’estudi i de treball, a través d’activitats i projectes.
+
+      1. Centre participatiu i compromès en projectes externs: 
+
+         1. de relació amb el barri, 
+
+         2. amb la ciutat, 
+
+         3. a nivell de país i 
+
+         4. d’intercanvis educatius europeus en programes institucionals i, si és el cas, amb intercanvis que es puguin establir amb altres sistemes educatius amb l’objectiu de conèixer altres cultures i consolidar les llengües assolides en la docència. 
+
+En aquest sentit, cal destacar la proximitat d’equipaments tan valuosos per a les activitats del centre com ara el Caixaforum, el MNAC, el Museu d’Arqueologia o l’Institut del Teatre, l’Associació de Veïns i Veïnes, l’Escola Superior de Música Jam Session, que faciliten les activitats complementàries a la tasca diària del centre.
+
+      2. Centre col·laborador, amb contactes amb els agents implicats en l’educació que poden comportar convenis a nivell escoles, família, barri, universitat i agents d’atenció a la comunitat de diverses entitats.
+
+      3. Centre formador: participació en el Pràcticum del Màster de formació del professorat i amb programació de formació en centre per al professorat.
+
+      4. Centre orientador: orientació individualitzada (des del departament d’orientació de l’institut i les tutories), acadèmica (amb l’acció de tot el professorat i de manera particular amb l’acció tutorial) i professional (a les famílies sempre des de les tutories i la coordinació pedagògica del centre).
+
+      5. Centre en formació permanent que fa que s’implementin programes del Departament d’Educació, de l’Ajuntament de Barcelona i de Xarxes educatives per a la millora de la qualitat del servei educatiu de l’institut. Aquesta formació compromet tant l’alumnat com el professorat en una posada al dia permanent per tal de donar resposta a la societat en cada context espaciotemporal. Pren una gran significació la formació permanent en les innovacions digitals i tecnològiques que requereix l’educació actual.
+
+      6. Centre actualitzador de les noves eines didàctiques amb utilització en la docència i en la formació del professorat, de l’alumnat i del personal d’administració serveis (PAS) dels recursos digitals, fent-ne una eina per a la comunicació, per a la docència i per a la gestió, amb la implementació del Pla Digital.
+
+      7. Centre educatiu en la memòria històrica amb una comissió que treballa els valors que fan possible la convivència en la pau.
+
+
+
+
+
+________________
+
+   4. L’oferta educativa
+
+1. Docent. L’oferta educativa docent de l’Institut XXV Olimpíada es concreta en: estudis d’ESO dels 12 als 16 anys i de Batxillerat a partir dels 16 anys i la programació d’activitats extradocents.
+
+2. Extradocent. Les activitats programades per cada àrea o departament didàctic que no són estrictament docents però que complementen la tasca docent i les activitats extraescolars programades amb el suport de l’AFA o altres col·laboracions.
+
+La concreció d’activitats extraescolars són públiques al web de l’institut.
+
+3. Recull documental de l’oferta educativa: 
+
+   1. Es publiquen al web els documents elaborats pel centre que recullen els criteris d’organització i funcionament, així com el principis axiològics, que recull aquest document de Projecte Educatiu de Centre i que és d’accés públic i universal al web de l’Institut XXV Olimpíada.
+
+   2. Les Normes de Funcionament i Organització. 
+
+   3. Els criteris d’avaluació i recuperació de l’institut.
+
+   4. El projecte de Digitalització del centre.
+
+i tots aquells que defineixen la tasca realitzada a l’institut en pro d’un servei educatiu de qualitat.
+
+La publicació de notícies de totes les activitats realitzades que donen qualitat a l’activitat educativa de l’institut fa present l’Institut XXV Olimpíada en la societat de la comunicació i la informació.
+
+________________
+
+________________
+
+3. L’organització de l’Institut XXV Olimpíada
+
+L’objectiu a assolir en un institut és l’ensenyament-aprenentatge. Per tant l’organització i tota acció realitzada en un institut ha de tenir present que la finalitat de l’acció és la tasca d’ensenyament–aprenentatge de l’alumnat en la seva diversitat. 
+
+L’organització de l’Institut XXV Olimpíada s’estructura a partir de la coordinació dels diferents equips que intervenen en la tasca d’ensenyament–aprenentatge. La concreció organitzativa i de funcionament es recull a l’organigrama del centre i a les Normes d’Organització i funcionament de centre (NOFC) i s’estructuren en equips:
+
+* El Consell escolar. 
+
+* Els grups–classe d’alumnat.
+
+* El claustre de professorat.
+
+* L’equip de direcció.
+
+* L’Equip de Coordinació. 
+
+* Els equips de treball en àmbits concrets. 
+
+* Els equips de coordinació d’àmbits del coneixement:
+
+   * Àmbit d’Arts:
+
+      * Coordinació d’Educació Plàstica, Visual i Audiovisual.
+
+      * Coordinació de Música, Arts Escèniques i Dansa.
+
+   * Àmbit de Ciències:
+
+      * Coordinació de Biologia i Geologia.
+
+      * Coordinació de Física i Química.
+
+   * Àmbit Fisicopersonal:
+
+      * Coordinació d’Educació Física.
+
+   * Àmbit Humanisticosocial:
+
+      * Coordinació de Ciències Socials: Geografia i Història.
+
+      * Coordinació de Filosofia.
+
+      * Coordinació de Religió i Cultura Religiosa.
+
+   * Àmbit Lingüístic:
+
+      * Coordinació de Cultura i Llengües Clàssiques.
+
+      * Coordinació de Llengua Castellana i Literatura.
+
+      * Coordinació de Llengua Catalana i Literatura.
+
+      * Coordinació de Llengües Estrangeres: Idioma Anglès i Idioma Francès.
+
+   * Àmbit Matemàtic:
+
+      * Coordinació de Matemàtiques i Economia.
+
+   * Àmbit d’Orientació i Inclusió:
+
+      * Coordinació d’Orientació Educativa, diversitat, inclusió i acollida.
+
+   * Àmbit Tecnològic:
+
+      * Coordinació de Tecnologia.
+
+      * Coordinació Informàtica i de Digitalització.
+
+* L’equip de caps dels coordinació d’àmbits. 
+
+* Les persones tutores de curs.
+
+* Els Equips Docents. 
+
+* La Comissió d’atenció a la diversitat. 
+
+* El PAS.
+
+* Les associacions de famílies.
+
+* Les associacions d’alumnes.
+
+* El monitoratge.
+
+
+
+
+
+Es prioritzaran els plantejaments que duguin a una millor atenció de l’alumnat en la seva diversitat. Des de la coordinació d’Orientació Educativa i Inclusió juntament amb coordinació pedagògica es fa cada curs un seguiment per detectar els riscos d’exclusió social de l’alumnat i es proposaran les mesures oportunes per pal·liar-ho.
+
+Cada equip de treball valorarà la seva acció cada curs presentant una memòria que inclogui la programació de l’equip per al curs, els indicadors de seguiment de les accions i una memòria valorativa del curs. La programació de cada equip de treball es recull en el Pla Anual de Centre i, la memòria de cada equip de treball en la Memòria Anual de Centre.
+
+
+
+
+
+________________
+
+4. Indicadors de progrés
+
+Per avaluar la tasca realitzada a l’institut s’estableix la mesura per indicadors de progrés. Aquests indicadors s’estableixen a nivell de centre al Pla Anual i en cada equip de treball i es mesuren cada curs a la memòria.
+
+Alguns indicadors mesuren el grau de satisfacció de l’entorn i del centre: demanda del centre a les preinscripcions, mobilitat del professorat, mobilitat de l’alumnat i implicació de les famílies. Altres mesuren els recursos a disposició del centre: participació del professorat en activitats de formació i intervenció dels serveis externs com ara EAP, serveis socials o la integradora social. També es valora el nivell de coordinació del professorat en les diverses comissions i equips de treball, la coordinació amb primària, la participació de les famílies en la vida del centre. Finalment, es tenen en compte les estadístiques sobre els nivells d’absentisme, retards, amonestacions i expedients acadèmics de cada curs.
+
+Els indicadors resultants de l’avaluació de l’alumnat constaten l’assoliment de l’objectiu de millora de resultats de l’alumnat i es treballaran juntament amb la inspecció del centre. Per això, hi ha vigents els documents amb els criteris per a les avaluacions ordinàries i per a l’avaluació final i extraordinària, tant d’ESO com de Batxillerat, que recullen la normativa sobre el tema i aquells criteris que cal tenir en compte per a una avaluació justa i, alhora, diversificada de l’alumnat. A més, es tenen en consideració els resultats de les proves externes.
+
+Els indicadors de cada grup de treball permeten valorar la tasca del curs i programar el curs següent aprofitant estratègies i activitats de millora i corregint les d’objectius no assolits.
+
+Per mesurar el grau d’assoliment amb els indicadors es parteix dels objectius generals de cada equip que elabora estratègies i activitats i en fa una temporalització.
+
+S’assignen uns pesos als objectius per tal de poder avaluar el 100% de la tasca realitzada.
+
+En cada activitat es concreten la valoració amb percentatges, de manera que es mesura l’objectiu i les activitats que es dissenyen per al seu assoliment.
+
+Cada activitat s’avalua amb tres mesures d’indicadors: 
+
+1. Grau d’aplicació.
+
+2. Qualitat d’execució.
+
+3. Grau d’impacte.
+
+Per avaluar s’hi adjunta una descripció d’indicadors i es parteix del grau d’assoliment del curs anterior.
+
+Aquesta avaluació amb indicadors permet detectar, en la memòria anual del centre, les tasques amb assoliment d’objectius i les tasques que en el pla anual del centre, del curs següent requereixen la seva continuïtat o bé, s’han de reformular pedagògicament. 
+
+Els indicadors permeten una autoavaluació docent que fa que la programació de sabers i les tasques docents, així com els criteris d’avaluació siguin coherents i permeti l’acompanyament de l’alumnat, així com una avaluació objectiva de l’alumnat, de les tasques i del professorat.
+
+
+
+
+
+________________
+
+5. Concreció i desenvolupament del currículum
+
+El currículum establert pel Departament d’Educació tant per a l’ESO com per al batxillerat s’organitza, a l’Institut XXV Olimpíada, programant totes les matèries en l’horari lectiu acordat. 
+
+La distribució curricular es fa per matèries i hores tant per a l’ESO com per al Batxillerat. 
+
+El currículum inclou:
+
+1. les matèries comunes dels estudis que estableix el Departament d’Educació.
+
+2. les matèries optatives que marca el Departament d’Educació, i 
+
+3. pot incloure’n matèries cooperatives, transversals o dissenyades pel centre d’acord amb el que estableixi la legislació en la normativa vigent. 
+
+El currículum i les modificacions de la distribució curricular que s’hagin de realitzar es fan saber al diferents sectors de l’Institut i es presenten al Consell Escolar.
+
+El currículum es publica al web o per altres mitjans, per tal que es pugui conèixer la distribució curricular de l’institut. 
+
+En les programacions de cada coordinació d’àmbit es fa una descripció que permet la docència de cada matèria. 
+
+Cada coordinació d’àmbit elabora una presentació abreujada que permet la presentació pública al web per al coneixement de l’alumnat i llur famílies del desenvolupament curricular i, també, de les tasques a realitzar de cada saber així com, dels criteris d’avaluació que permet contrastar la informació dels butlletins trimestrals d’avaluació amb el progrés de cada alumne i alumna.
+
+És per això que en la publicació al web del currículum s’extreu de les programacions didàctiques la següent informació:
+
+* els objectius, 
+
+* les competències, 
+
+* els sabers, 
+
+* els criteris d’avaluació, 
+
+* les tasques que es realitzen en cada àmbit del coneixement i en cada matèria docent i, 
+
+* de manera singular, aquelles tasques que es dissenyen per a l’assoliment de les competències i dels objectius que s’estableixen en el sistema educatiu per a la formació de l’alumnat en el nivell corresponent.
+
+
+
+
+
+________________
+
+6. El projecte lingüístic de l’Institut XXV Olimpíada
+
+El foment de les llengües i, més encara, el seu coneixement i ús correcte és una prioritat en l’ensenyament i, a partir de la realitat sociolingüística de l’entorn, la comissió lingüística vetlla per l’aplicació del projecte lingüístic de centre i en fa l’avaluació cada curs per tal que sigui una eina sempre actualitzada per a l’assoliment de les competències lingüístiques en les llengües que s’imparteixen a l’institut: llengua catalana, llengua castellana, idioma anglès i idioma francès.
+
+El foment de l’assoliment oral i escrit de les llengües que s’inclouen en la docència de l’Institut XXV Olimpíada es complementa amb activitats com: 
+
+1. el gust per la lectura, 
+
+2. el servei de Biblioteca Descartes, 
+
+3. els intercanvis educatius europeus en els formats que estiguin programats, 
+
+4. els intercanvis amb la utilització de les noves eines de comunicació intercultural i internacional, 
+
+5. la participació en concursos d’escriptura i de lectura,
+
+6. les presentacions de llibres o d’altres formats per part de les persones autores i 
+
+totes aquelles tasques que cooperen en l’assoliment de l’objectiu principal i primordial de l’educació que és el domini de les llengües curriculars tant a nivell oral com en l’escrit.
+
+El projecte lingüístic de l’Institut XXV Olimpíada es publica al web o per altres mitjans perquè sigui de domini públic.
+
+La llengua com a vehicle de comunicació i cohesió social és una eina educativa primordial i, per això a l’Institut XXV Olimpíada es valora l’aprenentatge i l’ús de les llengües de l’ensenyament així com el foment de les llengües estrangeres: Anglès, com a primer llengua estrangera i, francès com a segona llengua. 
+
+El coneixement de les llengües estrangeres va associat al coneixement de les cultures pròpies i, aquest coneixement, requereix d’intercanvis educatius europeus per al coneixement i enriquiment de l’alumnat en l’aprenentatge de les llengües així com en el coneixement de les cultures que conformen l’actual Unió Europea de la qual formem part.
+
+
+
+
+
+________________
+
+________________
+
+7. L’oferta de Batxillerat com a element diferenciador del XXV Olimpíada
+
+Un element que identifica l’institut XXV Olimpíada és la seva oferta en totes les vies del Batxillerat tant en la modalitat d’Arts com de No arts. 
+
+A l’Institut XXV Olimpíada a més de l’ESO es pot cursar el batxillerat:
+
+* d’Arts, en les vies:
+
+   * Arts Plàstiques, Imatge i Disseny, 
+
+   * I Arts Escèniques, Música i Dansa, 
+
+* d’Humanitats i Ciències Socials i 
+
+* de Ciències i Tecnologia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+________________
+
+8. Professorat amb perfil de funcions específiques
+
+La plantilla de professorat és l’atorgada pel Departament d’Educació de la Generalitat de Catalunya i pot incloure professorat amb perfil de funcions específiques per dur a terme els projectes que emanen d’aquest PEC i del Projecte de Direcció. 
+
+Aquest professorat reuneix les condicions establertes en la normativa de plantilles pel mateix Departament d’Educació i realitza les tasques ordinàries del professorat i, també, les addicionals que es deriven del perfil definit per l’assoliment dels objectius plantejats en els plans de millora de la qualitat educativa de l’Institut XXV Olimpíada i del Projecte de Direcció vigent. 
+
+Es dissenyaran els perfils que permetin assolir el present PEC en la tasca educativa que posa la prioritat en l’atenció a la diversitat de tot l’alumnat, l’assoliment de les llengües, la universalització de la digitalització, les metodologies globalitzades per a la docència transversal i artística i, els perfils que el Departament d’Educació pugui caracteritzar que permetin millorar la qualitat del servei educatiu de l’Institut XXV Olimpíada d’acord amb l’encàrrec de servei educatiu que dissenyi el Departament d’Educació.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aquest Projecte Educatiu és vigent en el marc de la legislació i es modificarà quan la normativa ho requereixi o, si cal, quan es modifiqui el projecte de direcció del centre. També pot ser revisat a proposta raonada d’algun dels òrgans de direcció i de coordinació o d’algun dels sectors de l’institut.
+
+
+
+
+
+
+
+
+
+Barcelona, 13 de desembre de 2023 
+
+
+
+
+
+
+
+
+
+ institut XXV olimpíada iPhoto 
+
+
+
+	
+
+
+
+
+
+
+
+          
+
+  
+
+
+
+
+
+
+
+________________
+
+[1] https://institutxxvolimpiada.cat/ (web 06/04/2022).

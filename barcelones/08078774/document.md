@@ -1,0 +1,4480 @@
+---
+codi: 08078774
+centre: Institut Escola Elisenda de Montcada
+municipi: Barcelona
+font: https://docs.google.com/document/d/1PyxbE7NLJM2NXyYISU32ImSPdgXKe0PuUUkpnOA0_M4/edit?tab=t.0
+descarregat: 2026-10-20
+sha256: 2f9028fcb0c7c808cd92647b889ea3cc5367dfa67bc575940654c00e3f2b5239
+---
+
+﻿PROJECTE LINGÜÍSTIC
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+                      CEIP ELISENDA DE MONTCADA
+
+
+
+
+
+CURS 2020 - 2021
+
+
+
+
+
+1.Introducció
+
+
+
+
+
+2. El projecte lingüístic
+
+
+
+
+
+2.1 Els usos lingüístics del centre
+
+2.2 Les decisions metodològiques
+
+
+
+
+
+
+
+
+
+3. Àmbit Pedagògic
+
+
+
+
+
+3.1. Objectius generals de centre.
+
+
+
+
+
+3.2. La llengua catalana, llengua vehicular i d'aprenentatge .
+
+
+
+
+
+        3.2.1. La llengua, vehicle de comunicació i de convivència .
+
+
+
+
+
+        3.2.2. L’aprenentatge/ensenyament de la llengua catalana.
+
+                  Tractament de la llengua catalana per cicles.
+
+
+
+
+
+               3.2.3. Estructures lingüístiques comunes.
+
+
+
+
+
+               3.2.4.  Acollida d’alumnat nouvingut i ensenyament inicial de la   
+
+                 llengua vehicular.
+
+       3.2.4.1. Alumnat que desconeix les dues llengües oficials.
+
+                3.2.4.2. Alumnat de parla hispana.
+
+      3.2.5. Atenció a l’alumnat amb necessitats educatives especials.
+
+    
+
+     3.3. La llengua castellana.
+
+
+
+
+
+            3.3.1. L’ensenyament – aprenentatge de la llengua castellana.
+
+                     Tractament de la llengua castellana per cicles.
+
+
+
+
+
+     3.4. Altres llengües: l’anglès. 
+
+
+
+
+
+           3.4.1. L’ensenyament / aprenentatge de la llengua anglesa.
+
+                    Tractament de la llengua estrangera per cicles.
+
+
+
+
+
+     3.5. Quadre resum introducció de les llengües. 
+
+
+
+
+
+     3.6. Distribució horària de les llengües.
+
+
+
+
+
+     3.7.  Organització i gestió.
+
+
+
+
+
+            3.7.1. Organització dels usos lingüístics, comunicació externa,   
+
+                      llengua de relació amb famílies.
+
+
+
+
+
+            3.7.2. Plurilingüisme al centre educatiu,  actituds lingüístiques, mediació                                                                                                            
+
+                      lingüística   (traducció i facilitació).
+
+
+
+
+
+            3.7.3. Organització  de l’equip docent.
+
+
+
+
+
+            3.7.4. Mediateca escolar.
+
+
+
+
+
+            3.7.5  Projecció del centre.
+
+    
+
+    3.7.5.1. Pàgina web del centre.
+
+                      3.7.5.2.  Jocs Florals.
+
+   1.         3.7.5.3.  Xapo.
+
+   2.         3.7.5.4.  Xarxes pel canvi.
+
+   3.              
+
+
+
+
+
+   1.       
+
+      4. Concreció operativa del projecte (Pla anual)
+
+
+
+
+
+            4.1. Difusió del PLC
+
+          
+
+            4.2. Avaluació
+
+        
+
+            4.3. Calendari de revisió
+
+      
+
+            4.4. Concreció operativa del projecte (Pla anual)
+
+
+
+
+
+
+
+
+
+      5. Objectius de millora
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El tractament i l'ús de les llengües al sistema educatiu. El projecte lingüístic
+
+
+
+
+
+1. Introducció
+
+
+
+
+
+En l’elaboració d’aquest projecte educatiu hem seguit els preceptes legals recollits en : 
+
+
+
+
+
+
+
+
+
+La Llei 12/2009, del 10 de juliol, d'Educació, en el títol II (Del règim del sistema educatiu de Catalunya), estableix el règim lingüístic del sistema educatiu de Catalunya i, a l'article 14, determina que els centres públics i els centres privats sostinguts amb fons públics han d'elaborar, com a part del projecte educatiu, un projecte lingüístic que emmarqui el tractament de les llengües al centre.
+
+
+
+
+
+2. El projecte lingüístic
+
+
+
+
+
+El projecte lingüístic s’ajusta al que estableixen els articles 10, 11, 12 i 16 de la Llei 12/2009, del 10 de juliol, i l'article 5.1.e del Decret 102/2010, de 3 d'agost, d'autonomia dels centres educatius.
+
+
+
+
+
+
+
+
+
+* El paper de la llengua catalana ha de ser l'eix vertebrador del nostre  projecte educatiu plurilingüe.
+
+* Inclou el tractament de les llengües, tant les curriculars com les no curriculars, en els espais d'educació formal i no formal del centre. 
+
+* Els aspectes d'organització i de gestió que tenen repercussions lingüístiques.
+
+Tenint en compte els objectius prioritaris del sistema educatiu, pel que fa a les qüestions lingüístiques, al nostre  centre vetllem per tal que: 
+
+* el català sigui la  llengua normalment emprada  com a llengua vehicular i d'aprenentatge de l’escola.
+
+* l'alumnat, en finalitzar els ensenyaments obligatoris de primària, tingui un domini competencial  de les llengües oficials catalana i castellana.
+
+* la documentació que expedeix el centre s'ajusti al que determinen els articles 16.4 i 16.5 de la Llei d'educació; 
+
+* l'alumnat sigui competent, com a mínim, en una llengua estrangera  i desenvolupi una competència plurilingüe i intercultural que generi actituds positives i de respecte envers la diversitat lingüística i cultural.
+
+* sigui efectiva la coordinació entre el professorat amb l'objectiu que els alumnes desenvolupin la seva competència lingüística de manera integrada i global, a través de totes les àrees i matèries.
+
+En el projecte lingüístic explicitem  els usos lingüístics del centre, les decisions metodològiques i didàctiques i els aspectes organitzatius.
+
+
+
+
+
+2.1 Els usos lingüístics del centre
+
+
+
+
+
+La legislació educativa estableix que la llengua catalana ha de ser el vehicle d'expressió i comunicació normalment emprat, tant en les activitats internes del centre com en les de projecció externa. 
+
+La llengua catalana no és únicament una llengua objecte d'aprenentatge. És la llengua de la institució i, per tant, la llengua d'ús habitual a tots els espais del centre, en la relació amb la comunitat educativa i amb tots els estaments socials en general.
+
+Així, a partir del que estableix la normativa vigent, en el projecte lingüístic explicitem les actuacions del centre conduents a garantir que:
+
+* es duen a terme en llengua catalana, les activitats internes del centre, tant orals com escrites (reunions, actes, informes i comunicacions); les exposicions dels professors; les activitats d'aprenentatge i d'avaluació; la interacció entre docents i alumnes, i les activitats de formació del professorat, a excepció de les activitats que tinguin com a objectiu explícit promoure el coneixement i l'ús d'altres llengües. 
+
+* es duen a terme normalment en llengua catalana, les activitats administratives, les comunicacions entre el centre i l'entorn, i la documentació que expedeix el centre,  sens perjudici del que determinen els articles 16.4 i 16.5 de la Llei d'educació; 
+
+* s'utilitzen com a vehicle normal d'expressió la llengua catalana en les manifestacions culturals i públiques i en les activitats de projecció externa del centre; 
+
+* s'utilitza normalment la llengua catalana en les actuacions del centre en què intervenen institucions i entitats de l'entorn, amb l'objectiu de garantir-ne la continuïtat i la coherència educativa, tant pel que fa a l'aprenentatge com a l'ús, i amb la finalitat de contribuir a la cohesió social; 
+
+* es trasllada als professionals encarregats de gestionar les activitats no docents (menjador escolar, activitats extraescolars, etc.) informació sobre els usos lingüístics de l'escola acordats en el projecte lingüístic; 
+
+* la retolació dels espais del centre és en llengua catalana. La presència d'altres llengües en l'espai físic del centre (parets, rètols, etc.) es circumscriu a les produccions dels i de les alumnes; 
+
+* l’equip docent és  conscient de l'ús professional que es fa de la llengua i del fet que és  un model lingüístic de referència per a l'alumnat; 
+
+* es visibilitzin i es reconeguin les llengües vinculades als orígens familiars de l'alumnat estranger, la promoció del seu aprenentatge i, si escau, l'adaptació de les comunicacions del centre a les llengües familiars, especialment en el període d'acollida d'aquestes famílies al sistema educatiu.
+
+2.2 Les decisions metodològiques i didàctiques del projecte lingüístic
+
+
+
+
+
+Per implementar de manera satisfactòria una educació plurilingüe i intercultural, cal aplicar uns enfocaments metodològics determinats i dissenyar activitats orientades a ensenyar i aprendre les llengües de manera global.
+
+
+
+
+
+
+
+
+
+L’ensenyament / aprenentatge de la llengua catalana. 
+
+Tractament de la llengua catalana per cicles:
+
+
+
+
+
+Per desenvolupar el tractament que fem de la llengua catalana en el nostre centre, hem elaborat un esquema on queda especificat l’ensenyament aprenentatge de la llengua en tots els cicles, està dividit en tres àmbits: llengua oral, llengua escrita i relació entre la llengua oral i l’escrita.
+
+En l’àmbit de la llengua oral queda explicitada  la participació, l’expressió i la comprensió.
+
+En l’àmbit de llengua escrita detallem la comprensió, la lectura i l’expressió.
+
+En l’àmbit de la relació llengua oral –llengua escrita detallem l’observació i la relació.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCACIÓ INFANTIL
+
+
+
+
+
+El treball de llengua catalana en Ed. Infantil és, tenint en compte l’origen estranger de molts dels nostres alumnes, un treball d’immersió. Es tracta d’introduir una nova llengua i aconseguir que facin del català la seva llengua vehicular. L’objectiu prioritari és el treball oral. Utilitzen la llengua escrita com suport al treball oral. La relació entre la llengua oral i l’escrita està present en tots els moments d’aquesta etapa.
+
+En la nostra escola el tractament de la llengua catalana a Ed. Infantil queda detallat de la següent manera.
+
+   1.    2.  EDUCACIÓ INFANTIL- LLENGUA CATALANA 
+
+   3. LLENGUA ORAL
+
+	3. LLENGUA ESCRITA
+
+	* Iniciació en l’expressió i la comprensió de sentiments, sensacions i necessitats, en situacions quotidianes de conversa i resolució de conflictes, a través de plantejar diferents solucions.
+
+* Participació en les converses a l’aula, iniciant-se en hàbits de diàleg, en situacions de presa de decisions i desenvolupament del propi aprenentatge.
+
+* Expressió del propi pensament, expressar-se  de forma coherent i adequada al seu nivell.
+
+* Utilització d’estructures de conversa bàsiques.
+
+* Comprensió i execució d’ordres encadenades que incloguin dues o més ordres.
+
+* Ampliació de manera progressiva el vocabulari.
+
+* Elaboració dels  coneixements a partir de les descobertes fetes a l’aula, així com dels del propi procés d’aprenentatge, a partir dels seus coneixements previs.
+
+* Fer ús del  vocabulari treballat a l’aula.
+
+* Memorització comprensiva de diferents textos senzills.
+
+* Dramatització de contes significatius senzills.
+
+	* Interès per l’acte social de llegir i escriure, observant els diferents senyals comunicatius de l’adult.
+
+* Imitació de l’acte de llegir i escriure, descobrint el seu significat i funcionalitat.
+
+* Reconeixement i escriptura del propi nom.
+
+* Identificació del llenguatge escrit com una forma de comunicar i de representar la realitat immediata i abstracta.
+
+* Observació, diferenciació, i classificació de diferents tipologies de llenguatge escrit que formen part de la vida a l’aula.
+
+* Descobriment  de l’espai de la biblioteca pública del barri com a lloc per gaudir amb els contes i llibres i per a cercar informació de forma interessant.
+
+* Lectura de manera global de paraules, frases significatives.
+
+* Associació de paraula-imatge, de la vida quotidiana que sorgeixin a la vida d’aula.
+
+* Realització d’hipòtesi sobre el text a llegir.
+
+* Descodificació dels sons que formen part de les paraules a llegir.
+
+* Discriminació auditivament dels cops de veu d’una paraula i d’una frase.
+
+* Realització correspondència so-grafia de les vocals i les consonants en paraules significatives.
+
+* Escriptura de la data.
+
+* Escriptura de missatges curts, identificant i reproduint les parts més importants.
+
+* Iniciació a l’escriptura.
+
+	
+
+
+
+         1.       1.                      1.                      2.                      3. CICLE INICIAL
+
+
+
+
+
+Al cicle inicial es consolida el procés de lecto-escriptura i s’inicia  un treball més sistemàtic de la llengua. El treball del llenguatge oral continua sent bàsic, però la relació de la llengua oral amb l’escrita és l’objectiu principal d’aquest cicle.
+
+Al nostre centre la lectura serà un punt fort a treballar, i quedarà sistematitzada en tots els cursos.
+
+Seguint la línia d’Educació Infantil el tractament de la llengua a cicle inicial queda detallat en el següent esquema:
+
+
+
+
+
+Llengua oral
+
+	Llengua Escrita
+
+	Relació oral/escrita
+
+	* Participació en interaccions amb el grup o mestre en qualsevol situació comunicativa de l’aula.
+
+* Producció de textos orals memoritzats (cançons, poemes, dramatitzacions).
+
+* Expressió oral de tot tipus de vivències i coneixements previs.
+
+* Treball d’estructuració de 
+
+      frases.
+
+* Treball de coherència narrativa.
+
+* Comprensió de tot tipus de missatges orals en diferents contextos.
+
+* Comprensió de relats audiovisuals com a representació de la realitat.
+
+* Comprensió de textos orals de diferents tipus, formats i mitjans.
+
+* Incorporació i utilització del vocabulari específic treballat a cada una de les àrees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	* Comprensió de les informacions més habituals de classe, de la vida quotidiana i dels textos.
+
+* Comprensió i interpretació crítica d’alguns missatges escrits.
+
+* Interès i curiositat per mirar o llegir no només  contes o llibres de coneixements,  sinó també un rètol, una noticia, un fulletó o altres tipus de text.
+
+* Activitats motivadores per l’adquisició del gust per la lectura: ús quotidià de la biblioteca d’aula.
+
+* Comprensió i aprofundiment d’un  text, a partir d’una lectura conjunta guiada. 
+
+* Ús  de l’ortografia natural a partir de l’escriptura lliure.
+
+* Introducció a normes ortogràfiques senzilles i habituals
+
+* Introducció als signes de puntuació bàsics.
+
+* Escriptura de paraules d’ús habitual a la classe.
+
+* Introducció a la terminologia gramatical. 
+
+* Introducció al procés reflexiu en l’escriptura de textos: pensar, escriure i revisar 
+
+* Composició de diverses tipologies de text escrit.
+
+* Ús de programari informàtic per escriure textos curts.
+
+* Bona presentació dels textos escrits i aplicació dels coneixements ortogràfics treballats a classe.
+
+* Utilització de la llengua escrita com a mitjà de transmissió de coneixement en totes les altres àrees.  
+
+	* Observació de les diferències entre llengua oral i escrita, a partir del seu ús en situacions comunicatives reals o simulades.
+
+* Realització d’activitats amb preguntes i respostes.
+
+* Lectura en veu alta d’allò que han escrit.
+
+* Transcripció escrita de les vivències o històries que ha expressat oralment.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CICLE MITJÀ
+
+ 
+
+En aquest cicle la importància de la llengua catalana està present en totes les àrees, malgrat tot la vida diària a la classe propicia la creació de situacions comunicatives que cal aprofitar per fer parlar i escriure textos amb coherència i correcció i així descobrir la funcionalitat de la llengua escrita que és en aquest cicle on hi juga un pes molt més important. En el nostre centre donem molta importància a la relació  entre la llengua oral i escrita i utilitzem la lectura com l’eix vertebrador.
+
+Seguint la línia de l’etapa d’educació infantil i cicle inicial el tractament de la llengua queda detalla en el següent esquema:
+
+
+
+
+
+Llengua oral
+
+	Llengua Escrita
+
+	Relació oral/escrita
+
+	      - Participació en interaccions amb el grup o mestre en qualsevol situació comunicativa de l’aula.        
+
+ -Producció de textos orals memoritzats (cançons, poemes, dramatitzacions) i de producció pròpia.
+
+-    Comprensió de tot tipus de missatges orals en diferents contextos.
+
+-          Comprensió de textos orals de diferents tipus, formats i mitjans
+
+-          Expressió oral de tot tipus de vivències i coneixements previs i adquirits a la conversa individual matinal mestre/alumne.
+
+-          Exposició de temes de manera ordenada i comprensible
+
+-           Les lectures com a eix que treballa l’expressió i comprensió.
+
+-          Treball al voltant de l’ordenació de frases i l’estructura del text.
+
+-          Treball sistemàtic de coherència narrativa.
+
+-          Jocs de llenguatge
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+	-          Comprensió de les informacions més habituals de classe, de la vida quotidiana i dels textos.
+
+-          Comprensió i interpretació crítica dels missatges audiovisuals adreçats a l’edat dels nens i les nenes 
+
+-          Ús d’estratègies lectores.
+
+-          Interès i curiositat per mirar o llegir no només  contes o llibres de coneixements,  si no també una notícia o qualsevol altre text.
+
+-          Participació en activitats de lectura col·lectiva i individual a la mitja hora de lectura diària.
+
+-          Procés reflexiu en l’escriptura de textos: Conceptualització, planificació, textualització, revisió i producció final.
+
+-          Composició de textos escrits de tot tipus.
+
+-          Expressió d’idees de forma sintètica a través d’un esquema.
+
+-          Ús de programari informàtic per escriure textos
+
+-          Aplicació dels signes de puntuació bàsics.
+
+-          Ús de la terminologia gramatical: nom, verb, passat, present…..
+
+-          Introducció a l’accentuació gràfica.
+
+-          - Treball de la gramàtica amb activitats sistemàtiques encabides dins dels projectes.
+
+-          Consulta al diccionari
+
+-          Bona presentació dels textos escrits i aplicació dels coneixements ortogràfics treballats a classe.
+
+-          Utilització de la llengua escrita com a mitjà de transmissió de coneixement en totes les altres àrees. 
+
+	
+
+
+
+* Observació de les diferències entre llengua oral i escrita, a partir del seu ús en situacions comunicatives reals o simulades.
+
+* Realització d’activitats amb preguntes i respostes.
+
+* Lectura en veu alta d’allò que han escrit.
+
+* Transcripció escrita de les vivències o històries que ha expressat oralment.
+
+* Jocs amb la llengua: embarbussaments i endevinalles.
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CICLE SUPERIOR
+
+
+
+
+
+Partim del fet que la llengua tant escrita com oral  engloba moltes àrees del currículum, la llengua oral, però,  es continua treballant en gairebé totes les àrees curriculars  per potenciar la competència comunicativa. 
+
+Els continguts treballats estan relacionats amb fets reals o amb problemes quotidians, així com experiències personals dels nens i de les nenes i es busca la funcionalitat en els aprenentatges.
+
+Tal com hem fet en els altres cicles en el següent esquema queda detallat el treball sistemàtic de la llengua en aquest cicle superior.
+
+Llengua oral
+
+	Llengua Escrita
+
+	Relació oral/escrita
+
+	Discurs coherent i adequat al context en les intervencions a classe, en l’expressió de fets, experiències personals, de pensament i/o emocions.
+
+Sintetitzar de forma oral la comprensió d’imatges i de textos de diversa tipologia i temàtica en diferents àrees curriculars.
+
+Treball sistemàtic a partir de la llengua oral dels coneixements previs en diferents àrees.
+
+Treball dels canals de comunicació i els agents que hi participen, adequant l’estructura i el vocabulari a la situació comunicativa.
+
+Producció de textos orals de forma espontània o amb preparació prèvia
+
+Incidir en el treball d’escoltar els textos orals produïts pels companys i/o professors, com a models comunicatius.
+
+Organització d’activitats específiques i col·lectives amb ambient clarament comunicatiu i d’interacció (debats i assemblees).
+
+Exposició d’un treball de recerca i de    
+
+     creació pròpia, adequant l’estructura   
+
+     del llenguatge, el vocabulari i els      
+
+     recursos visuals.
+
+	Fixar l’aprenentatge d’estructures gramaticals, de normes ortogràfiques i l’estructura del text per aconseguir la cohesió i la coherència de les produccions escrites.
+
+Fomentar la capacitat de síntesi identificant les idees principals i les idees secundàries d’un text i els conceptes bàsics i elaborar una nova producció escrita (resum, esquema, mapa conceptual…)
+
+Elaboració de diferents tipus de text amb models donats amb anterioritat.
+
+Prendre consciència del valor comunicatiu de la llengua escrita per relacionar-se amb l’entorn més proper.
+
+	Depenent de les activitats, de vegades partim de models lingüístics transmesos de forma oral per arribar al text escrit i a l’inrevés.De vegades partim de models i pautes escrites per treballar la comprensió de textos i l’expressió oral.
+
+La lectura i la comprensió lectora és el punt de trobada de totes les possibles dimensions lingüístiques, ja que a partir del treball lector es realitzen un gran ventall d’activitats de llengua oral i escrita.
+
+Es consoliden tots els aspectes relacionats amb la llengua, oral i escrita, que el nen/a ha treballat al llarg de la etapa primària.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+1. 3.1. Objectius generals 
+
+
+
+
+
+Generalitzar els enfocaments competencials en l’ensenyament de les llengües, tant en l’oralitat com en la lectura i l’escriptura.
+
+     
+
+Assegurar que la llengua catalana sigui la llengua  vehicular del centre en tots els  àmbits d’aprenentatge, tal com estableix l'article 15 de la Llei d'educació i l'aplicació d'estratègies d'immersió lingüística ja que el català no és la llengua de la majoria de l’alumnat de l’escola.
+
+
+
+
+
+Dissenyar programacions de nivell, cicle i etapa, en què es recullin i distribueixin de manera coherent les competències lingüístiques, els continguts i els criteris d'avaluació continuada, amb l'objectiu de garantir una progressió real i efectiva de l'aprenentatge. Les programacions han d'incloure, a més, les mesures previstes per atendre els diferents ritmes d'aprenentatge dels alumnes.
+
+
+
+
+
+
+
+
+
+* Determinar, si escau, els continguts que es vehicularan en llengües estrangeres curriculars. 
+
+* Preveure espais d'ús i d'aprenentatge de les diferents llengües en contextos presencials o virtuals que intensifiquin la producció oral i escrita dels alumnes i en potenciïn el treball cooperatiu. 
+
+* Explicitar les activitats orientades a reconèixer, visualitzar i promoure les llengües vinculades als orígens familiars de l’alumnat estranger. 
+
+
+
+
+
+2.3 Aspectes organitzatius
+
+         2. L’ensenyament i l’aprenentatge de la llengua i la literatura a l’Educació Primària té com objectius principals el desenvolupament de les habilitats comunicatives com parlar, escoltar, llegir i escriure, necessàries per accedir al coneixement, utilitzant fonts d’informació diverses, i comunicar els propis pensaments; per créixer com a persona; per poder-se relacionar amb els altres, tant des de la vessant afectiva com social, i per integrar-se de manera efectiva en la societat.
+
+
+
+
+
+El català ha d’esdevenir la llengua d’aprenentatge i de comunicació. L’ensenyament i aprenentatge de la llengua castellana ha de desenvolupar-se en estreta coordinació amb la llengua catalana, optimitzant totes les possibilitats de transferència a la llengua castellana. Així com també s’ha de vetllar per tal d’assolir una coherència i la coordinació amb la llengua anglesa.
+
+
+
+
+
+Les competències de comprensió i expressió oral i escrita han de ser estimulades i practicades des de totes les àrees.
+
+
+
+
+
+Els alumnes han de conèixer les dues llengües oficials  a nivell oral i escrit de manera que la puguin utilitzar en igualtat de condicions  i adequadament com a font d’informació i vehicle d’expressió.
+
+
+
+
+
+Hem de fomentar que els nostres nens i nenes siguin capaços de:
+
+
+
+
+
+1.- Comprendre discursos i explicacions orals que es donen en l’àmbit escolar i en el context social i cultural proper.
+
+
+
+
+
+2.- Expressar-se oralment adequant les formes i el contingut als diferents contextos i situacions comunicatives, mostrant una actitud respectuosa i de col·laboració.
+
+
+
+
+
+3.- Comprendre textos escrits que es donen en l’àmbit escolar i en el context social i culturals proper.
+
+
+
+
+
+4.- Utilitzar els mitjans de comunicació social, de comunicació auditiva i multimèdia i les tecnologies de la informació per obtenir, interpretar i valorar informacions i opinions diferents.
+
+
+
+
+
+5.- Utilitzar la llengua eficaçment en l’activitat escolar tant per buscar, recollir i processar informació, com per escriure textos vinculats a les diferents àrees del currículum.
+
+
+
+
+
+6.- Produir textos de diferent tipologia, relacionats amb el context social i cultural, amb adequació, coherència, cohesió i correcció lingüística.
+
+
+
+
+
+7.- Reflexionar sobre la llengua i les normes de l’ús lingüístic, a partir de situacions de comunicació reflexiva, per escriure i parlar de forma adequada, coherent i correcta, i per comprendre textos orals i escrits.
+
+
+
+
+
+8.-  Utilitzar la lectura com a font de plaer i enriquiment personal.
+
+
+
+
+
+9.- Comprendre textos literaris de gèneres diversos adequats quant a temàtica i complexitat i iniciar-se en els coneixements de les convencions específiques del llenguatge literari.
+
+
+
+
+
+10.- Valorar la realitat plurilingüe que ens envolta com una font de riquesa cultural i utilitzar els coneixements i experiències en altres llengües per millorar l’adquisició de la llengua d’aprenentatge.
+
+
+
+
+
+11.- Reflexionar sobre els diferents usos socials de les llengües per evitar els estereotips lingüístics que suposen judicis de valor i prejudicis classistes racistes o sexistes.
+
+
+
+
+
+3.2.3. Estructures lingüístiques comunes
+
+
+
+
+
+
+
+
+
+Les estructures lingüístiques comunes es donaran en la llengua catalana, fent referència a les semblances i diferències entre català i castellà.  El nombre d’hores de l’assignatura de català, queda incrementat ja que inclou el treball de les estructures comunes.  ( Veure horari )
+
+En aquest sentit hem de tenir cura de no repetir continguts en català i castellà o l’anglès i per tant establirem  una bona coordinació entre els diferents cicles i nivells.
+
+
+
+
+
+
+
+
+
+3.2.4. L’atenció a l’alumnat de procedència estrangera
+
+
+
+
+
+Tal i com es recull en el Pla d’acollida del centre, l’objectiu principal  és  que els nens i les nenes acabats d’arribar a  Catalunya s’adaptin  plenament al nostre centre i s’integrin el més ràpidament possible al sistema educatiu de Catalunya. 
+
+
+
+
+
+A l’Escola Elisenda de Montcada  utilitzem el recurs de l’aula d’acollida ja que permet una atenció personalitzada i d’ajuda a les necessitats específiques de l’alumnat nouvingut no tan sols en l’assoliment de les competències lingüístiques  sinó també  de  descoberta i d’integració al nostre país i especialment de tipus afectiu. Respecte a aquest punt s’ha vist la importància de començar unes sessions per treballar les pèrdues que comporta el fet migratori. 
+
+
+
+
+
+Un dels objectius principals de la nostra aula d’acollida és l’aprenentatge específic de la llengua catalana com a llengua vehicular i d’integració social.  La major part del treball que es fa és de llengua oral i en petit grup però també intervé puntualment el treball escrit amb diversos suports: gràfics, textuals, informàtics i audiovisuals.   Les tutores de l’aula d’acollida  treballen a partir de temes propers a l’alumnat,  de tradició cultural del nostre país i d’altres activitats on els nens i les nenes  puguin aprendre a partir de la vivència i la manipulació per tal que sigui un aprenentatge significatiu i adaptat al treball real que es fa a l’aula ordinària.
+
+
+
+
+
+Es segueix una programació detallada dels objectius establerts conjuntament entre la tutora de l’Aula Ordinària i la tutora d’acollida  i això facilita que cada nen i nena pugui seguir el seu ritme, elaborant les adaptacions necessàries al currículum PSI (Plans de suport individualitzat) perquè el seu procés d’adaptació i integració sigui el més satisfactori i breu possible. 
+
+
+
+
+
+En determinats casos, quan l’alumnat ja disposa d’un mínim de competència en català, i sempre d’acord amb el Pla d’atenció de la diversitat,  les tutores de l’aula d’acollida treballaran dins de l’aula ordinària. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2.4.1. Alumnat que desconeix les dues llengües oficials
+
+
+
+
+
+Aquest alumnat necessita un suport més específic ja que no coneix cap llengua romànica.  A la nostra escola  fem èmfasi en els primers moments de la seva inclusió  en l’aprenentatge del català oral, també fem entendre la utilitat de conèixer la llengua escrita ja que aquesta  juga un paper molt important a la nostra societat. A l’escola Elisenda de Montcada,  quan   arriba un nen o una nena que desconeix el català i el castellà, pensem en la  necessitat  d’ ensenyar-li, en un primer moment,  el nou codi lingüístic: llegir i escriure en català.
+
+
+
+
+
+Què
+
+	Qui
+
+	Com
+
+	Quan
+
+	On
+
+	Ensenyament aprenentatge de la ll. catalana
+
+	Tutor AA
+
+
+
+
+
+	Metodologia L2
+
+	Fins a assolir el nivell bàsic
+
+	Aula d’acollida
+
+	Professorat de l’Aula Ordinària
+
+	Metodologia L2
+
+	Fins a assolir el nivell d’usuari independent
+
+	Aula ordinària 
+
+	Ensenyament aprenentatge de la ll. castellana
+
+	Professorat de l’Aula Ordinària
+
+	Metodologia L2
+
+	Un cop assolit el nivell bàsic de ll. catalana
+
+	Aula ordinària
+
+	Ensenyament aprenentatge de l’anglès
+
+	Professorat especialista de llengua anglesa
+
+	Metodologia L2
+
+	Si ja n’havia estudiat al país d’origen, en arribar; si no, un cop assolit el nivell bàsic de ll. castellana
+
+	Aula ordinària
+
+	Altres matèries: català, llengua vehicular
+
+	Tutor  AA
+
+
+
+
+
+	Conceptes bàsics i llenguatge específic.
+
+	Fins a assolir el nivell bàsic de llengua
+
+
+
+
+
+	Aula d’acollida
+
+
+
+
+
+	Professorat de l’Aula Ordinària
+
+	Adaptacions curriculars.
+
+Adequació de l’avaluació.
+
+	Fins a assolir el nivell d’usuari independent
+
+	Aula ordinària
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2.4.2 Alumnat de parla hispana
+
+
+
+
+
+Amb aquest alumnat farem èmfasi en l’aprenentatge del català oral assegurant la comprensió de la lectura i treballant  els aspectes de la morfosintaxi del castellà per aplicar-los al català.
+
+
+
+
+
+
+
+
+
+.Què
+
+	Qui
+
+	Com
+
+	Quan
+
+	On
+
+	Ensenyament aprenentatge de la ll. catalana
+
+	Tutor AA
+
+
+
+
+
+	Metodologia L2
+
+	Fins a assolir el nivell bàsic
+
+	Aula d’acollida
+
+	Professorat de l’Aula Ordinària
+
+	Metodologia L2
+
+	Fins a assolir el nivell d’usuari independent
+
+	Aula ordinària 
+
+	Ensenyament aprenentatge de la ll. castellana
+
+	Professorat de l’Aula Ordinària
+
+	Programació ordinària
+
+	Des que arriba
+
+	Aula ordinària
+
+	Ensenyament aprenentatge d’una ll. estrangera
+
+	Professorat especialista de llengua anglesa
+
+	Metodologia L2
+
+	Si ja n’havia estudiat al país d’origen, en arribar; si no, un cop assolit el nivell bàsic de ll. catalana
+
+	Aula ordinària
+
+	Altres matèries: català, llengua vehicular
+
+	Tutor  AA
+
+
+
+
+
+	Conceptes bàsics i llenguatge específic.
+
+	Fins a assolir el nivell bàsic de llengua
+
+
+
+
+
+	Aula d’acollida
+
+
+
+
+
+	Professorat de l’Aula Ordinària
+
+	Adaptacions curriculars.
+
+Adequació de l’avaluació.
+
+	Fins a assolir el nivell d’usuari independent
+
+	Aula ordinària
+
+	
+
+
+
+
+
+
+
+
+
+
+
+3.2.5. Atenció de l’alumnat amb necessitats educatives especials
+
+
+
+
+
+L’alumnat amb dictamen de N.E.E. ( Necessitats Educatives Especials ) reben atenció específica per part de les especialistes d’educació especial i la professionals de l’EAP. Aquesta assessora en metodologia i adaptació dels continguts en relació a les diferents àrees del currículum tant a nivell lingüístic com en altres nivells, quan és necessari.
+
+En les activitats adaptades d’ensenyament-aprenentatge de la llengua adreçades a aquest alumnat es dóna prioritat als aspectes més comunicatius i funcionals de la llengua catalana com  l’eina d’integració i de cohesió per tot l’alumnat.
+
+
+
+
+
+3.3.  La llengua Castellana
+
+
+
+
+
+3.3.1. L’ensenyament / aprenentatge de la llengua castellana. Tractament de la llengua castellana per cicles.
+
+
+
+
+
+Per desenvolupar el tractament que fem de la llengua castellana en el nostre centre, hem elaborat un quadre on queda recollit l’ensenyament aprenentatge d’aquesta llengua en cada un dels cicles.
+
+Està dividit en tres àmbits: llengua oral, llengua escrita i relació entre la llengua oral i l’escrita.
+
+En l’àmbit de la llengua oral queda explicitada  la participació, l’expressió i la comprensió.
+
+En l’àmbit de llengua escrita detallem la comprensió, la lectura i l’expressió.
+
+
+
+
+
+ 
+
+                     4. CICLE INICIAL
+
+
+
+
+
+La llengua castellana s’introdueix al cicle inicial i això suposa una relació més clara amb el català que s’està consolidant. Com una gran majoria del nostre alumnat són castellanoparlants  ja tenen per tant coneixements previs en llengua oral. Tenint com a base aquesta llengua oral s’introdueix en aquest cicle el treball sistemàtic de la llengua escrita.
+
+En l’esquema següent es detalla el treball d’aquest cicle.
+
+
+
+
+
+Llengua oral
+
+	Llengua Escrita
+
+	Relació oral/escrita
+
+	Participació en interaccions amb el grup o mestre en qualsevol situació comunicativa de l’aula.
+
+Treball d’estructuració de frases
+
+Treball de coherència narrativa
+
+Comprensió de tot tipus de missatges orals en diferents contextos.
+
+Comprensió de textos orals de diferents tipus, formats i mitjans.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Comprensió de les informacions més habituals de la classe, de la vida quotidiana.
+
+Comprensió de contes llegits individualment o en grup.
+
+  Comprensió i ús de locucions.   Refranys, dites i frases fetes de la llengua castellana.
+
+Comprensió, memorització i recitació de poemes
+
+Interès i curiositat per mirar o llegir contes o llibres de coneixements, però també per llegir un rètol, un títol d’un llibre, una notícia o qualsevol altre text.
+
+ Escriptura de paraules d’ús habitual a la classe en els seus textos.
+
+Introducció de normes ortogràfiques senzilles.
+
+Ús dels signes de puntuació que estan aprenent en català. Introducció de l’ús de la nomenclatura gramatical que s’està aprenent en català.
+
+Coneixement de vocabulari específic dels temes que es tracten a l’aula, 
+
+Composició de textos senzills.
+
+
+
+
+
+	Observació de les diferències entre llengua oral i escrita, a partir del seu ús en situacions comunicatives reals o simulades.
+
+Realització d’activitats amb preguntes i respostes.
+
+Lectura en veu alta d’allò que han    escrit.
+
+Transcripció escrita de les vivències o històries que ha expressat oralment.
+
+Dramatització de contes i altres textos literaris adequats a l’edat i als interessos dels infants.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+CICLE MITJÀ
+
+La programació de llengua castellana i la llengua catalana estan  coordinades. 
+
+En aquest cicle utilitzem les lectures com a mitjà que ens proporciona la possibilitat de treballar les habilitats i estratègies que fan possible una bona comprensió, ajuden a ampliar i adquirir vocabulari, possibiliten la fixació de les estructures de la llengua castellana i ens proporcionen models per a les produccions pròpies.
+
+L’esquema que detalla el nostre treball és: 
+
+
+
+
+
+Llengua oral
+
+	Llengua Escrita
+
+	Relació oral/escrita
+
+	Participació en interaccions amb el grup o mestre en qualsevol situació comunicativa de l’aula.
+
+Producció de textos orals memoritzats ( cançons, poemes, dramatitzacions) i de producció pròpia.
+
+Expressió d’emocions i sentiments
+
+Comprensió de tot tipus de missatges orals en diferents contextos.
+
+Comprensió de relats audiovisuals com a representació de la realitat.
+
+Comprensió de textos orals de diferents tipus, formats i mitjans.
+
+Treball d’estructuració de frases
+
+Treball de coherència narrativa 
+
+Jocs que facilitin la sistematització dels aspectes lingüístics que puguin ajudar a la correcció fonètica.
+
+Treball per adquirir una producció clara dels sons específics de la llengua castellana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Comprensió de les informacions més habituals de classe, de la vida quotidiana i dels textos.
+
+Comprensió i interpretació crítica dels missatges audiovisuals adreçats a els nens i les nenes de la seva edat. 
+
+Interès i curiositat per mirar o llegir contes o llibres de coneixements,  una notícia o qualsevol altre text.
+
+Participació en activitats de lectura col·lectiva.
+
+Ús de la terminologia gramatical utilitzada en català.
+
+Coneixement i ús de l’ortografia bàsica en paraules utilitzades en contextos molt treballats. 
+
+Coneixement i ús progressiu de les normes ortogràfiques constants
+
+Identificació i ús dels signes de puntuació més comuns apresos a llengua catalana.
+
+Procés reflexiu en l’escriptura de textos: contextualització, planificació, textualització, revisió i producció final.
+
+Composició de textos escrits de tot tipus.
+
+Ús de programari informàtic per escriure textos. 
+
+
+
+
+
+	Les lectures ens proporcionen la possibilitat de treballar les habilitats i estratègies que fan possible una bona comprensió, ajuden a ampliar i adquirir vocabulari i faciliten la memorització de l’escriptura de les paraules i possibilitaran la fixació de les estructures de la llengua castellana.
+
+Lectura en veu alta d’allò que han escrit.
+
+Transcripció escrita de les vivències o històries que ha expressat oralment.
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CICLE SUPERIOR
+
+
+
+
+
+Tenint en compte que la llengua materna de la majoria dels nostres alumnes és el castellà, a l’àrea de llengua castellana treballem els aspectes més formals (gramàtica, ortografia, enriquiment de vocabulari, etc...)
+
+El treball de llengua escrita  es fa a partir de l’anàlisi de l’estructura de la llengua i l’expressió escrita a partir de diferents tipologies textuals.
+
+A cicle superior es consoliden tots els aspectes relacionats amb la llengua oral i escrita, que el nen/a ha treballat al llarg de l’etapa de Primària.
+
+
+
+
+
+Llengua oral
+
+	Llengua Escrita
+
+	Relació oral/escrita
+
+	Discurs coherent i adequat al context en les intervencions a classe, en la expressió de fets, experiències personals, de pensament i/o emocions.
+
+Sintetitzar de forma oral la comprensió d’imatges i de textos de diversa tipologia i temàtica en diferents àrees curriculars.
+
+Treball sistemàtic a partir de la llengua oral dels coneixements previs en diferents àrees.
+
+Treball dels canals de comunicació i els agents que hi participen, adequant l’estructura i el vocabulari a la situació comunicativa.
+
+Producció de textos orals de forma espontània o amb preparació prèvia.
+
+-    Incidir en el treball d’escoltar els
+
+     textos orals produïts per els       companys i/o professors, com a
+
+ models comunicatius.
+
+Organització d’activitats específiques i col·lectives amb ambient clarament comunicatiu i d’interacció (debats i assemblees).
+
+Exposició d’un treball de recerca i de creació pròpia, adequant l’estructura del llenguatge, el vocabulari i els recursos visuals.
+
+
+
+
+
+
+
+
+
+	Participació en activitats de lectura col·lectiva
+
+Fixar l’aprenentatge d’estructures gramaticals, de normes ortogràfiques i l’estructura del text per aconseguir la cohesió i la coherència de les produccions escrites.
+
+* Fomentar la capacitat de síntesi identificant les idees principals i les idees secundàries d’un text i els conceptes bàsics i elaborar una nova producció escrita (resum, esquema, mapa conceptual…)
+
+* Prendre consciència del valor comunicatiu de la llengua escrita per relacionar-se amb l’entorn més proper.
+
+	Depenent de les activitats, de vegades partim de models lingüístics transmesos de forma oral per arribar al text escrit i a l’inrevés, de vegades partim de models i pautes escrites per treballar la comprensió de textos i l’expressió oral.
+
+La lectura i la comprensió lectora és el punt de trobada de totes les possibles dimensions lingüístiques, ja que a partir del treball lector es realitzen un gran ventall d’activitats de llengua oral i escrita.
+
+Es consoliden tots els aspectes relacionats amb la llengua, oral i escrita, que el nen/a ha treballat al llarg de la etapa primària
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+3.3. Alumnat nouvingut
+
+L’alumnat nouvingut que anteriorment ha estat escolaritzat en llengua castellana s’incorporarà a l’aula ordinària de castellà des de el mateix moment de la seva arribada al centre.
+
+L’alumnat que no coneix cap de les dues llengües oficials de Catalunya s’intentarà que s’incorpori a l’aula ordinària de llengua castellana un cop hagi assolit uns coneixements bàsics de llengua catalana a l’aula d’acollida.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      2. 3.4. Altres llengües : l’anglès
+
+
+
+
+
+L’ensenyament de la llengua estrangera en té com a objectiu desenvolupar en els nostres alumnes les següents capacitats:
+
+
+
+
+
+1.- Escoltar i comprendre missatges en interaccions verbals variades, utilitzant les informacions rebudes per a la realització de tasques concretes i variades.
+
+
+
+
+
+2.- Expressar-se e interactuar oralment en situacions senzilles i habituals que tinguin un contingut i desenvolupament conegut, utilitzant procediments verbals i no verbals i adoptant una actitud respectuosa i de cooperació.
+
+
+
+
+
+3.- Escriure diversos tipus de text amb finalitats variades sobre temes prèviament tractats a l’aula i amb ajuda de models.
+
+
+
+
+
+4.- Llegir de forma comprensiva textos diversos i adequats, extraient informació general i específica d’acord amb una finalitat prèvia.
+
+
+
+
+
+5.- Aprendre a utilitzar amb progressiva autonomia tots els mitjans al seu abast, incloses les noves tecnologies, per obtenir informació i per comunicar-se en la llengua estrangera.
+
+
+
+
+
+6.- Valorar la llengua estrangera com un mitjà de comunicació i enteniment entre persones de procedència, llengües i cultures diverses.
+
+
+
+
+
+7.- Manifestar una actitud receptiva, interessada i d’auto confiança en la capacitat d’aprenentatge i d’ús de la llengua estrangera.
+
+
+
+
+
+8.-  Utilitzar les coneixements i les experiències prèvies en altres llengües per a una adquisició més ràpida, eficaç i autònoma de la llengua estrangera.
+
+
+
+
+
+9.- Conèixer aspectes fonètics, de ritme, accentuació i entonació de la llengua estrangera i utilitzar-los com a elements fonamentals de la comprensió i producció orals.
+
+
+
+
+
+
+
+
+
+3.4.1. L’ensenyament / aprenentatge de la llengua anglesa. Tractament de la llengua estrangera per cicles.
+
+
+
+
+
+En relació a l’ensenyament de l’anglès partim del fet de què la comunicació en llengües estrangeres comparteix, en línies generals, les principals capacitats de la comunicació en la llengua materna: es basa en l’habilitat per comprendre, expressar e interpretar pensaments, sentiments i fets de forma oral i escrita: escoltar, parlar, llegir i escriure. 
+
+Les capacitats essencials consisteixen en l’habilitat per entendre missatges orals, per iniciar, mantenir i concloure converses i llegir i entendre texts adequats a l’edat i el context.
+
+
+
+
+
+L’escola Elisenda de Montcada s’ha   plantejat la introducció d’anglès al tercer trimestre de P3 pel fet que la plasticitat cerebral de l’alumnat a aquesta edat facilita el seu aprenentatge, a més en aquesta edat solen tenir una actitud positiva, desinhibida i amb  facilitat per pronunciar els sons nous, reproduir l’accent, l’entonació,  i el ritme de la nova llengua, a aquesta edat generalment es motiven amb facilitat.
+
+
+
+
+
+A l’Educació Infantil i Cicle Inicial de la nostra escola contemplen la llengua com una activitat grupal basada en la interacció per a què els infants vagin construint,  a partir de l’ús de la llengua, usos significatius.
+
+Aquest aprenentatge el  basem, en aquestes primeres edats , prioritàriament en activitats d’escoltar, parlar i conversar on mitjançant  models lingüístics diversos ells puguin produir  els seus propis missatges  e interaccionar en situacions reals o simulades. També és potencia l’aprenentatge de la llengua en la producció de textos orals treballats prèviament (cançons, poemes,  rimes , dramatitzacions... ).
+
+A nivell de llengua escrita s’inicia  amb la introducció de vocabulari bàsic i frases senzilles prèviament treballades en contextos orals.
+
+
+
+
+
+Al Cicle Mitjà es continua contemplant la llengua com una activitat grupal basada en la interacció  del nen/nena amb el  professor/a, que és un important model lingüístic, i amb els altres companys perquè puguin anar augmentant i consolidant els seus coneixements bàsics de la llengua i puguin anar creant les seves pròpies estratègies comunicatives que els permeti avançar en la seva capacitat comunicativa.
+
+Es potenciarà situacions orals reals, simulades, contextos visuals i no verbals.
+
+A nivell de lectura i comprensió lectora  s'introduiran  textos de tipologia diversa adaptats a la seva competència lingüística per a extreure informació global i específica i que els serveixi de model per  la seva pròpia  producció.
+
+
+
+
+
+Al Cicle Superior  es consolidaran uns coneixements bàsics i unes estratègies comunicatives bàsiques que el permeti comunicar-se competentment  al final de l’etapa, tenint en compte els objectius de nivell i etapa.
+
+Seguint el model metodològics i de treball del Cicle Inicial i Mitjà, s’ampliaran els coneixements de la llengua (parlar i conversar, escoltar i comprendre, llegir i comprendre i escriure ) on   l’alumnat cada vegada haurà de ser més ric i  més autònom en la producció de la llengua estrangera.
+
+
+
+
+
+És important que durant tot el procés ensenyament-aprenentatge d’una llengua estrangera hi hagi un procés de coneixement del funcionament de la llengua, però és al Cicle Superior on es consolidarà aquest procés de reflexió, ja que és a on l’alumnat té més consciència i autonomia per a portar-lo a terme.
+
+
+
+
+
+Amb l’alumnat nouvingut que no té assolit el nivell lingüístic d’anglès del grup classe se li adaptarà, si és necessari,  activitats per a què progressivament es pugui incorporar a les activitats de grup, però sempre participarà en totes aquelles activitats que pugui amb el grup classe, ja que per a desenvolupar les competències lingüístiques és essencial en una llengua estrangera la interacció amb els companys .
+
+
+
+
+
+En el cas d’alumnat de llengües no romàniques, no s’introduirà l’anglès fins que el nen/a tingui adquirits un mínims coneixements de les dues llengües oficials.
+
+
+
+
+
+
+
+
+
+                     5. 2. 3.5.  Quadre resum de la introducció de les llengües 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	CATALÀ
+
+	CASTELLÀ
+
+	ANGLÈS
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCACIÓ INFANTIL
+
+	Immersió Lingüística
+
+
+
+
+
+Inici de la lectoescriptura
+
+
+
+
+
+Totes les àrees s’impartiran en català, excepte l’anglès
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Llengua oral
+
+( P-3 )
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CICLE INICIAL
+
+	
+
+
+
+Llengua oral, lectura i escriptura.
+
+
+
+
+
+Totes les àrees s’impartiran en català, excepte castellà i anglès
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Llengua oral, lectura i escriptura
+
+ (1r i  2n )
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Llengua oral,
+
+Lectura i escriptura
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CICLE MITJÀ
+
+	
+
+
+
+Llengua oral, lectura i escriptura.
+
+
+
+
+
+Totes les àrees s’impartiran en català, excepte castellà i anglès
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Llengua oral,
+
+lectura i escriptura
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Llengua oral,
+
+Lectura i escriptura
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CICLE SUPERIOR
+
+	
+
+
+
+Llengua oral, lectura i escriptura.
+
+
+
+
+
+Totes les àrees s’impartiran en català, excepte castellà i anglès
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Llengua oral, 
+
+lectura i escriptura
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Llengua oral,
+
+lectura i escriptura
+
+	
+
+
+
+3.6 DISTRIBUCIÓ HORÀRIA DE LES LLENGÜES
+
+
+
+
+
+
+
+
+
+CICLE INICIAL
+
+
+
+
+
+
+
+
+
+	
+
+
+
+HORES
+
+	LLENGUA CATALANA
+
+	Llengua catalana (pròpies del cicle)
+
+	140
+
+	Estructures lingüístiques comunes
+
+	105
+
+	Llengua catalana (hores  lliure disposició)
+
+	280
+
+	
+
+
+
+	HORES TOTALS
+
+	525
+
+	
+
+
+
+LLENGUA CASTELLANA
+
+	Llengua castellana (pròpies del cicle)
+
+	70
+
+	Ll. Castellana  (hores  lliure disposició
+
+	-
+
+	                     HORES TOTALS
+
+	70
+
+	
+
+
+
+LLENGUA ESTRANGERA (ANGLÈS)
+
+	Llengua estrangera  (pròpies del cicle)
+
+	70
+
+	Llengua estrangera  (hores  lliure disposició)
+
+	53
+
+	HORES TOTALS
+
+	123
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CICLE MITJÀ
+
+
+
+
+
+
+
+
+
+	
+
+
+
+HORES
+
+	LLENGUA CATALANA
+
+	Llengua catalana (pròpies del cicle)
+
+	140
+
+	Estructures lingüístiques comunes
+
+	  70
+
+	Llengua catalana (hores  lliure disposició)
+
+	175
+
+	
+
+
+
+	HORES TOTALS
+
+	385
+
+	
+
+
+
+LLENGUA CASTELLANA
+
+	Llengua castellana (pròpies del cicle)
+
+	140
+
+	Ll. Castellana  (hores  lliure disposició
+
+	  53
+
+	                     HORES TOTALS
+
+	193
+
+	
+
+
+
+LLENGUA ESTRANGERA (ANGLÈS)
+
+	Llengua estrangera  (pròpies del cicle)
+
+	105
+
+	Llengua estrangera  (hores  lliure disposició)
+
+	  44
+
+	HORES TOTALS
+
+	149
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CICLE SUPERIOR
+
+
+
+
+
+
+
+
+
+	
+
+
+
+HORES
+
+	LLENGUA CATALANA
+
+	Llengua catalana (pròpies del cicle)
+
+	140
+
+	Estructures lingüístiques comunes
+
+	  70
+
+	Llengua catalana (hores  lliure disposició)
+
+	193
+
+	
+
+
+
+	HORES TOTALS
+
+	403
+
+	
+
+
+
+LLENGUA CASTELLANA
+
+	Llengua castellana (pròpies del cicle)
+
+	140
+
+	Ll. Castellana  (hores  lliure disposició)
+
+	  18
+
+	                     HORES TOTALS
+
+	158
+
+	
+
+
+
+LLENGUA ESTRANGERA (ANGLÈS)
+
+	Llengua estrangera  (pròpies del cicle)
+
+	140
+
+	Llengua estrangera  (hores  lliure disposició)
+
+	  35
+
+	HORES TOTALS
+
+	175
+
+	
+
+
+
+
+
+
+
+
+
+
+
+3.7. Organització i gestió
+
+
+
+
+
+3.7.1. Organització dels usos lingüístics, comunicació externa, llengua de relació amb famílies
+
+
+
+
+
+
+
+
+
+Tota la retolació del centre, la documentació administrativa, els instruments de gestió, actes, avisos orals i escrits i comunicats als taulers d’anuncis han d’estar redactats en llengua catalana.
+
+
+
+
+
+Així mateix es vetllarà per la utilització habitual d’un llenguatge no sexista en les comunicacions internes i externes del centre.
+
+
+
+
+
+El català és la llengua usada pel centre en la correspondència oficial, els butlletins i informes, les comunicacions escrites dirigides a les famílies, la correspondència escolar i la participació a la xarxa de telecomunicacions...
+
+El català és la llengua d’ús en totes  les comunicacions orals i els actes acadèmics que es fan dintre de la comunitat educativa.
+
+
+
+
+
+La llengua de relació amb les famílies sovint acostuma a ser en castellà degut al context social de l’escola. Dins de la nostra comunitat educativa hauríem de poder aconseguir que el català fos la llengua de comunicació habitual i és per aquesta raó que s’han organitzat cursos de català per als pares no catalanoparlants.
+
+
+
+
+
+3.7.2. Plurilingüisme al centre educatiu,  actituds lingüístiques, mediació lingüística     
+
+  
+
+Quan una nova família arriba a l’escola es atesa per Direcció que l’informa de la línia d’escola, les normes de funcionament, les característiques formals i li notifica tota la sèrie d’ajuts, serveis i  documentació necessària per formalitzar la matrícula.
+
+
+
+
+
+Una vegada realitzat aquest primer contacte es deriven  a la tutora de l’aula d’acollida.
+
+A la nostra escola malgrat que la majoria de les famílies nouvingudes són d’origen hispanoamericà, la presència de famílies d’origen paquistaní, àrab, nigerià i romanès, ha fet necessària  la presència dels traductors de les diferents llengües a l’hora de realitzar les entrevistes.  Amb la resta de famílies normalment la llengua  de comunicació és el castellà.
+
+
+
+
+
+Ja fa anys que les entrevistes de seguiment tutorial amb famílies, tant les nouvingudes com les que ja porten més temps a Catalunya  però tenen poca competència en català i castellà, es fan en un mateix dia. Es compta amb el suport de  traductors de les llengües no romàniques (urdú, àrab, anglès..) i, per part de les  tutores d’aula ordinària, es parla del seguiment acadèmic i emocional de l’alumnat. 
+
+
+
+
+
+3.7.3. Organització de l’equip docent
+
+
+
+
+
+L’equip docent  treballa amb el cap d’estudis, la coordinadora de llengua, interculturalitat i cohesió social  (CLIC) i amb l’assessora LIC  per a l’assoliment dels següents objectius:
+
+
+
+
+
+* Vetllar perquè la llengua vehicular de l'escola amb l’entorn educatiu sigui en català, promovent actuacions de cohesió social.
+
+
+
+
+
+- Col·laborar en l’actualització dels documents de centre (PEC, PLC, RRI, Pla                                d’acollida i integració, programació general del centre i el futur Pla de Convivència...)  i en la gestió de les actuacions que fan referència a l’acollida i integració de l’alumnat nouvingut, així com  l’atenció a l’alumnat en risc d’exclusió i a la promoció de l’ús de la llengua, l’educació intercultural i la cohesió social en el centre.
+
+
+
+
+
+* Participar en la comissió d’atenció a la diversitat a fi de donar suport a les         actuacions  que  es duguin a terme per atendre la diversitat de necessitats educatives de l’alumnat.
+
+
+
+
+
+* Treballar per aconseguir configurar en una sola àrea les dues llengües de Catalunya a fi d’evitar repeticions i estructurar d’una manera transversal l’aprenentatge de les dues llengües.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.7.4. Mediateca escolar
+
+
+
+
+
+
+
+
+
+La biblioteca de cicle o d’aula  és l’espai del Centre on es dinamitzaran accions educatives de  la  llengua, tenint com a finalitat la millora d’èxit educatiu de l’alumnat.
+
+
+
+
+
+* Fomentar l’ús  biblioteca de cicle i d’aula com a recurs de les activitats d’ensenyament- aprenentatge del centre.
+
+* Crear i fomentar en els infants, joves i adults l’hàbit i el gust de llegir, d’aprendre i utilitzar les 
+
+     biblioteques.
+
+* Ajudar als infants a establir unes bones relacions amb els llibres i l’espai on es desenvolupa la 
+
+     lectura.
+
+* Despertar curiositat per afavorir la imaginació i l’entreteniment.
+
+* Comprendre i dominar les habilitats i tècniques de cercar informació.
+
+* Desenvolupar activitats, extreure, sintetitzar i utilitzar la informació que prové de diferents fonts.
+
+* Utilitzar les dades i la informació per ampliar la seva base de coneixement personal.
+
+* Explorar formes creatives d’utilitzar la informació.
+
+* Comprendre l’herència cultural i la seva història, així com la cultura i la història d’altres societats i grups socials.
+
+* Participar activament en les decisions del seu propi aprenentatge.
+
+* Tenir accés, en el seu aprenentatge, a un gran ventall de recursos d’un nivell adequat.
+
+* Recollir el material necessari per posar a l’abast de tota la comunitat educativa els llibres i nous recursos tecnològics de la informació.
+
+* Organitzar activitats que afavoreixin la presa de consciència i la sensibilització cultural i social.
+
+* Proclamar la idea que la biblioteca i l’accés a la informació són indispensables per aconseguir una ciutadania responsable i participativa.
+
+* Fomentar la biblioteca Zona Nord com a recurs ensenyament-aprenentatge i gust per la lectura.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      5. Projecció del centre
+
+
+
+
+
+3.7.5.1. Xarxes socials:instagram,telegram i pàg.web.
+
+
+
+
+
+El centre té un bloc que s'actualitza regularment i on es pengen les notícies, festes, activitats, treballs dels nens i de les nenes, etc. així mateix serveix per a la comunicació entre el professorat, magatzem d’activitats, etc. 
+
+
+
+
+
+    3.7.5.2 Jocs Florals 
+
+
+
+
+
+El centre organitza els jocs florals a dins de la pròpia escola .
+
+
+
+
+
+                  3.7.5.3. Xapó
+
+                
+
+El centre participa  en la xarxa comunitària de les entitats de barri.
+
+               
+
+                    3.7.5.4. Xarxes pel canvi 
+
+
+
+
+
+L’escola participa del programa xarxes pel canvi , el qual promou i facilita al centre educatiu la participació en una xarxa de centres de proximitAt territorial per afavorir i compartir la transformació educativa dins el mateix centre. 
+
+ 
+
+
+
+
+
+
+
+
+
+4. Concreció operativa del projecte (Pla anual)
+
+
+
+
+
+ 4.1. Difusió del PLC
+
+
+
+
+
+* El Consell Escolar vetllarà perquè cada una de les famílies noves del centre conegui i comparteixi els principis del PLC.
+
+
+
+
+
+* La direcció del centre vetllarà perquè cada un dels docents que s’incorporin al centre conegui i comparteixi els principis del PLC.
+
+
+
+
+
+* La direcció del centre vetllarà perquè cada una de les persones que tenen contacte amb el centre conegui i comparteixi els principis del PLC.
+
+
+
+
+
+* Els principis del PLC seran revisats i concretats cada any en el Pla Anual de centre. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2. Avaluació
+
+
+
+
+
+* La consecució dels objectius operatius del projecte lingüístic especificats al Pla Anual, s’avaluaran en finalitzar el curs. Les dades obtingudes es lliuraran a la direcció  del centre per tal de ser incloses en la memòria general de centre.
+
+
+
+
+
+* Aquestes dades avaluatives es tindran en compte per a planificar les actuacions del proper curs.
+
+
+
+
+
+
+
+
+
+4.3.  Calendari de revisió 
+
+
+
+
+
+Aquest Projecte tindrà una vigència de 4 cursos acadèmics per poder analitzar els canvis que es produeixen a nivell d’ús de les llengües tenint en compte els moviments socials que es produeixen al nostre al país i a la nostra escola. 
+
+Puntualment s’actualitzarà el PLC cada cop que s’hagi de fer una modificació significativa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.4. Concreció operativa del projecte (Pla anual)
+
+        
+
+En aquest apartat concretarem els objectius que  marquem com a prioritaris per treballar durant el curs i que, per tant, ens permetin atansar-nos als principis que hem definit en el PLC i les concrecions anuals d’alguns dels apartats que hem desenvolupat també en el PLC, com, per exemple, els horaris de les llengües curriculars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4.                                                   
+
+5. OBJECTIUS DE MILLORA
+
+OBJECTIUS DE MILLORA
+
+	RESPONSABLES
+
+	TERMINI
+
+	curt
+
+
+
+
+
+	mig
+
+	llarg
+
+	PROFESSORAT I  CURRÍCULUM
+
+
+
+
+
+* Revisar el treball dut a terme pels diferents cicles en relació a la llengua catalana (adquisició de la  producció dels sons específics de la llengua catalana...) Incidir en la consciència fonològica.
+
+
+
+
+
+
+
+
+
+* Recordar a l’inici de curs  a tot el claustre els protocols d’acollida, l’atenció lingüística que ha de rebre l’alumnat nouvingut i els criteris d’avaluació.
+
+
+
+
+
+
+
+
+
+* Fer un recull de les estratègies i activitats que permetin la incentivació i ús de la llengua catalana.
+
+(Tenim la Paraula!
+
+
+
+
+
+* Plataforma “paraules màgiques” -Treball sistemàtic de la comprensió lectora.
+
+
+
+
+
+	
+
+
+
+
+
+
+
+* Claustre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-     Equip directiu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Mestres “Tenim la paraula”
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Claustre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	PERSONAL D’ACTIVITATS EXTRAESCOLARS I COMPLEMENTÀRIES
+
+	
+
+
+
+
+
+
+
+
+
+
+
+* Equip directiu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+* Promoure i utilitzar el català com a llengua de comunicació oral i escrita entre el personal encarregat de les activitats extraescolars, menjador i la resta de la comunitat educativa.
+
+	
+
+
+
+ASSOCIACIÓ DE PARES I MARES
+
+
+
+
+
+	
+
+
+
+	curt
+
+
+
+
+
+	mig
+
+
+
+
+
+	llarg
+
+
+
+
+
+	
+
+
+
+
+
+
+
+* Preveure tota mena de recursos, així com l’accés a les instal·lacions, per tal que s’hi facin les activitats i pràctiques que calguin per a afavorir la integració lingüística i cultural  dels pares, mares i familiars de l’alumnat.
+
+
+
+
+
+	
+
+
+
+
+
+
+
+- Equip directiu 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+ACTIVITATS CULTURALS
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+* Continuar incorporant  festes, tradicions i costums a tota la comunitat educativa que fomentin l’ús de la llengua i la integració de la cultura catalana.
+
+
+
+
+
+* Reforçar els lligams amb entitats i persones del barri que actuïn positivament en aquest aspecte.
+
+
+
+
+
+	
+
+
+
+* Claustre
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Equip directiu
+
+
+
+
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+ALUMNES AMB NEE
+
+ 
+
+	
+
+
+
+	curt
+
+
+
+
+
+	mig
+
+
+
+
+
+	llarg
+
+
+
+
+
+	
+
+
+
+* Prioritzar els aspectes més comunicatius i funcionals de la llengua catalana.
+
+
+
+
+
+* Fomentar l’ús de la llengua catalana.
+
+
+
+
+
+* Aconseguir que tot el professorat i els altres professionals que actuïn en el centre es dirigeixin sempre en català a l’alumnat de NEE, així com  ho fan amb tots els altres alumnes per facilitar-ne la integració i la no discriminació.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+* Tutor i especialista EE.
+
+
+
+
+
+
+
+
+
+* Tutor i especialista EE
+
+
+
+
+
+* Professorat i professionals
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+ALUMNES NOUVINGUTS
+
+
+
+
+
+	
+
+
+
+	curt
+
+	mig
+
+	Llarg
+
+	
+
+
+
+* Proporcionar els mitjans necessaris per assegurar una 
+
+      bona integració lingüística de l’alumnat nouvingut en               
+
+      qualsevol dels nivells educatius del centre.
+
+
+
+
+
+* Informar a les famílies nouvingudes de la situació 
+
+     lingüística de l’escola i de l’entorn (Pla d’acollida)
+
+
+
+
+
+* Assegurar l’adequació del currículum, dels materials 
+
+     escolars i del procés evolutiu per facilitar 
+
+     l’aprenentatge de la llengua als alumnes nouvinguts.
+
+
+
+
+
+* Vetllar per l’ús del català amb els nens i nenes d’origen estranger.
+
+
+
+
+
+	
+
+
+
+* Tutor Aula d’acollida
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Equip directiu i tutors
+
+
+
+
+
+
+
+
+
+* Equip directiu, Tutor de l’Aula d’acollida
+
+
+
+
+
+
+
+
+
+* Claustre
+
+
+
+
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+BIBLIOTECA DE CICLE,AULA I BARRI
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+* Dinamitzar l’ús i funcionament de la biblioteca de cicle,aula i barri
+
+
+
+
+
+* Preveure i vetllar perquè es pugui consultar, llegir i buscar informació sobre qualsevol tema en català, anglès i castellà mitjançant llibres, enciclopèdies, DVs, CDs, etc.
+
+
+
+
+
+* Establir , com a prioritat, el català en possibles subscripcions a premsa i compra d’altres materials audiovisuals.
+
+	
+
+
+
+
+
+
+
+*  Claustre
+
+
+
+
+
+
+
+
+
+* Claustre
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Equip directiu
+
+
+
+
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+	
+
+
+
+PROJECCIÓ EXTERNA
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+* Garantir que la llengua catalana sigui la llengua habitual de comunicació del centre en l’àmbit administratiu extern.
+
+
+
+
+
+* Revisar la retolació interna i externa del centre per tal de garantir que sigui en català.
+
+
+
+
+
+
+
+
+
+	
+
+
+
+* Equip directiu
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Equip directiu
+
+
+
+
+
+	
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+X
+
+	
+
+
+
+X
+
+	
+
+
+
+X

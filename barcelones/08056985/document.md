@@ -1,0 +1,1370 @@
+---
+codi: 08056985
+centre: Institut Ramon Berenguer IV
+municipi: Santa Coloma de Gramenet
+font: https://docs.google.com/document/d/1Isnkks-y02UQHIHjTb57hPkugesJ7Gd83sazWVxp09A/edit?tab=t.0
+descarregat: 2026-10-20
+sha256: a7625f285cc8d4971f4a6ae5b53e52ba9a292082e08e4fc08d2d897a76db6905
+---
+
+﻿Generalitat de Catalunya
+
+Departament d'Educació
+
+Institut Ramon Berenguer IV
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	Projecte Lingüístic de    Centre
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Índex de continguts
+
+PROJECTE LINGÜÍSTIC DE CENTRE        3
+
+1. PRESENTACIÓ DEL DOCUMENT        3
+
+2. CONTEXT SOCIOLINGÜÍSTIC        3
+
+2.1. Alumnat        4
+
+2.2. Entorn        5
+
+3. EL TRACTAMENT DE LES LLENGÜES        5
+
+3.1. Llengua catalana        6
+
+3.2. Llengua castellana        12
+
+3.3. Llengües estrangeres        13
+
+4. ORGANITZACIÓ I GESTIÓ        16
+
+5. PROPOSTES PER DINAMITZAR L’ÚS DE LES LLENGÜES        21
+
+6. MARC NORMATIU        22
+
+7. CONTROL DEL DOCUMENT        23
+
+________________
+
+
+
+
+
+PROJECTE LINGÜÍSTIC DE CENTRE
+
+
+
+
+
+1. PRESENTACIÓ DEL DOCUMENT
+
+	
+
+
+
+El Projecte Lingüístic de Centre (PLC) és l’instrument que defineix el tractament de les llengües al centre, tant de les llengües curriculars com de les llengües pròpies de l’alumnat. El context sociolingüístic i les realitats lingüístiques de l’alumnat condicionen i orienten l’elaboració, la implementació i la revisió del PLC.
+
+El PLC té caràcter de projecte de centre i, per tant, abasta tots els àmbits d’actuació: el pedagògic, el de gestió i el d’organització. En aquest sentit, forma part del Projecte Educatiu de Centre (PEC).
+
+La seva implementació es concreta mitjançant la Programació General Anual (PGA), i el seu desplegament es revisa periòdicament en el marc del sistema de gestió de la qualitat, amb l’objectiu de garantir la millora contínua dels resultats educatius i l’atenció a la diversitat lingüística del centre.
+
+
+
+
+
+2. CONTEXT SOCIOLINGÜÍSTIC
+
+	
+
+
+
+Segons el Consorci de normalització lingüística de Santa Coloma de Gramenet referent a l’habilitat lingüística aproximadament el 75 % de la població l’entén, el 55 % el sap parlar el 63 % el sap llegir i 48 % el sap escriure. Això es tradueix en un ús oral del català entre l’alumnat del centre en un 100 % del castellà com a llengua de comunicació. Tenint aquestes dades com a punt de partida, cal adequar el Projecte Lingüístic de Centre a la situació real actual de l’alumnat i de l’entorn.
+
+En aquest sentit, fora bo constituir un equip impulsor encarregat d’elaborar una diagnosi actualitzada i de definir estratègies a mig i llarg termini. Tanmanteix aquest projecte només és viable amb una plantilla estable de professorat de l’àmbit lingüístic. 
+
+El treball de l’equip impulsor permetria establir acords que es concretarien en accions específiques (formació, activitats i estratègies metodològiques), que s’haurien d’incorporar a la Programació General Anual (PGA). Aquest procés es vincularia també al seminari d’immersió, amb especial atenció a les metodologies de tractament integrat de llengua i contingut (TILC).
+
+Considerem prioritari l’anàlisi del següents àmbits:
+
+* Usos lingüístics: anàlisi del paisatge lingüístic del centre, paper del català dins del model lingüístic plurilingüe i identificació de dificultats i oportunitats de millora.
+
+* Aprenentatge i ús de les llengües: identificació de factors que influeixen en l’aprenentatge de les llengües i anàlisi de metodologies adequades en contextos multilingües (TILC).
+
+* Cohesió social i llengua: estratègies per fomentar la cohesió social, la comunicació amb les famílies i la sensibilització de la comunitat educativa.
+
+* Presa d’acords: definició d’accions concretes i necessitats formatives a partir de la diagnosi realitzada.
+
+Aquest anàlisi permetria disposar d’una base objectiva per a la presa de decisions i poder contribuir a la millora contínua del Projecte Lingüístic de Centre.
+
+
+
+
+
+2.1. Alumnat
+
+	
+
+
+
+En relació amb l’alumnat, les dades disponibles indiquen que més del 90% té el castellà com a llengua familiar i gairebé el 100 % l’utilitza com a llengua habitual en les relacions amb les amistats.
+
+Pel que fa al consum lingüístic i cultural de l’alumnat del Ramon Berenguer IV, s’ha demanat a tot l’alumnat d’ESO, Batxillerat i GB que responguin un qüestionari sobre el consum cultural en català; on es poden veure les respostes de cada nivell. Aquest formulari s’haurà d’actualitzar cada any per poder fer un seguiment de l’evolució que es fa en aquest sentit.
+
+Aquestes dades evidencien que la llengua castellana és clarament predominant en la majoria d’àmbits d’ús de l’alumnat.
+
+Pel que fa al nivell de competència lingüística al final de l’etapa, no es disposa encara d’un estudi sistemàtic basat en indicadors objectius. No obstant això, a partir de la valoració dels diferents departaments didàctics, es detecta una insuficiència en el domini de les dues llengües oficials, tant en català com en castellà. Les causes identificades són diverses: d’una banda, factors relacionats amb l’entorn sociocultural de l’alumnat i, de l’altra, factors més generals vinculats a una disminució global de la competència lingüística en l’àmbit social.
+
+D’una forma general, es considera que el perfil sociolingüístic de l’alumnat no ha experimentat variacions significatives. En conseqüència, el Projecte Lingüístic de Centre es fonamenta en aquesta realitat, sense perjudici de la necessitat d’actualitzar periòdicament la diagnosi.
+
+
+
+
+
+2.2. Entorn
+
+	
+
+
+
+El centre està ubicat al barri de Singuerlín, a Santa Coloma de Gramenet, un entorn sociolingüístic caracteritzat per una presència majoritària de la llengua castellana. Tant al barri com al conjunt de la ciutat, el castellà és la llengua predominant en les interaccions socials quotidianes.
+
+La presència del català en l’ús social és limitada i es concentra principalment en àmbits institucionals i formals, com ara els centres educatius, les biblioteques i les administracions públiques. En conseqüència, les oportunitats d’ús espontani del català fora de l’entorn escolar són reduïdes.
+
+Aquest context sociolingüístic condiciona els usos lingüístics de l’alumnat i dificulta la consolidació del català com a llengua d’ús habitual, especialment en contextos informals. Per aquest motiu, el centre esdevé un espai clau per garantir l’exposició, l’aprenentatge i l’ús del català com a llengua vehicular i de cohesió.
+
+En aquest sentit, el Projecte Lingüístic de Centre ha de preveure estratègies específiques per fomentar l’ús del català en tots els àmbits del centre i compensar la manca de presència d’aquesta llengua en l’entorn social, tot promovent alhora el respecte i la valoració de la diversitat lingüística de l’alumnat.
+
+3. EL TRACTAMENT DE LES LLENGÜES
+
+	El tractament de les llengües al centre es fonamenta en l’anàlisi dels resultats de competència lingüística de l’alumnat, especialment a partir de les proves de competències bàsiques de 4t d’ESO, així com en la valoració interna realitzada pels departaments didàctics. En aquest sentit, es posa especial èmfasi en l’expressió oral.
+
+Aquests resultats permeten identificar els punts forts i les àrees de millora en relació amb l’assoliment de la competència comunicativa en les diferents llengües curriculars. A partir d’aquesta anàlisi, es defineixen i s’implementen accions de millora orientades a reforçar l’expressió oral i escrita, la comprensió lectora i l’ús adequat de les llengües en contextos diversos.
+
+Les propostes de millora derivades d’aquesta anàlisi es concreten anualment en la Programació General Anual (PGA), on s’estableixen les actuacions específiques, els responsables i els criteris de seguiment.
+
+Aquest enfocament permet garantir la coherència entre la diagnosi, la planificació i la implementació de les accions, així com afavorir la millora contínua dels resultats lingüístics de l’alumnat en el marc del sistema de gestió de la qualitat del centre.
+
+
+
+
+
+3.1. Llengua catalana
+
+	
+
+
+
+El català: vehicle de comunicació
+
+Actualment, no s’ha assolit una presència generalitzada del català com a llengua d’ús habitual en tots els àmbits del centre. S’observa que una part del professorat tendeix a adaptar-se a la llengua de l’alumnat, majoritàriament castellanoparlant, especialment en contextos informals.
+
+Aquesta situació limita les oportunitats de l’alumnat per practicar el català oral en situacions comunicatives reals i quotidianes. En conseqüència, es considera necessari reforçar l’ús del català com a llengua de comunicació en tots els espais i contextos del centre, tant formals com informals.
+
+El català com a llengua vehicular
+
+Tal com s’ha exposat anteriorment, es detecta un dèficit en l’ús del català fora de l’aula, fet que dificulta la seva consolidació com a llengua vehicular del centre. Per tal de revertir aquesta situació, cal establir objectius compartits a nivell de claustre i definir actuacions concretes que es recullin en la Programació General Anual (PGA).
+
+Aquestes actuacions han d’anar orientades a garantir que el català esdevingui la llengua habitual d’ensenyament, d’aprenentatge i de relació dins del centre, en coherència amb el marc normatiu vigent i amb els objectius del Projecte Lingüístic de Centre.
+
+________________
+
+
+
+
+
+Llengua oral
+
+Des de fa anys, tant els departaments de llengua (catalana i castellana) com el claustre han identificat la necessitat de potenciar l’expressió oral de l’alumnat, atès que es detecten mancances significatives tant en català —en usos formals i informals— com en castellà —principalment en registres formals.
+
+En aquest sentit, el departament de llengua catalana ha incorporat, en els darrers cursos, activitats específiques orientades a reforçar l’expressió oral més enllà del que estableix el currículum oficial. Tot i aquestes iniciatives, es considera necessari avançar cap a un enfocament més sistemàtic i compartit a nivell de centre.
+
+Per aquest motiu, es preveu la definició i implementació d’actuacions interdisciplinàries que permetin treballar l’expressió oral de manera transversal en totes les àrees. Aquestes actuacions es concretaran en la Programació General Anual (PGA), amb l’objectiu de garantir una pràctica docent coherent i generalitzada en el desenvolupament de la competència comunicativa oral.
+
+Així mateix, es valorarà la incorporació d’estratègies específiques de dinamització lingüística, com ara programes de parelles lingüístiques (sempre que ho permeti el nivell lingüístic de l’alumnat nouvingut), per afavorir l’ús del català en contextos reals de comunicació i incrementar les oportunitats d’interacció oral de l’alumnat.
+
+Llengua escrita
+
+Tal com s’ha indicat anteriorment, es detecten mancances en el nivell de competència lingüística de l’alumnat, que en l’àmbit de la llengua escrita es manifesten en dificultats persistents en aspectes com l’ortografia, la sintaxi, el lèxic i la morfologia.
+
+Aquesta situació ha estat objecte de reflexió en diferents espais de coordinació pedagògica del centre. No obstant això, encara no s’ha consolidat una estratègia global i sistemàtica que permeti abordar de manera efectiva aquestes dificultats.
+
+En conseqüència, es considera necessari establir criteris comuns i actuacions compartides a nivell de centre per millorar la competència escrita de l’alumnat. Aquestes actuacions hauran d’incloure el treball sistemàtic de la correcció lingüística en totes les àrees, així com la definició de pautes comunes d’avaluació i seguiment, que es concretaran en la Programació General Anual (PGA).
+
+Aquest enfocament ha de permetre avançar cap a una millora progressiva dels resultats en expressió escrita, en coherència amb els objectius del Projecte Lingüístic de Centre i dins del marc de la millora contínua del sistema de gestió de la qualitat.
+
+Relació llengua oral i llengua escrita
+
+El centre compta amb diverses iniciatives que integren l’expressió oral i escrita, com ara activitats de dramatització de textos, creació d’un grup de teatre o l’organització de jornades literàries i culturals, especialment a l’etapa de Batxillerat. Aquestes experiències han permès treballar de manera puntual la interrelació entre les diferents formes d’expressió lingüística.
+
+No obstant això, actualment no es disposa d’un plantejament global i sistemàtic que integri de manera explícita la relació entre llengua oral i llengua escrita dins del currículum del centre. Tot i que els departaments de llengua catalana i castellana desenvolupen actuacions en aquesta línia, aquestes no s’han estès de manera transversal a totes les àrees.
+
+D’altra banda, l’oferta de la modalitat de Batxillerat d’Arts Escèniques ha facilitat un treball més intensiu de les diferents dimensions de la llengua, tot i que aquest enfocament queda limitat a aquest àmbit específic.
+
+En aquest context, es considera necessari avançar cap a una planificació coordinada que promogui la integració de l’expressió oral i escrita en totes les etapes i àrees, mitjançant actuacions concretes que es recullin en la Programació General Anual (PGA).
+
+La llengua en les diverses àrees
+
+Tal com s’ha posat de manifest en diferents espais de reflexió pedagògica del centre, la millora del nivell lingüístic de l’alumnat ha estat una preocupació recurrent. Tot i que hi ha algunes propostes —com ara “Patis en català; treu la llengua”, projecte que ja es duu a terme en altres instituts del municipi— són difícils d'implementar perquè fins ara no s’ha consolidat una coordinació estable i sostinguda en el temps que permeti aplicar de manera sistemàtica les actuacions acordades.
+
+ El Projecte Lingüístic de Centre ha de facilitar la definició d’eines organitzatives i pedagògiques que permetin establir criteris comuns i garantir el seguiment dels acords adoptats. En aquest sentit, es preveu impulsar la integració del treball de la competència lingüística en totes les àrees curriculars, promovent un enfocament transversal i compartit per tot el professorat.
+
+Aquest plantejament s’haurà de concretar en actuacions específiques dins la Programació General Anual (PGA), amb la finalitat de millorar de manera progressiva la competència comunicativa de l’alumnat en tots els àmbits.
+
+Continuïtat i coherència entre nivells
+
+El centre disposa d’una trajectòria consolidada pel que fa al seguiment de les programacions i al traspàs d’informació entre l’etapa de Primària i la de Secundària, incloent-hi aspectes rellevants com els lingüístics i els matemàtics.
+
+No obstant això, es detecta la necessitat d’incorporar de manera més sistemàtica l’anàlisi i el seguiment específic de la competència lingüística en les reunions dels equips docents. En aquest sentit, cal establir mecanismes que permetin fer un seguiment continuat dels aspectes lingüístics i garantir la coherència dels aprenentatges al llarg de les diferents etapes educatives.
+
+Acollida d’alumnat nouvingut i acolliment inicial de la llengua vehicular
+
+El centre disposa, des del curs 2009-2010, d’una aula d’acollida amb professorat específic per atendre l’alumnat nouvingut. Aquest recurs permet oferir una resposta educativa adaptada a les necessitats lingüístiques inicials de l’alumnat.
+
+Malgrat això, es considera necessari millorar la coordinació entre l’aula d’acollida i les aules ordinàries, especialment en el procés d’incorporació progressiva de l’alumnat, amb l’objectiu d’afavorir una integració acadèmica i lingüística més efectiva.
+
+Alumnat que desconeix les dues llengües oficials
+
+A l’aula d’acollida s’apliquen estratègies didàctiques específiques per a l’alumnat que no coneix cap de les dues llengües oficials, tenint en compte les seves necessitats d’aprenentatge inicial.
+
+Tot i això, es detecta la necessitat de consolidar una coordinació més estable amb la resta del professorat del centre, amb la finalitat de garantir la continuïtat dels aprenentatges i l’aplicació coherent de les estratègies metodològiques en tots els àmbits educatius.
+
+________________
+
+
+
+
+
+Alumnat de parla hispana 
+
+El centre acull alumnat amb perfils lingüístics diversos, entre els quals es troba alumnat que té el castellà com a llengua d’origen. Aquesta realitat genera situacions diferenciades entre l’alumnat que ja domina una de les llengües oficials i aquell que no en coneix cap.
+
+Per donar resposta a aquesta diversitat, s’organitzen itineraris d’aprenentatge diferenciats tant a l’aula d’acollida com a les aules ordinàries, mitjançant l’ús de metodologies i materials adaptats a les necessitats específiques de l’alumnat.
+
+Alumnat no romànic
+
+Una part significativa de l’alumnat nouvingut prové de contextos lingüístics no romànics, especialment de parla urdú i xinesa. En aquests casos, es detecten dificultats afegides en el procés d’aprenentatge de les llengües oficials i en la seva integració al centre.
+
+Per aquest motiu, es considera necessari reforçar les estratègies d’acollida i suport educatiu dirigides a aquest col·lectiu, amb l’objectiu de facilitar-ne la integració lingüística, acadèmica i social.
+
+Atenció a la diversitat
+
+L’atenció a la diversitat és un element clau en un centre d’educació secundària, atesa la diversitat d’itineraris formatius i professionals que s’obren a l’alumnat a partir dels 16 anys. En aquest context, esdevé essencial garantir una resposta educativa ajustada a les necessitats individuals, també en l’àmbit de la competència lingüística.
+
+Pel que fa a l’aprenentatge de les llengües, el centre disposa de diferents mesures de diversificació, adaptades a les característiques de l’alumnat:
+
+* Grups de reforç en les matèries instrumentals, amb especial incidència en la competència lingüística.
+
+* Grups amb adaptacions curriculars globals, que inclouen l’adequació dels continguts lingüístics.
+
+* Actuacions específiques per a l’alumnat amb altes capacitats, en què la competència lingüística té un paper rellevant en el desenvolupament acadèmic.
+
+Aquestes mesures s’orienten a garantir el progrés de tot l’alumnat, afavorint el desenvolupament de la competència comunicativa i la igualtat d’oportunitats en l’accés als aprenentatges.
+
+Activitats d’incentivació d’ús de la llengua
+
+Actualment, el centre no disposa encara d’una estratègia global i sistemàtica per a la promoció de l’ús del català que vagi més enllà de les activitats culturals, majoritàriament desenvolupades en aquesta llengua. Tot i que els aspectes lingüístics es tenen en compte en el desenvolupament curricular de les diferents àrees, no s’ha consolidat una línia d’actuació compartida i continuada a nivell de centre.
+
+En aquest context, es preveu avançar cap a la definició d’una estratègia comuna que permeti fomentar l’ús del català en tots els àmbits del centre, especialment en els espais informals i de relació entre l’alumnat. 
+
+Entre les possibles línies d’actuació es preveuen:
+
+* Impuls d’activitats de dinamització lingüística (parelles lingüístiques, tallers d’oralitat, activitats culturals participatives).
+
+* Promoció de l’ús del català en contextos informals (patis, activitats complementàries, espais de convivència).
+
+* Integració d’estratègies d’immersió lingüística en el conjunt de les àrees curriculars.
+
+* Sensibilització de la comunitat educativa sobre la importància de l’ús del català com a llengua de cohesió.
+
+Català i llengües d’origen
+
+Tot i que la presència d’alumnat nouvingut al centre no és majoritària, la valoració de les llengües d’origen no s’ha abordat de manera sistemàtica a nivell de centre. No obstant això, en aquells grups on aquesta presència és més significativa, s’han desenvolupat pràctiques educatives orientades al reconeixement i la incorporació de les llengües d’origen de l’alumnat.
+
+En aquests contextos, s’han aplicat criteris metodològics i estratègies didàctiques que promouen el respecte i la valoració de la diversitat lingüística, utilitzant les llengües d’origen com a recurs per facilitar l’aprenentatge i afavorir la inclusió.
+
+Aquest enfocament contribueix a establir una base de reconeixement mutu entre les diferents llengües presents al centre i facilita el procés d’aprenentatge del català com a llengua pròpia de Catalunya i llengua vehicular del sistema educatiu.
+
+En aquest sentit, es considera necessari avançar cap a una línia d’actuació compartida que integri de manera més sistemàtica la diversitat lingüística en el conjunt del centre, en coherència amb els principis d’educació inclusiva i de desenvolupament de la competència plurilingüe.
+
+Diversitat lingüística del centre i del seu entorn en el currículum
+
+Tal com s’ha indicat en apartats anteriors, el centre encara no disposa d’una estratègia col·lectiva consolidada que garanteixi el català com a llengua d’ús habitual en tots els àmbits.
+
+En el cas de l’alumnat nouvingut, especialment el de llengües no romàniques, el català esdevé inicialment la llengua de comunicació amb el professorat d’aula d’acollida. No obstant això, a causa del predomini del castellà en l’entorn social i en les relacions entre iguals, aquesta llengua tendeix a esdevenir la llengua d’ús habitual entre l’alumnat.
+
+Davant d’aquesta realitat, es considera necessari incorporar la diversitat lingüística del centre com un element enriquidor dins del currículum, tot promovent el respecte i la valoració de totes les llengües presents, alhora que es reforça el paper del català com a llengua vehicular i de cohesió.
+
+Aquest enfocament ha de contribuir a afavorir la integració de l’alumnat, el desenvolupament de la competència plurilingüe i la millora dels usos lingüístics en el conjunt de la comunitat educativa.
+
+
+
+
+
+3.2. Llengua castellana
+
+	
+
+
+
+El castellà és la llengua majoritària de l’alumnat del centre. No obstant això, es detecten mancances en el domini de la varietat estàndard, tant pel que fa al lèxic com a les estructures lingüístiques. Aquestes dificultats condicionen l’aprenentatge i el desenvolupament de la competència comunicativa en altres llengües, inclosa la llengua vehicular del centre, el català.
+
+En aquest context, un dels objectius del centre és millorar el domini de la varietat estàndard del castellà, així com promoure l’ús adequat dels diferents registres lingüístics segons el context comunicatiu. Es posa un èmfasi especial en el desenvolupament de la competència oral, sense detriment de la competència escrita, amb la finalitat de contribuir a l’enriquiment lingüístic global de l’alumnat i afavorir l’aprenentatge de la resta de llengües.
+
+La llengua escrita
+
+En coherència amb el treball desenvolupat en llengua catalana, el centre promou el desenvolupament de la competència escrita en castellà mitjançant activitats sistemàtiques de lectura i escriptura. L’objectiu és formar lectors i escriptors competents, capaços d’expressar-se amb correcció i adequació.
+
+Pel que fa a les lectures literàries, s’apliquen criteris comuns entre les diferents llengües, tant en la selecció d’obres com en el nombre de lectures per nivell i en els criteris d’avaluació, amb la finalitat de garantir la coherència del procés d’aprenentatge.
+
+Activitats d’ús
+
+Atesa la presència predominant del castellà en la comunicació habitual de l’alumnat, no es considera prioritari el desenvolupament d’activitats específiques per fomentar-ne l’ús fora de l’aula. No obstant això, en el marc de les activitats curriculars, s’utilitzen de manera habitual recursos digitals i mitjans de comunicació, tant escrits com audiovisuals, que contribueixen al desenvolupament de la competència lingüística en aquesta llengua.
+
+
+
+
+
+Alumnat nouvingut
+
+La incorporació de l’alumnat nouvingut requereix l’aplicació d’estratègies que facilitin l’aprenentatge progressiu de les llengües oficials. En aquest procés, es prioritza inicialment l’adquisició d’un nivell bàsic de català que permeti a l’alumnat seguir el currículum a l’aula ordinària.
+
+Posteriorment, s’introdueix de manera progressiva la llengua castellana com a llengua de coneixement, tenint en compte el seu paper predominant en l’entorn social i en les relacions entre iguals. Aquest enfocament facilita la integració lingüística i social de l’alumnat nouvingut i afavoreix el desenvolupament de la seva competència plurilingüe.
+
+
+
+
+
+3.3. Llengües estrangeres
+
+	Metodologia
+
+L’ensenyament de les llengües estrangeres al centre es basa en metodologies comunicatives que prioritzen l’ús pràctic de la llengua en contextos reals o simulats. Les activitats es plantegen amb un enfocament actiu, que fomenta la participació de l’alumnat i el desenvolupament de la competència comunicativa.
+
+L’ús de recursos i continguts digitals facilita l’accés a situacions comunicatives diverses i contribueix a enriquir el procés d’aprenentatge. Aquest enfocament és especialment rellevant a l’etapa d’ESO, mentre que a Batxillerat es reforcen també els aspectes gramaticals amb l’objectiu d’assolir un nivell més profund de domini de la llengua.
+
+Per tal que l’alumnat assoleixi, en finalitzar l’etapa d’educació obligatòria, un nivell òptim de competència lingüística i comunicativa en llengua estrangera, el centre impulsa l’organització de desdoblaments en el màxim nombre de grups possible.
+
+Aquesta mesura es concreta en la configuració de grups reduïts, amb l’objectiu d’afavorir una atenció més individualitzada, potenciar l’aprenentatge significatiu i fomentar un enfocament metodològic competencial, actiu i comunicatiu.
+
+La distribució de l’alumnat es realitza seguint criteris organitzatius objectius, concretament l’ordre alfabètic dels cognoms, prenent com a referència la seva lletra inicial.
+
+Valor educatiu de les llengües estrangeres
+
+L’aprenentatge de llengües estrangeres és una competència clau en el context actual, caracteritzat pel multiculturalisme i la mobilitat internacional. El domini de diverses llengües facilita la comunicació entre persones de diferents orígens i contribueix al desenvolupament personal, acadèmic i professional de l’alumnat.
+
+En aquest sentit, les orientacions del Consell d’Europa destaquen la importància d’assolir una competència comunicativa adequada en llengües estrangeres al llarg de l’educació obligatòria i postobligatòria. Així mateix, el coneixement de diverses llengües amplia les oportunitats d’accés al món laboral i afavoreix la participació activa en una societat globalitzada.
+
+Objectius d’aprenentatge
+
+Els objectius d’aprenentatge de les llengües estrangeres s’adapten a les característiques pròpies d’aquestes llengües, tenint en compte que es tracta de llengües de nova adquisició i que, en general, no formen part de l’ús habitual de l’alumnat.
+
+En aquest sentit, els objectius no són equiparables als de les llengües oficials del centre, i es defineixen d’acord amb els criteris següents:
+
+* Progressió gradual en el desenvolupament de la competència comunicativa.
+
+* Priorització de la comprensió i expressió en contextos funcionals.
+
+* Adaptació a la diversitat lingüística i als diferents ritmes d’aprenentatge.
+
+Aquest plantejament permet garantir un aprenentatge significatiu i adequat a les necessitats de l’alumnat, alhora que afavoreix el desenvolupament de la competència plurilingüe.
+
+1ª Llengua estrangera: Anglès
+
+El centre ofereix l’anglès com a primera llengua estrangera i el francès com a segona llengua.
+
+Pel que fa a l’anglès, es detecta que el nivell assolit per l’alumnat amb les hores lectives actuals és millorable. Aquesta situació no és exclusiva del centre, sinó que es correspon amb una realitat generalitzada del sistema educatiu.
+
+Per tal de millorar la competència lingüística en anglès, es consideren prioritàries les següents línies d’actuació:
+
+* Mantenir els desdoblaments a l’ESO per afavorir una atenció més individualitzada.
+
+* Valorar la possibilitat d’incorporar desdoblaments puntuals al Batxillerat en grups nombrosos.
+
+* Fomentar l’ús de l’anglès en matèries no lingüístiques, sempre que l’organització del centre ho permeti.
+
+Aquestes actuacions tenen com a objectiu millorar progressivament el nivell competencial de l’alumnat i potenciar el prestigi i l’ús de la llengua anglesa dins del centre.
+
+2ª Llengua estrangera: Francès
+
+La llengua francesa s’ofereix com a matèria optativa a partir de 1r d’ESO i es pot cursar al llarg de l’etapa d’educació secundària obligatòria i el Batxillerat, configurant un itinerari progressiu d’aprenentatge.
+
+L’objectiu és que l’alumnat que cursa aquesta llengua sigui capaç de comprendre i produir missatges orals i escrits amb correcció i adequació, desenvolupant progressivament la seva competència comunicativa.
+
+Per garantir la coherència i continuïtat de l’aprenentatge, s’estableixen els criteris següents:
+
+* Informació a l’alumnat sobre l’oferta de francès i les seves característiques durant el procés d’orientació acadèmica.
+
+* Assignació de l’optativa tenint en compte el perfil i les necessitats de l’alumnat, en coordinació amb l’equip docent.
+
+* Continuïtat de l’alumnat en l’itinerari de francès al llarg de l’etapa, sempre que es consideri pedagògicament adequat.
+
+* Coordinació entre el professorat per garantir la progressió dels aprenentatges.
+
+A més, es preveu potenciar l’oferta de francès mitjançant activitats complementàries, com ara intercanvis o estades lingüístiques, que afavoreixin l’ús real de la llengua i el coneixement d’altres contextos culturals.
+
+Llengües clàssiques: Llatí i Grec
+
+El centre ofereix les matèries de llatí i grec dins de l’oferta curricular, especialment en l’etapa de Batxillerat. Aquestes llengües contribueixen al desenvolupament de la competència lingüística de l’alumnat, especialment en la comprensió de l’estructura de les llengües i en l’enriquiment del vocabulari.
+
+Així mateix, afavoreixen la comprensió de les arrels culturals i lingüístiques de les llengües romàniques i contribueixen a una formació humanística integral.
+
+4. ORGANITZACIÓ I GESTIÓ
+
+	La llengua pròpia del centre és el català, que s’utilitza com a llengua habitual en les comunicacions internes i externes, així com en la documentació i en les activitats educatives.
+
+El Projecte Lingüístic de Centre (PLC) és el document de referència que regula el tractament de les llengües al centre. El Claustre de professorat participa en la seva elaboració, revisió i aprovació, i es compromet a la seva aplicació i seguiment a través dels diferents òrgans de coordinació del centre, com ara la comissió pedagògica, els departaments didàctics i els equips docents.
+
+Ús no sexista del llenguatge
+
+El centre promou l’ús d’un llenguatge inclusiu i no sexista com a element clau per fomentar la igualtat i la no discriminació. Tot i que existeixen iniciatives individuals en aquesta línia, es considera necessari avançar cap a l’establiment de criteris comuns i compartits a nivell de centre que orientin l’ús del llenguatge en tots els àmbits.
+
+Mediació lingüística
+
+El centre disposa de recursos de mediació lingüística per facilitar la comunicació amb l’alumnat i les famílies, especialment en el cas de l’alumnat nouvingut. En determinades situacions, s’utilitzen estratègies de traducció i mediació per garantir la comprensió de la informació rellevant.
+
+En aquest sentit, es promou un ús progressiu del català com a llengua de referència, tot respectant les necessitats inicials de comprensió i facilitant la integració lingüística i social de l’alumnat.
+
+Pla de formació del centre en aspectes lingüístics
+
+El centre incorpora la competència lingüística com a eix transversal en la formació del professorat. En aquest sentit, es promou la participació en activitats formatives relacionades amb l’ensenyament i l’aprenentatge de les llengües.
+
+L’aplicació del PLC implica la planificació de formació específica orientada a millorar la pràctica docent en l’àmbit lingüístic, d’acord amb les necessitats detectades i els objectius de centre.
+
+Coordinació del professorat
+
+La coordinació en l’àmbit lingüístic es desenvolupa puntualment en el si dels departaments de llengües, amb l’objectiu d’establir criteris comuns d’avaluació, fer el seguiment dels continguts i analitzar els resultats d’aprenentatge.
+
+No obstant això, es detecta la necessitat de reforçar la coordinació entre totes les àrees per tal d’integrar el treball de la competència lingüística de manera transversal. En aquest sentit, el PLC ha de facilitar l’establiment de criteris compartits i mecanismes de seguiment que garanteixin una actuació coherent a nivell de centre.
+
+________________
+
+
+
+
+
+Projecció del centre
+
+La projecció externa del centre (pàgina web, publicacions, exposicions i altres activitats) es realitza majoritàriament en llengua catalana, en coherència amb el seu caràcter de llengua vehicular i institucional.
+
+Intercanvis
+
+El centre preveu potenciar la participació en activitats d’intercanvi amb altres centres educatius, especialment en el marc de l’aprenentatge de llengües estrangeres, amb l’objectiu d’afavorir l’ús real de les llengües i el coneixement d’altres contextos culturals.
+
+Dimensió internacional del centre educatiu
+
+El centre desenvolupa iniciatives amb projecció internacional que contribueixen a la formació integral de l’alumnat i a la seva obertura a altres realitats culturals i lingüístiques.
+
+Entre aquestes iniciatives destaca la participació en activitats de caràcter educatiu, en contextos internacionals a cicles, que permeten a l’alumnat establir vincles amb altres cultures i desenvolupar competències comunicatives també en un entorn laboral en diferents llengües.
+
+Així mateix, es preveu ampliar aquesta dimensió mitjançant la participació en programes i projectes internacionals, així com en activitats d’intercanvi, especialment en l’àmbit europeu.
+
+4.1. Biblioteca escolar
+
+	La biblioteca del centre és un recurs educatiu que contribueix al desenvolupament de la competència lectora i informacional de l’alumnat. El curs 25-26, el centre ha reprès  l’hora de lectura setmanal a 1r i 2n d’ESO (en castellà) i a 3r d’ESO (en català) en grups partits. Es fa una hora de lectura individual en castellà i de lectura guiada en català per poder treballar el lèxic. 
+
+La biblioteca, després d’un procés d'organització i escrutini dels llibres existents, s’ha obert el curs 25-26. S’obre en horari del primer pati com a espai de consulta, lectura, estudi i préstec. En aquest sentit, s’està creant un nou fons de lectura lúdica juvenil atenent als gustos actuals (especialment en novel·la i còmic/manga). A més, s’estan actualitzant els exemplars de les lectures obligatòries de l’ESO i del Batxillerat i s'està establint un llistat de llibres de referència i de lectura dels diversos  àmbits curriculars per poder ampliar el fons i així facilitar l’accés de l’alumnat als materials curriculars.
+
+Tot i això, la generalització de l’ús de dispositius digitals i l’accés a Internet han modificat els hàbits de cerca d’informació, reduint el paper tradicional de la biblioteca com a espai de consulta. En aquest nou context, es fa un esforç per reforçar el seu paper com a espai de suport a la competència informacional.
+
+En aquest sentit, el centre identifica la necessitat d’establir criteris comuns per al desenvolupament de la competència informacional de l’alumnat, especialment pel que fa a la selecció, anàlisi i ús crític de la informació. Aquesta línia de treball es desenvoluparà de manera coordinada en el marc dels departaments didàctics, la comissió pedagògica i el claustre.
+
+Així mateix, es preveu continuar desenvolupant actuacions de dinamització lectora i millora de l’ús de la biblioteca, en coherència amb els objectius del Projecte Lingüístic de Centre i del sistema de gestió de la qualitat.
+
+
+
+
+
+4.2. Pla de lectura
+
+	
+
+
+
+Actualment, el centre no disposa d’un pla lector global, tot i que existeix coordinació entre el professorat de llengües en relació amb el foment de la lectura. En aquest context, es considera necessari dissenyar i implementar un Pla de Lectura de Centre (PLEC) que integri els recursos disponibles —tant de la biblioteca com digitals— i que contribueixi al desenvolupament de la competència lectora de l’alumnat.
+
+El concepte de lectura s’entén en un sentit ampli, que inclou no només la comprensió de textos literaris, sinó també la capacitat de cercar, seleccionar i interpretar informació de manera crítica, en el marc de la competència informacional.
+
+D’altra banda, es detecta la necessitat de reforçar la comprensió lectora de l’alumnat, especialment a l’ESO. En aquest sentit, més enllà del Projecte Lector (1 hora setmanal) es preveu establir espais i temps específics dedicats a la lectura en els diferents nivells educatius.
+
+________________
+
+
+
+
+
+Desenvolupament del Pla de Lectura de Centre (PLEC)
+
+El disseny i la implementació del PLEC es basaran en un procés estructurat en diferents fases:
+
+Fase 1. Diagnosi i sensibilització
+
+* Avaluació del nivell lector i lingüístic de l’alumnat mitjançant dades internes i proves diagnòstiques.
+
+* Anàlisi dels usos de la biblioteca i del context sociolingüístic del centre.
+
+* Identificació de bones pràctiques lectores existents.
+
+* Sensibilització i formació del professorat per promoure una visió compartida del projecte.
+
+Fase 2. Disseny i planificació
+
+* Definició d’objectius, estratègies i accions orientades a fomentar l’hàbit lector, tenint en compte tres eixos: aprendre a llegir, llegir per aprendre i gust per la lectura.
+
+* Planificació d’itineraris lectors adaptats a cada etapa educativa, combinant lectures guiades i autònomes.
+
+* Integració dels objectius amb les línies pedagògiques del centre, incloent la competència digital i l’oralitat.
+
+Fase 3. Implementació i dinamització
+
+* Desenvolupament d’activitats de dinamització lectora en diferents àmbits i matèries.
+
+* Integració del pla lector en el currículum de manera transversal.
+
+* Implicació de la comunitat educativa i col·laboració amb entitats de l’entorn.
+
+* Difusió de les activitats i resultats a través dels canals del centre.
+
+Fase 4. Avaluació i seguiment
+
+* Definició d’indicadors per mesurar el grau d’assoliment dels objectius.
+
+* Seguiment anual dels resultats i revisió del pla en funció de les evidències recollides.
+
+* Incorporació de propostes de millora en la Programació General Anual (PGA).
+
+Aquest plantejament permetrà dotar el centre d’una estratègia coherent i sistemàtica per al foment de la lectura, en alineació amb el Projecte Lingüístic de Centre i amb els principis de millora contínua del sistema de gestió de la qualitat.
+
+
+
+
+
+5. PROPOSTES PER DINAMITZAR L’ÚS DE LES LLENGÜES
+
+	
+
+
+
+Amb l’objectiu de fomentar l’ús de les llengües, especialment del català com a llengua vehicular i de cohesió, el centre estableix un conjunt d’actuacions a curt i llarg termini que es concretaran i es revisaran anualment en el marc de la Programació General Anual (PGA).
+
+Propostes a curt termini
+
+* Impulsar el treball de la comprensió lectora i de l’expressió oral i escrita en totes les àrees curriculars, des d’un enfocament transversal.
+
+* Fomentar l’ús del català per part del professorat en tots els contextos de comunicació amb l’alumnat, inclosos els espais informals.
+
+* Ampliar el fons bibliogràfic amb materials en diferents llengües per afavorir una biblioteca multilingüe. (Aquesta proposta ja està en marxa.)
+
+* Millorar i dinamitzar els espais de biblioteca com a entorns d’aprenentatge i foment de la lectura. (Aquesta proposta ja està en marxa.)
+
+* Oferir activitats de reforç de la competència oral en català, també en horari extraescolar.
+
+* Dotar les aules de recursos lingüístics de suport (diccionaris, materials de consulta, etc.).
+
+* Desenvolupar materials visuals de suport a l’aprenentatge lingüístic (mapes lingüístics, recursos gràfics, etc.).
+
+* Implementar programes de dinamització lingüística, com ara les parelles lingüístiques.
+
+Propostes a llarg termini
+
+* Promoure intercanvis amb centres educatius de contextos sociolingüístics diversos, especialment de predominança catalanoparlant.
+
+* Participar en programes europeus i internacionals (com Erasmus+ o programes equivalents) que fomentin el plurilingüisme.
+
+* Impulsar projectes comunicatius de centre, com ara la creació d’una ràdio escolar, que afavoreixin l’ús real de les llengües en contextos significatius. 
+
+
+
+
+
+6. MARC NORMATIU
+
+	En el desenvolupament del Projecte Lingüístic de Centre es tenen en compte les disposicions del Decret 143/2007, de 26 de juny, pel qual s’estableix l’ordenació dels ensenyaments de l’educació secundària obligatòria, així com la normativa vigent en matèria de política lingüística educativa.
+
+D’acord amb aquest marc normatiu:
+
+* El català, com a llengua pròpia de Catalunya, és la llengua vehicular i d’aprenentatge del centre i s’utilitza de manera generalitzada en les activitats educatives, en la comunicació interna i externa i en la documentació del centre.
+
+* El projecte educatiu plurilingüe té com a objectiu garantir que tot l’alumnat assoleixi una competència comunicativa sòlida en finalitzar l’educació obligatòria, tant en les llengües oficials (català i castellà) com en les llengües estrangeres.
+
+* El tractament de les llengües es desenvolupa tenint en compte el context sociolingüístic del centre, amb l’objectiu de garantir l’equitat en l’aprenentatge i el domini de les llengües per part de tot l’alumnat, independentment de la seva llengua d’origen.
+
+* El Projecte Lingüístic de Centre estableix pautes d’ús de la llengua catalana per a tota la comunitat educativa i promou l’ús d’un llenguatge inclusiu i no sexista. Així mateix, preveu mesures de suport i mediació lingüística en el procés d’acollida de l’alumnat i de les famílies.
+
+* El centre garanteix una acollida personalitzada de l’alumnat nouvingut i estableix criteris per facilitar l’aprenentatge progressiu de les llengües oficials, mitjançant programes específics d’immersió lingüística en català.
+
+* D’acord amb el Projecte Lingüístic, es poden incorporar continguts d’àrees no lingüístiques en llengües estrangeres, sempre garantint els principis d’equitat i no discriminació en l’accés de l’alumnat.
+
+Aquest marc normatiu orienta les actuacions del centre en matèria lingüística i garanteix la coherència del Projecte Lingüístic amb la legislació vigent i amb els principis de qualitat educativa.
+
+________________
+
+
+
+
+
+
+
+
+
+7. CONTROL DEL DOCUMENT
+
+	
+
+
+
+
+
+
+
+Dades de l’última modificació
+
+	
+
+
+
+	Realitzat per:
+
+	Revisat per:
+
+	Aprovat per:
+
+	Nom i cognom
+
+	Maria Miravalles
+
+	Agnès Bosch
+
+	María Miravalles
+
+	Càrrec
+
+	Coordinadora pedagògica
+
+	CLIC
+
+	María Miravalles
+
+	Data
+
+	26 de març de 2026
+
+	26 de març de 2026
+
+	María Miravalles
+
+	Signatura
+
+	Aquest document és vàlid sense signatura
+
+	         1. Llistat de les modificacions
+
+	Núm. Revisió
+
+	Data
+
+	Descripció de la modificació
+
+	0
+
+	
+
+
+
+	
+
+
+
+	1
+
+	
+
+
+
+	
+
+
+
+	2
+
+	
+
+
+
+	
+
+
+
+	3
+
+	
+
+
+
+	
+
+
+
+	4
+
+	
+
+
+
+	
+
+
+
+	5
+
+	
+
+
+
+	
+
+
+
+	6
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aquesta còpia pot ser obsoleta un cop impresa. Comprova que coincideix amb la versió disponible al Sistema de Gestió de Qualitat  
+
+  
+
+
+
+	CODI: 
+
+	PL 
+
+	Pàgina  de
