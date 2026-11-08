@@ -1,0 +1,12 @@
+---
+codi: 43003501
+centre: El Carme
+municipi: Tarragona
+origen: web del centre (no és el projecte lingüístic)
+fonts: https://www.elcarmetarragona.cat/plurilingueisme
+descarregat: 2026-11-06
+---
+
+## Font 1: https://www.elcarmetarragona.cat/plurilingueisme
+
+--> PLURILINGÜISME. Col.legi El Carme. Tarragona top of page ​ PLURILIGÜISME ​ Educació Infantil ​ Enfocament constructivista de la lecto-escriptura. El centre considera prioritari l’aprenentatge de la lectura i l’escriptura en llengua catalana, atès que és aquesta la que s’utilitzarà (atenent la normativa vigent) normalment com a llengua vehicular i d’aprenentatge. Introducció de la llengua anglesa a nivell oral. ​ Educació Primària ​ El centre vetllarà perquè en acabar l’educació primària l’alumnat conegui i utilitzi correctament i apropiadament la llengua catalana, tant oralment com per escrit, emprant-la normalment com a llengua vehicular i d’aprenentatge. El centre vetllarà perquè a l’ensenyament primari l’alumnat conegui la llengua castellana a nivell oral i escrit de manera que pugui utilitzar-la apropiadament com a font d’informació i vehicle d’expressió. L’alumnat iniciarà l’aprenentatge de la primera llengua estrangera (anglès) en el primer curs de cicle inicial. Utilització de la llengua anglesa a l’àrea de coneixement del medi, des de 1r fins a 6è d’EP. Utilització de la llengua anglesa a l’àrea de plàstica, a 5è i 6è d’EP. ​ ​ Educació Secundària Obligatòr ia ​ El centre vetllarà perquè, en acabar l’ensenyament secundari obligatori, l’alumnat comprengui i produeixi missatges orals i escrits amb propietat, autonomia i creativitat, en llengua catalana, castellana i anglesa. L’alumnat disposarà de la possibilitat de cursar llengua alemanya com a matèria optativa. Utilització de la llengua anglesa a l’àrea de ciències naturals, des de 1r fins a 4t d’ESO. Utilització de la llengua anglesa a l’àrea de ciències socials, des de 3r fins a 4t d’ESO. Utilització de la llengua anglesa a l’àrea d’informàtica, Computer Technology, des de 1r fins a 3r d’ESO i UK Today a 4t d’ESO. Som un centre GEP: Grup Experimental per al Plurilingüisme. Increment del temps d’exposició de l’alumnat a la llengua estrangera. Utilització de la llengua anglesa en àrees no lingüístiques a Primària i a Secundària. Diversificar estratègies de gestió del coneixement en llengua estrangera. Incrementar i diversificar les estratègies de recerca, recepció de continguts, i d’accés a la informació curricular bàsica, en llengua estrangera. bottom of page
